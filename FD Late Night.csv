@@ -1,90 +1,135 @@
-first_name,last_name,position,injury_status,game_date,slate,team,opp,confirmed_order,starting_pitcher,spread,over_under,implied_team_score,salary,L5_ppg_floor,L5_ppg_avg,L5_ppg_max,ppg_projection,value_projection,ppg_actual,value_actual
-José,Berríos,P,,2020-09-02,Late Night,MIN,CWS,,,-1.5,9.5,5.2,8800,15.3,28.6,55.0,30.8,3.50
-Cristian,Javier,P,,2020-09-02,Late Night,HOU,TEX,,,-1.5,9,5.2,7600,9.0,25.2,43.0,30.1,3.95
-Triston,McKenzie,P,,2020-09-02,Late Night,CLE,KC,,,-1.5,9,5,8000,15.0,35.0,55.0,27.7,3.46
-Jakob,Junis,P,,2020-09-02,Late Night,KC,CLE,,,+1.5,9,4,6400,-2.4,13.0,21.6,20.8,3.25
-Reynaldo,López,P,,2020-09-02,Late Night,CWS,MIN,,,+1.5,9.5,4.3,6500,-11.4,17.2,58.0,18.1,2.78
-Kolby,Allard,P,,2020-09-02,Late Night,TEX,HOU,,,+1.5,9,3.8,6300,-8.4,14.0,33.0,14.8,2.36
-José,Ramírez,3B,,2020-09-02,Late Night,CLE,KC,,,-1.5,9,5,3900,3.0,13.7,27.6,12.9,3.31
-George,Springer,OF,,2020-09-02,Late Night,HOU,TEX,,,-1.5,9,5.2,3500,0.0,4.2,9.0,12.8,3.65
-Nelson,Cruz,OF,,2020-09-02,Late Night,MIN,CWS,,,-1.5,9.5,5.2,4000,0.0,8.0,21.2,11.9,2.97
-Francisco,Lindor,SS,,2020-09-02,Late Night,CLE,KC,,,-1.5,9,5,3300,3.0,12.4,27.6,11.8,3.58
-Jose,Altuve,2B,,2020-09-02,Late Night,HOU,TEX,,,-1.5,9,5.2,3200,0.0,4.3,15.4,11.8,3.69
-Max,Kepler,OF,,2020-09-02,Late Night,MIN,CWS,,,-1.5,9.5,5.2,3000,0.0,5.1,9.7,11.7,3.91
-Carlos,Correa,SS,,2020-09-02,Late Night,HOU,TEX,,,-1.5,9,5.2,3000,0.0,9.0,22.7,11.6,3.85
-Eddie,Rosario,OF,,2020-09-02,Late Night,MIN,CWS,,,-1.5,9.5,5.2,2900,0.0,3.0,6.2,11.4,3.91
-Franmil,Reyes,OF,,2020-09-02,Late Night,CLE,KC,,,-1.5,9,5,3000,3.0,21.9,42.1,11.0,3.66
-Eloy,Jiménez,OF,,2020-09-02,Late Night,CWS,MIN,,,+1.5,9.5,4.3,3700,0.0,9.5,22.4,11.0,2.96
-Carlos,Santana,1B,,2020-09-02,Late Night,CLE,KC,,,-1.5,9,5,3000,0.0,9.4,34.8,10.8,3.60
-Kyle,Tucker,OF,,2020-09-02,Late Night,HOU,TEX,,,-1.5,9,5.2,3600,3.0,17.2,28.2,10.7,2.97
-Miguel,Sanó,1B,,2020-09-02,Late Night,MIN,CWS,,,-1.5,9.5,5.2,3300,0.0,7.5,22.1,10.7,3.23
-Edwin,Encarnación,1B,,2020-09-02,Late Night,CWS,MIN,,,+1.5,9.5,4.3,2800,0.0,10.1,21.9,10.3,3.67
-Jorge,Polanco,SS,,2020-09-02,Late Night,MIN,CWS,,,-1.5,9.5,5.2,2700,0.0,6.3,12.7,10.3,3.81
-Luis,Robert,OF,,2020-09-02,Late Night,CWS,MIN,,,+1.5,9.5,4.3,3600,0.0,14.6,28.4,10.2,2.83
-Joey,Gallo,OF,,2020-09-02,Late Night,TEX,HOU,,,+1.5,9,3.8,3300,3.0,4.8,9.0,10.1,3.05
-Nick,Solak,OF,,2020-09-02,Late Night,TEX,HOU,,,+1.5,9,3.8,2700,3.0,8.7,19.0,9.9,3.67
-Shin-Soo,Choo,OF,,2020-09-02,Late Night,TEX,HOU,,,+1.5,9,3.8,2700,3.5,12.5,25.4,9.8,3.63
-Adalberto,Mondesi,SS,,2020-09-02,Late Night,KC,CLE,,,+1.5,9,4,2500,0.0,3.0,12.2,9.5,3.81
-Byron,Buxton,OF,,2020-09-02,Late Night,MIN,CWS,,,-1.5,9.5,5.2,2500,0.0,3.8,9.5,9.4,3.77
-Michael,Brantley,OF,,2020-09-02,Late Night,HOU,TEX,,,-1.5,9,5.2,2900,0.0,13.9,27.9,9.4,3.25
-Tim,Anderson,SS,,2020-09-02,Late Night,CWS,MIN,,,+1.5,9.5,4.3,3600,0.0,10.4,30.7,9.3,2.59
-José,Abreu,1B,,2020-09-02,Late Night,CWS,MIN,,,+1.5,9.5,4.3,3600,3.0,9.3,19.0,9.3,2.58
-James,McCann,C,,2020-09-02,Late Night,CWS,MIN,,,+1.5,9.5,4.3,2700,6.0,14.3,21.4,9.2,3.42
-Luis,Arraez,2B,,2020-09-02,Late Night,MIN,CWS,,,-1.5,9.5,5.2,2100,0.0,5.6,12.5,9.1,4.35
-Josh,Reddick,OF,,2020-09-02,Late Night,HOU,TEX,,,-1.5,9,5.2,2400,0.0,10.1,19.2,8.9,3.71
-Josh,Naylor,OF,,2020-09-02,Late Night,CLE,KC,,,-1.5,9,5,2300,0.0,6.4,15.9,8.8,3.81
-Jorge,Soler,OF,,2020-09-02,Late Night,KC,CLE,,,+1.5,9,4,3000,3.0,10.6,19.2,8.8,2.93
-Hunter,Dozier,OF,,2020-09-02,Late Night,KC,CLE,,,+1.5,9,4,3000,0.0,13.0,30.9,8.7,2.90
-Maikel,Franco,3B,,2020-09-02,Late Night,KC,CLE,,,+1.5,9,4,2700,6.0,11.8,18.0,8.7,3.23
-Whit,Merrifield,OF,,2020-09-02,Late Night,KC,CLE,,,+1.5,9,4,3400,0.0,8.2,25.2,8.5,2.50
-Yuli,Gurriel,1B,,2020-09-02,Late Night,HOU,TEX,,,-1.5,9,5.2,2900,0.0,7.4,15.4,8.4,2.90
-Nomar,Mazara,OF,,2020-09-02,Late Night,CWS,MIN,,,+1.5,9.5,4.3,2100,0.0,5.7,16.2,8.3,3.93
-Elvis,Andrus,SS,,2020-09-02,Late Night,TEX,HOU,,,+1.5,9,3.8,2400,0.0,6.2,12.2,8.3,3.44
-Ryan,O'Hearn,1B,,2020-09-02,Late Night,KC,CLE,,,+1.5,9,4,2400,0.0,7.6,22.4,8.3,3.47
-Alex,Gordon,OF,,2020-09-02,Late Night,KC,CLE,,,+1.5,9,4,2300,0.0,7.3,18.7,8.3,3.59
-Yasmani,Grandal,C,,2020-09-02,Late Night,CWS,MIN,,,+1.5,9.5,4.3,2800,0.0,6.8,12.7,8.2,2.92
-Aledmys,Díaz,3B,,2020-09-02,Late Night,HOU,TEX,,,-1.5,9,5.2,2000,0.0,1.8,6.2,8.2,4.10
-Martín,Maldonado,C,,2020-09-02,Late Night,HOU,TEX,,,-1.5,9,5.2,2600,0.0,4.2,12.2,8.0,3.08
-Ronald,Guzmán,1B,,2020-09-02,Late Night,TEX,HOU,,,+1.5,9,3.8,2300,0.0,11.8,31.1,7.9,3.45
-Derek,Dietrich,2B,,2020-09-02,Late Night,TEX,HOU,,,+1.5,9,3.8,2600,0.0,3.1,9.7,7.8,3.00
-Delino,DeShields,OF,,2020-09-02,Late Night,CLE,KC,,,-1.5,9,5,2300,0.0,6.7,18.5,7.6,3.31
-Roberto,Pérez,C,,2020-09-02,Late Night,CLE,KC,,,-1.5,9,5,2100,0.0,8.2,25.7,7.6,3.62
-Alex,Avila,C,,2020-09-02,Late Night,MIN,CWS,,,-1.5,9.5,5.2,2200,0.0,0.6,3.0,7.5,3.40
-Myles,Straw,OF,,2020-09-02,Late Night,HOU,TEX,,,-1.5,9,5.2,2000,0.0,11.8,24.5,7.3,3.64
-Luís,García,P,,2020-09-02,Late Night,TEX,PHI,,,-1.5,8.5,4.4,5500,0.0,2.4,9.0,7.1,1.29
-Nicky,Lopez,2B,,2020-09-02,Late Night,KC,CLE,,,+1.5,9,4,2100,3.0,3.6,6.0,7.0,3.33
-Tyler,Naquin,OF,,2020-09-02,Late Night,CLE,KC,,,-1.5,9,5,2700,0.0,9.1,16.2,6.6,2.43
-Josh,Donaldson,3B,,2020-09-02,Late Night,MIN,CWS,,,-1.5,9.5,5.2,2600,0.0,7.0,16.2,6.5,2.50
-Nick,Madrigal,2B,,2020-09-02,Late Night,CWS,MIN,,,+1.5,9.5,4.3,2500,3.0,9.3,18.5,6.4,2.57
-Leody,Taveras,OF,,2020-09-02,Late Night,TEX,HOU,,,+1.5,9,3.8,2100,0.0,8.7,15.2,6.3,2.98
-Sandy,León,C,,2020-09-02,Late Night,CLE,KC,,,-1.5,9,5,2100,3.0,9.2,15.7,6.3,2.98
-Jake,Cave,OF,,2020-09-02,Late Night,MIN,CWS,,,-1.5,9.5,5.2,2100,0.0,6.8,15.2,6.2,2.96
-Isiah,Kiner-Falefa,3B,,2020-09-02,Late Night,TEX,HOU,,,+1.5,9,3.8,2500,0.0,8.6,15.4,5.9,2.35
-Cam,Gallagher,C,,2020-09-02,Late Night,KC,CLE,,,+1.5,9,4,2100,0.0,7.5,13.2,5.9,2.79
-Jose,Trevino,C,,2020-09-02,Late Night,TEX,HOU,,,+1.5,9,3.8,2400,3.0,7.3,21.2,5.6,2.31
-Marwin,Gonzalez,3B,,2020-09-02,Late Night,MIN,CWS,,,-1.5,9.5,5.2,2600,3.0,3.7,6.2,5.5,2.13
-Danny,Mendick,2B,,2020-09-02,Late Night,CWS,MIN,,,+1.5,9.5,4.3,2300,0.0,6.3,16.2,5.3,2.31
-Taylor,Jones,1B,,2020-09-02,Late Night,HOU,TEX,,,-1.5,9,5.2,2200,0.0,5.6,12.2,5.2,2.35
-Ehire,Adrianza,3B,,2020-09-02,Late Night,MIN,CWS,,,-1.5,9.5,5.2,2000,0.0,4.2,12.2,4.9,2.43
-Jeff,Mathis,C,,2020-09-02,Late Night,TEX,HOU,,,+1.5,9,3.8,2000,0.0,3.8,9.7,4.9,2.46
-Abraham,Toro,3B,,2020-09-02,Late Night,HOU,TEX,,,-1.5,9,5.2,2200,0.0,3.8,9.7,4.6,2.11
-Jack,Mayfield,SS,,2020-09-02,Late Night,HOU,TEX,,,-1.5,9,5.2,2000,0.0,3.2,10.0,4.5,2.23
-Anderson,Tejeda,SS,,2020-09-02,Late Night,TEX,HOU,,,+1.5,9,3.8,2000,0.0,8.6,25.7,4.5,2.23
-Ildemaro,Vargas,2B,,2020-09-02,Late Night,MIN,CWS,,,-1.5,9.5,5.2,2000,0.0,1.8,6.0,4.4,2.22
-Jarrod,Dyson,OF,,2020-09-02,Late Night,CWS,MIN,,,+1.5,9.5,4.3,2000,0.0,5.0,18.5,4.3,2.16
-Austin,Hedges,C,,2020-09-02,Late Night,CLE,KC,,,-1.5,9,5,2300,0.0,4.4,9.7,4.3,1.85
-Dustin,Garneau,C,,2020-09-02,Late Night,HOU,TEX,,,-1.5,9,5.2,2000,0.0,4.4,15.9,4.2,2.12
-Jordan,Luplow,OF,,2020-09-02,Late Night,CLE,KC,,,-1.5,9,5,2200,0.0,3.1,6.5,4.1,1.85
-Adam,Engel,OF,,2020-09-02,Late Night,CWS,MIN,,,+1.5,9.5,4.3,2200,0.0,3.9,13.0,4.0,1.83
-Ryan,Jeffers,C,,2020-09-02,Late Night,MIN,CWS,,,-1.5,9.5,5.2,2100,0.0,2.4,6.0,3.9,1.86
-Mike,Freeman,2B,,2020-09-02,Late Night,CLE,KC,,,-1.5,9,5,2000,0.0,3.1,6.2,3.9,1.94
-Bubba,Starling,OF,,2020-09-02,Late Night,KC,CLE,,,+1.5,9,4,2000,0.0,2.5,6.5,3.7,1.84
-Ryan,McBroom,1B,,2020-09-02,Late Night,KC,CLE,,,+1.5,9,4,2400,0.0,2.5,9.7,3.6,1.50
-Oscar,Mercado,OF,,2020-09-02,Late Night,CLE,KC,,,-1.5,9,5,2100,0.0,2.4,6.2,3.4,1.64
-Scott,Heineman,OF,,2020-09-02,Late Night,TEX,HOU,,,+1.5,9,3.8,2000,0.0,1.9,6.2,3.3,1.67
-Yadiel,Rivera,1B,,2020-09-02,Late Night,TEX,HOU,,,+1.5,9,3.8,2000,0.0,1.2,6.0,3.1,1.55
-Garrett,Stubbs,C,,2020-09-02,Late Night,HOU,TEX,,,-1.5,9,5.2,2000,0.0,0.0,0.0,2.9,1.44
-Meibrys,Viloria,C,,2020-09-02,Late Night,KC,CLE,,,+1.5,9,4,2000,0.0,0.6,3.0,2.8,1.39
-Eli,White,2B,,2020-09-02,Late Night,TEX,HOU,,,+1.5,9,3.8,2000,0.0,0.0,0.0,2.1,1.06
-Willians,Astudillo,C,O,2020-09-02,Late Night,MIN,CWS,,,-1.5,9.5,5.2,2000,0.0,13.4,31.8,0.0,0.00
-Nick,Dini,C,O,2020-09-02,Late Night,KC,CLE,,,+1.5,9,4,2000,0.0,5.1,13.2,0.0,0.00
+﻿PLAYER,POS,TEAM,OPP,START,SAL,FPTS,VAL,FPTS L5,VAL L5,FPTS AVG,VAL AVG,WEATHER
+Cristian Javier,P,HOU,TEX,Yes,7600,34.6,4.6,25.8,3.4,24.7,3.3,In Dome
+Jose Berrios,P,MIN,CWS,Yes,8800,31.2,3.5,32.2,3.7,26.9,3.1,W 8 R-L
+Jakob Junis,P,KC,CLE,Yes,6400,24.3,3.8,12.5,2.0,12.5,2.0,W 4 R-L
+Triston McKenzie,P,CLE,@KC,Yes,8000,23.7,3.0,35.0,4.4,35.0,4.4,W 4 R-L
+Reynaldo Lopez,P,CWS,@MIN,Yes,6500,21.7,3.3,8.0,1.2,8.0,1.2,W 8 R-L
+Kolby Allard,P,TEX,@HOU,Yes,6300,18.4,2.9,14.4,2.3,14.4,2.3,In Dome
+Kyle Tucker,OF,HOU,TEX,4,3600,16.4,4.6,15.8,4.4,13.5,3.8,In Dome
+George Springer,OF,HOU,TEX,1,3500,14.0,4.0,9.3,2.7,10.1,2.9,In Dome
+Jose Ramirez,3B,CLE,@KC,2,3900,13.7,3.5,16.7,4.3,13.5,3.5,W 4 R-L
+Nelson Cruz,OF,MIN,CWS,3,4000,13.1,3.3,13.5,3.4,13.9,3.5,W 8 R-L
+Franmil Reyes,OF,CLE,@KC,5,3000,12.8,4.3,22.5,7.5,11.2,3.8,W 4 R-L
+Hunter Dozier,OF,KC,CLE,2,3000,12.3,4.1,14.2,4.8,12.1,4.0,W 4 R-L
+Jose Altuve,2B,HOU,TEX,2,3200,12.1,3.8,7.4,2.3,9.0,2.8,In Dome
+Jorge Soler,OF,KC,CLE,3,3000,12.0,4.0,11.8,3.9,10.4,3.5,W 4 R-L
+Francisco Lindor,SS,CLE,@KC,3,3300,12.0,3.7,13.6,4.1,9.8,3.0,W 4 R-L
+Whit Merrifield,OF,KC,CLE,1,3400,12.0,3.5,11.8,3.5,12.1,3.6,W 4 R-L
+Carlos Correa,SS,HOU,TEX,3,3000,12.0,4.0,4.9,1.7,9.0,3.0,In Dome
+Miguel Sano,C1,MIN,CWS,7,3300,11.9,3.6,7.4,2.3,10.4,3.1,W 8 R-L
+Michael Brantley,OF,HOU,TEX,6,2900,11.5,4.0,15.7,5.4,11.6,4.0,In Dome
+Eloy Jimenez,OF,CWS,@MIN,5,3700,11.4,3.1,10.7,2.9,12.1,3.3,W 8 R-L
+Max Kepler,OF,MIN,CWS,1,3000,11.2,3.8,5.0,1.7,10.3,3.4,W 8 R-L
+Luis Robert,OF,CWS,@MIN,7,3600,11.2,3.1,19.4,5.4,12.3,3.4,W 8 R-L
+Yuli Gurriel,C1,HOU,TEX,5,2900,10.9,3.8,8.8,3.0,10.4,3.6,In Dome
+Yoan Moncada,3B,CWS,@MIN,2,3400,10.8,3.2,9.3,2.7,10.1,3.0,W 8 R-L
+Eddie Rosario,OF,MIN,CWS,4,2900,10.8,3.7,4.3,1.5,10.3,3.5,W 8 R-L
+Carlos Santana,C1,CLE,@KC,4,3000,10.8,3.6,11.2,3.8,9.5,3.2,W 4 R-L
+Edwin Encarnacion,C1,CWS,@MIN,6,2800,10.8,3.9,13.1,4.7,8.2,2.9,W 8 R-L
+Ryan O'Hearn,C1,KC,CLE,4,2400,10.6,4.4,9.4,3.9,7.3,3.1,W 4 R-L
+Byron Buxton,OF,MIN,CWS,9,2500,10.4,4.2,3.8,1.5,8.4,3.4,W 8 R-L
+Jorge Polanco,SS,MIN,CWS,2,2700,10.4,3.9,7.5,2.8,8.0,3.0,W 8 R-L
+Shin-Soo Choo,OF,TEX,@HOU,1,2700,10.3,3.8,11.9,4.4,9.1,3.4,In Dome
+Jose Abreu,C1,CWS,@MIN,4,3600,10.0,2.8,8.1,2.2,13.5,3.7,W 8 R-L
+Aledmys Diaz,3B,HOU,TEX,8,2000,9.8,4.9,3.1,1.6,3.1,1.6,In Dome
+Adalberto Mondesi,SS,KC,CLE,7,2500,9.8,3.9,3.0,1.2,5.6,2.2,W 4 R-L
+Tim Anderson,SS,CWS,@MIN,1,3600,9.7,2.7,9.2,2.6,13.4,3.7,W 8 R-L
+Maikel Franco,3B,KC,CLE,5,2700,9.6,3.6,11.8,4.4,9.3,3.4,W 4 R-L
+Cesar Hernandez,2B,CLE,@KC,1,2800,9.5,3.4,5.4,1.9,9.1,3.3,W 4 R-L
+Joey Gallo,OF,TEX,@HOU,3,3300,9.4,2.8,4.8,1.5,10.1,3.1,In Dome
+Josh Naylor,OF,CLE,@KC,7,2300,9.3,4.0,7.6,3.3,5.0,2.2,W 4 R-L
+Alex Gordon,OF,KC,CLE,6,2300,9.2,4.0,9.1,4.0,6.3,2.7,W 4 R-L
+Josh Reddick,OF,HOU,TEX,7,2400,9.2,3.8,7.6,3.2,8.1,3.4,In Dome
+Luis Arraez,2B,MIN,CWS,6,2100,9.1,4.3,5.0,2.4,6.1,2.9,W 8 R-L
+Nomar Mazara,OF,CWS,@MIN,8,2100,9.0,4.3,5.7,2.7,5.8,2.8,W 8 R-L
+Yasmani Grandal,C1,CWS,@MIN,3,2800,9.0,3.2,8.6,3.1,9.0,3.2,W 8 R-L
+Cam Gallagher,C1,KC,CLE,9,2100,8.7,4.1,8.1,3.9,5.8,2.7,W 4 R-L
+Alex Avila,C1,MIN,CWS,8,2200,8.6,3.9,0.6,0.3,5.0,2.3,W 8 R-L
+Jordan Luplow,OF,CLE,@KC,6,2200,8.5,3.9,3.1,1.4,4.7,2.2,W 4 R-L
+Ronald Guzman,C1,TEX,@HOU,7,2300,8.4,3.6,12.4,5.4,12.4,5.4,In Dome
+Nick Solak,OF,TEX,@HOU,2,2700,8.3,3.1,7.5,2.8,8.8,3.3,In Dome
+Martin Maldonado,C1,HOU,TEX,9,2600,8.2,3.2,8.0,3.1,9.1,3.5,In Dome
+Marwin Gonzalez,3B,MIN,CWS,5,2600,8.2,3.1,3.8,1.5,6.8,2.6,W 8 R-L
+Elvis Andrus,SS,TEX,@HOU,6,2400,8.0,3.4,7.4,3.1,6.6,2.7,In Dome
+Roberto Perez,C1,CLE,@KC,8,2100,8.0,3.8,9.4,4.5,5.2,2.5,W 4 R-L
+Isiah Kiner-Falefa,3B,TEX,@HOU,4,2500,7.7,3.1,8.6,3.4,7.9,3.2,In Dome
+Derek Dietrich,2B,TEX,@HOU,5,2600,7.6,2.9,4.9,1.9,7.1,2.7,In Dome
+Delino DeShields,OF,CLE,@KC,9,2300,7.6,3.3,6.1,2.7,5.7,2.5,W 4 R-L
+Nick Madrigal,2B,CWS,@MIN,9,2500,7.5,3.0,9.3,3.7,7.9,3.2,W 8 R-L
+Leody Taveras,OF,TEX,@HOU,9,2100,7.0,3.3,10.5,5.0,7.7,3.7,In Dome
+Nicky Lopez,2B,KC,CLE,8,2100,6.6,3.1,3.6,1.7,5.1,2.4,W 4 R-L
+Jose Trevino,C1,TEX,@HOU,8,2400,5.4,2.3,6.1,2.6,7.6,3.2,In Dome
+Josh Donaldson,3B,MIN,CWS,,2600,3.7,1.4,8.8,3.4,7.5,2.9,W 8 R-L
+Jake Cave,OF,MIN,CWS,,2100,3.4,1.6,6.2,3.0,6.0,2.9,W 8 R-L
+Ryan McBroom,C1,KC,CLE,,2400,3.2,1.3,4.3,1.8,6.3,2.6,W 4 R-L
+Tyler Naquin,OF,CLE,@KC,,2700,3.1,1.2,12.1,4.5,8.9,3.3,W 4 R-L
+Myles Straw,OF,HOU,TEX,,2000,3.0,1.5,5.7,2.9,5.7,2.8,In Dome
+Ehire Adrianza,3B,MIN,CWS,,2000,2.9,1.4,3.0,1.5,2.9,1.4,W 8 R-L
+Oscar Mercado,OF,CLE,@KC,,2100,2.8,1.4,2.4,1.2,2.5,1.2,W 4 R-L
+Bubba Starling,OF,KC,CLE,,2000,2.8,1.4,2.5,1.3,2.4,1.2,W 4 R-L
+Dustin Garneau,C1,HOU,TEX,,2000,2.8,1.4,6.2,3.1,5.9,3.0,In Dome
+Meibrys Viloria,C1,KC,CLE,,2000,2.8,1.4,0.6,0.3,2.0,1.0,W 4 R-L
+Ryan Jeffers,C1,MIN,CWS,,2100,2.8,1.3,2.4,1.1,3.1,1.5,W 8 R-L
+Taylor Jones,C1,HOU,TEX,,2200,2.8,1.3,6.8,3.1,6.7,3.1,In Dome
+LaMonte Wade,OF,MIN,CWS,,2000,2.8,1.4,3.1,1.6,2.2,1.1,W 8 R-L
+Abraham Toro,3B,HOU,TEX,,2200,2.8,1.3,5.6,2.5,6.3,2.9,In Dome
+Jack Mayfield,SS,HOU,TEX,,2000,2.8,1.4,3.2,1.6,2.8,1.4,In Dome
+Jarrod Dyson,OF,CWS,@MIN,,2000,2.8,1.4,5.0,2.5,4.3,2.2,W 8 R-L
+Garrett Stubbs,C1,HOU,TEX,,2000,2.7,1.4,0.0,0.0,0.8,0.4,In Dome
+Mike Freeman,2B,CLE,@KC,,2000,2.7,1.4,3.1,1.5,2.7,1.3,W 4 R-L
+James McCann,C1,CWS,@MIN,,2700,2.6,1.0,13.1,4.9,10.0,3.7,W 8 R-L
+Ildemaro Vargas,2B,MIN,CWS,,2000,2.6,1.3,1.8,0.9,3.4,1.7,W 8 R-L
+Austin Hedges,C1,CLE,@KC,,2300,2.5,1.1,3.1,1.4,4.4,1.9,W 4 R-L
+Danny Mendick,2B,CWS,@MIN,,2300,2.5,1.1,7.5,3.3,6.4,2.8,W 8 R-L
+Yolmer Sanchez,2B,CWS,@MIN,,2000,2.5,1.2,1.6,0.8,1.6,0.8,W 8 R-L
+Anderson Tejeda,SS,TEX,@HOU,,2000,2.4,1.2,11.6,5.8,11.6,5.8,In Dome
+Scott Heineman,OF,TEX,@HOU,,2000,2.4,1.2,1.9,0.9,4.8,2.4,In Dome
+Eli White,2B,TEX,@HOU,,2000,2.4,1.2,0.0,0.0,0.0,0.0,In Dome
+Jeff Mathis,C1,TEX,@HOU,,2000,2.4,1.2,5.6,2.8,6.7,3.4,In Dome
+Adam Engel,OF,CWS,@MIN,,2200,2.3,1.1,3.9,1.8,6.2,2.8,W 8 R-L
+Yadiel Rivera,C1,TEX,@HOU,,2000,2.2,1.1,1.5,0.8,1.5,0.8,In Dome
+Sandy Leon,C1,CLE,@KC,,2100,2.2,1.1,10.4,4.9,4.7,2.2,W 4 R-L
+Rob Refsnyder,OF,TEX,@HOU,,2000,0.0,0.0,3.1,1.5,3.1,1.5,In Dome
+Rougned Odor,2B,TEX,@HOU,,2500,0.0,0.0,0.6,0.2,5.9,2.4,In Dome
+Jake Elmore,3B,CLE,@KC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
+Salvador Perez,C1,KC,CLE,,2800,0.0,0.0,8.8,3.1,9.5,3.4,W 4 R-L
+Ryan Goins,3B,CWS,@MIN,,2000,0.0,0.0,1.2,0.6,1.1,0.6,W 8 R-L
+Humberto Arteaga,SS,KC,CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
+Nick Dini,C1,KC,CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
+Luis Gonzalez,OF,CWS,@MIN,,2000,0.0,0.0,2.1,1.0,2.1,1.0,W 8 R-L
+Edward Olivares,OF,KC,CLE,,2000,0.0,0.0,1.2,0.6,4.6,2.3,W 4 R-L
+Mitch Garver,C1,MIN,CWS,,2400,0.0,0.0,1.8,0.8,5.1,2.1,W 8 R-L
+Willie Calhoun,OF,TEX,@HOU,,2200,0.0,0.0,5.8,2.6,4.4,2.0,In Dome
+Bradley Zimmer,OF,CLE,@KC,,2100,0.0,0.0,2.4,1.1,4.8,2.3,W 4 R-L
+Nicky Delmonico,OF,CWS,@MIN,,2000,0.0,0.0,4.5,2.3,3.6,1.8,W 8 R-L
+Willians Astudillo,C1,MIN,CWS,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 R-L
+Adolis Garcia,OF,TEX,@HOU,,2000,0.0,0.0,1.0,0.5,1.0,0.5,In Dome
+Beau Taylor,C1,CLE,@KC,,2000,0.0,0.0,3.8,1.9,2.7,1.4,W 4 R-L
+Aaron Whitefield,OF,MIN,CWS,,2000,0.0,0.0,1.1,0.5,1.1,0.5,W 8 R-L
+Erick Mejia,SS,KC,CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
+Daniel Johnson,OF,CLE,@KC,,2000,0.0,0.0,0.6,0.3,1.0,0.5,W 4 R-L
+Zack Collins,C1,CWS,@MIN,,2000,0.0,0.0,2.4,1.2,1.7,0.9,W 8 R-L
+Yu Chang,3B,CLE,@KC,,2000,0.0,0.0,1.3,0.7,2.3,1.2,W 4 R-L
+Alex Bregman,3B,HOU,TEX,,3500,0.0,0.0,6.7,1.9,11.3,3.2,In Dome
+Oscar Hernandez,C1,KC,CLE,,2000,0.0,0.0,2.3,1.2,2.3,1.2,W 4 R-L
+Davis Wendzel,3B,TEX,@HOU,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Cheslor Cuthbert,C1,CWS,@MIN,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 R-L
+Domingo Santana,OF,CLE,@KC,,2400,0.0,0.0,5.8,2.4,6.3,2.6,W 4 R-L
+Yermin Mercedes,C1,CWS,@MIN,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 R-L
+Bobby Witt,SS,KC,CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
+Nick Heath,OF,KC,CLE,,2000,0.0,0.0,6.8,3.4,6.8,3.4,W 4 R-L
+Jeison Guzman,SS,KC,CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
+Yordys Valdes,SS,CLE,@KC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
+Tyler Freeman,SS,CLE,@KC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
+Jordan Brewer,OF,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Grae Kessinger,SS,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Jeremy Pena,SS,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Korey Lee,C1,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Sebastian Rivero,C1,KC,CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
+Alex De Goti,2B,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Jamie Ritchie,C1,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Danny Santana,OF,TEX,@HOU,,2700,0.0,0.0,4.2,1.6,7.6,2.8,In Dome
+Michael Papierski,C1,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Colton Shaver,C1,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Nick Tanielu,3B,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Jake Meyers,OF,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome

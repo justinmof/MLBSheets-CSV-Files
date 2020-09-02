@@ -1,54 +1,89 @@
-first_name,last_name,position,injury_status,game_date,slate,team,opp,confirmed_order,starting_pitcher,spread,over_under,implied_team_score,salary,L5_ppg_floor,L5_ppg_avg,L5_ppg_max,ppg_projection,value_projection,ppg_actual,value_actual
-Walker,Buehler,P,,2020-09-02,After Hours,LAD,ARI,,,,,,10300,12.6,25.8,58.0,34.0,3.30
-Dinelson,Lamet,P,,2020-09-02,After Hours,SD,LAA,,,-1.5,9,5.3,9300,18.6,36.0,58.6,32.6,3.50
-Zac,Gallen,P,,2020-09-02,After Hours,ARI,LAD,,,,,,10000,34.0,38.3,46.0,25.2,2.52
-Julio,Teheran,P,,2020-09-02,After Hours,LAA,SD,,,+1.5,9,3.7,5600,-6.0,5.7,12.6,19.6,3.49
-Mike,Trout,OF,,2020-09-02,After Hours,LAA,SD,,,+1.5,9,3.7,4500,0.0,17.8,51.8,13.6,3.01
-Trent,Grisham,OF,,2020-09-02,After Hours,SD,LAA,,,-1.5,9,5.3,3200,0.0,10.0,34.6,13.0,4.07
-Cody,Bellinger,OF,DTD,2020-09-02,After Hours,LAD,ARI,,,,,,4200,0.0,15.7,22.2,12.9,3.06
-Corey,Seager,SS,,2020-09-02,After Hours,LAD,ARI,,,,,,3800,9.5,16.2,21.7,12.5,3.28
-Fernando,Tatis Jr.,SS,,2020-09-02,After Hours,SD,LAA,,,-1.5,9,5.3,4700,9.2,22.4,43.1,12.5,2.67
-Manny,Machado,3B,,2020-09-02,After Hours,SD,LAA,,,-1.5,9,5.3,3800,3.5,14.1,32.6,12.0,3.16
-Mookie,Betts,OF,,2020-09-02,After Hours,LAD,ARI,,,,,,4400,6.0,13.5,27.2,11.5,2.62
-Max,Muncy,2B,,2020-09-02,After Hours,LAD,ARI,,,,,,3600,3.0,13.2,32.4,10.7,2.98
-Anthony,Rendon,3B,,2020-09-02,After Hours,LAA,SD,,,+1.5,9,3.7,3700,0.0,5.6,19.0,10.6,2.86
-Eric,Hosmer,1B,,2020-09-02,After Hours,SD,LAA,,,-1.5,9,5.3,3700,3.0,17.0,31.1,10.4,2.81
-Shohei,Ohtani,OF,,2020-09-02,After Hours,LAA,SD,,,+1.5,9,3.7,3000,3.0,16.1,31.2,10.2,3.41
-Jurickson,Profar,2B,,2020-09-02,After Hours,SD,LAA,,,-1.5,9,5.3,2700,0.0,6.3,15.7,9.9,3.68
-Jake,Cronenworth,2B,,2020-09-02,After Hours,SD,LAA,,,-1.5,9,5.3,3200,9.2,15.7,22.4,9.6,3.01
-Austin,Nola,C,,2020-09-02,After Hours,SD,LAA,,,-1.5,9,5.3,2800,3.0,8.7,18.9,9.2,3.30
-Christian,Walker,1B,,2020-09-02,After Hours,ARI,LAD,,,,,,3000,0.0,6.0,13.2,9.0,2.99
-David,Fletcher,2B,DTD,2020-09-02,After Hours,LAA,SD,,,+1.5,9,3.7,3000,0.0,11.3,22.4,8.9,2.98
-David,Peralta,OF,,2020-09-02,After Hours,ARI,LAD,,,,,,2700,0.0,2.5,6.5,8.9,3.30
-Joc,Pederson,OF,,2020-09-02,After Hours,LAD,ARI,,,,,,2700,0.0,5.0,12.7,8.8,3.25
-Justin,Upton,OF,,2020-09-02,After Hours,LAA,SD,,,+1.5,9,3.7,2500,0.0,10.7,18.5,8.6,3.46
-Gavin,Lux,2B,,2020-09-02,After Hours,LAD,ARI,,,,,,2500,0.0,3.6,12.0,8.5,3.40
-Wil,Myers,OF,,2020-09-02,After Hours,SD,LAA,,,-1.5,9,5.3,3400,0.0,15.3,40.6,8.5,2.50
-AJ,Pollock,OF,,2020-09-02,After Hours,LAD,ARI,,,,,,2800,0.0,9.3,19.2,8.4,2.99
-Eduardo,Escobar,3B,,2020-09-02,After Hours,ARI,LAD,,,,,,2800,3.0,7.9,15.0,8.3,2.95
-Nick,Ahmed,SS,,2020-09-02,After Hours,ARI,LAD,,,,,,2500,0.0,6.4,13.2,8.0,3.19
-Kole,Calhoun,OF,,2020-09-02,After Hours,ARI,LAD,,,,,,2900,3.0,7.3,15.2,7.9,2.72
-Andrelton,Simmons,SS,,2020-09-02,After Hours,LAA,SD,,,+1.5,9,3.7,2300,3.0,9.3,21.6,7.7,3.33
-Ketel,Marte,2B,,2020-09-02,After Hours,ARI,LAD,,,,,,2700,0.0,6.8,21.4,7.6,2.80
-Jo,Adell,OF,,2020-09-02,After Hours,LAA,SD,,,+1.5,9,3.7,2100,0.0,7.7,22.9,7.5,3.56
-Chris,Taylor,SS,,2020-09-02,After Hours,LAD,ARI,,,,,,2600,0.0,11.3,38.2,7.4,2.86
-Albert,Pujols,1B,,2020-09-02,After Hours,LAA,SD,,,+1.5,9,3.7,2700,0.0,9.4,15.7,7.3,2.69
-Edwin,Ríos,1B,,2020-09-02,After Hours,LAD,ARI,,,,,,2100,0.0,6.8,12.2,6.9,3.28
-Mitch,Moreland,1B,,2020-09-02,After Hours,SD,LAA,,,-1.5,9,5.3,3500,0.0,8.8,31.4,6.7,1.92
-Austin,Barnes,C,,2020-09-02,After Hours,LAD,ARI,,,,,,2100,0.0,10.0,22.2,6.5,3.11
-Anthony,Bemboom,C,,2020-09-02,After Hours,LAA,SD,,,+1.5,9,3.7,2400,0.0,8.0,18.6,5.6,2.33
-Luis,Rengifo,2B,,2020-09-02,After Hours,LAA,SD,,,+1.5,9,3.7,2100,0.0,7.4,15.9,5.5,2.60
-Matt,Beaty,1B,,2020-09-02,After Hours,LAD,ARI,,,,,,2200,0.0,4.4,12.7,5.2,2.36
-Jason,Castro,C,,2020-09-02,After Hours,SD,LAA,,,-1.5,9,5.3,2200,0.0,4.3,9.7,5.2,2.38
-Tim,Locastro,OF,,2020-09-02,After Hours,ARI,LAD,,,,,,2200,0.0,4.9,15.4,4.9,2.21
-Jorge,Mateo,2B,,2020-09-02,After Hours,SD,LAA,,,-1.5,9,5.3,2000,0.0,6.1,15.5,4.9,2.46
-Carson,Kelly,C,,2020-09-02,After Hours,ARI,LAD,,,,,,2100,0.0,4.4,12.2,4.7,2.25
-Stephen,Vogt,C,,2020-09-02,After Hours,ARI,LAD,,,,,,2000,0.0,2.4,9.2,4.6,2.32
-Andy,Young,3B,,2020-09-02,After Hours,ARI,LAD,,,,,,2400,0.0,3.6,6.2,4.5,1.89
-Jon,Jay,OF,,2020-09-02,After Hours,ARI,LAD,,,,,,2000,0.0,5.1,13.2,4.4,2.19
-Josh,Rojas,OF,,2020-09-02,After Hours,ARI,LAD,,,,,,2000,0.0,4.3,6.2,4.3,2.14
-Francisco,Mejía,C,,2020-09-02,After Hours,SD,LAA,,,-1.5,9,5.3,2000,0.0,2.6,13.2,4.0,1.98
-Jake,Lamb,3B,,2020-09-02,After Hours,ARI,LAD,,,,,,2000,0.0,3.1,12.5,3.8,1.88
-Daulton,Varsho,C,,2020-09-02,After Hours,ARI,LAD,,,,,,2000,0.0,3.0,6.0,3.7,1.86
-Greg,Garcia,2B,,2020-09-02,After Hours,SD,LAA,,,-1.5,9,5.3,2200,0.0,1.8,9.0,3.4,1.53
-Jared,Walsh,1B,,2020-09-02,After Hours,LAA,SD,,,+1.5,9,3.7,2000,0.0,0.0,0.0,2.2,1.11
+﻿PLAYER,POS,TEAM,OPP,START,SAL,FPTS,VAL,FPTS L5,VAL L5,FPTS AVG,VAL AVG,WEATHER
+Walker Buehler,P,LAD,ARI,Yes,10300,34.4,3.3,26.6,2.6,26.6,2.6,W 6 Out
+Dinelson Lamet,P,SD,@LAA,Yes,9300,33.2,3.6,36.6,3.9,36.9,4.0,W 7 Out
+Zac Gallen,P,ARI,@LAD,Yes,10000,27.9,2.8,40.0,4.0,38.6,3.9,W 6 Out
+Julio Teheran,P,LAA,SD,Yes,5600,25.4,4.5,6.4,1.1,6.4,1.1,W 7 Out
+Mike Trout,OF,LAA,SD,2,4500,15.0,3.3,20.8,4.6,15.0,3.3,W 7 Out
+Fernando Tatis,SS,SD,@LAA,2,4700,13.8,2.9,17.4,3.7,17.0,3.6,W 7 Out
+Manny Machado,3B,SD,@LAA,3,3800,13.8,3.6,11.4,3.0,14.4,3.8,W 7 Out
+Max Muncy,2B,LAD,ARI,2,3600,12.2,3.4,13.8,3.8,10.7,3.0,W 6 Out
+Wil Myers,OF,SD,@LAA,6,3400,12.2,3.6,13.2,3.9,12.5,3.7,W 7 Out
+Corey Seager,SS,LAD,ARI,3,3800,12.2,3.2,15.5,4.1,13.9,3.7,W 6 Out
+Eric Hosmer,C1,SD,@LAA,4,3700,12.2,3.3,15.7,4.2,12.5,3.4,W 7 Out
+Trent Grisham,OF,SD,@LAA,1,3200,12.1,3.8,10.6,3.3,11.6,3.6,W 7 Out
+Mookie Betts,OF,LAD,ARI,1,4400,12.0,2.7,11.1,2.5,14.8,3.4,W 6 Out
+Jake Cronenworth,2B,SD,@LAA,7,3200,11.9,3.7,16.3,5.1,11.2,3.5,W 7 Out
+Austin Nola,C1,SD,@LAA,5,2800,11.2,4.0,8.1,2.9,10.1,3.6,W 7 Out
+Anthony Rendon,3B,LAA,SD,3,3700,11.1,3.0,6.2,1.7,11.9,3.2,W 7 Out
+Shohei Ohtani,OF,LAA,SD,,3000,11.1,3.7,-3.5,0.0,-3.5,0.0,W 7 Out
+Joc Pederson,OF,LAD,ARI,5,2700,10.7,4.0,8.1,3.0,8.1,3.0,W 6 Out
+Christian Walker,C1,ARI,@LAD,3,3000,10.6,3.5,12.3,4.1,10.2,3.4,W 6 Out
+Jurickson Profar,2B,SD,@LAA,8,2700,10.5,3.9,10.6,3.9,8.5,3.2,W 7 Out
+Will Smith,C1,LAD,ARI,9,2800,10.2,3.7,13.0,4.6,9.7,3.5,W 6 Out
+Justin Upton,OF,LAA,SD,5,2500,10.1,4.0,13.7,5.5,6.7,2.7,W 7 Out
+Chris Taylor,SS,LAD,ARI,6,2600,9.7,3.7,10.1,3.9,8.5,3.3,W 6 Out
+A.J. Pollock,OF,LAD,ARI,4,2800,9.3,3.3,4.2,1.5,9.3,3.3,W 6 Out
+Jason Castro,C1,SD,@LAA,9,2200,9.2,4.2,3.7,1.7,6.7,3.0,W 7 Out
+Gavin Lux,2B,LAD,ARI,8,2500,9.1,3.6,3.0,1.2,3.0,1.2,W 6 Out
+Jo Adell,OF,LAA,SD,7,2100,8.9,4.3,10.7,5.1,5.4,2.6,W 7 Out
+David Fletcher,2B,LAA,SD,1,3000,8.6,2.9,8.2,2.7,10.6,3.5,W 7 Out
+Albert Pujols,C1,LAA,SD,6,2700,8.6,3.2,8.8,3.3,8.7,3.2,W 7 Out
+Enrique Hernandez,2B,LAD,ARI,7,2500,8.4,3.4,1.9,0.8,6.3,2.5,W 6 Out
+Eduardo Escobar,3B,ARI,@LAD,5,2800,8.3,3.0,9.1,3.3,8.3,3.0,W 6 Out
+Ketel Marte,2B,ARI,@LAD,2,2700,8.2,3.0,6.2,2.3,8.0,3.0,W 6 Out
+Andrelton Simmons,SS,LAA,SD,9,2300,7.8,3.4,9.3,4.0,8.0,3.5,W 7 Out
+Anthony Bemboom,C1,LAA,SD,8,2400,7.8,3.2,8.0,3.3,9.3,3.9,W 7 Out
+Tim Locastro,OF,ARI,@LAD,1,2200,7.7,3.5,4.9,2.2,4.3,2.0,W 6 Out
+David Peralta,OF,ARI,@LAD,4,2700,7.6,2.8,5.7,2.1,8.6,3.2,W 6 Out
+Carson Kelly,C1,ARI,@LAD,8,2100,7.4,3.5,5.6,2.7,5.4,2.6,W 6 Out
+Nick Ahmed,SS,ARI,@LAD,6,2500,6.9,2.8,7.6,3.0,8.5,3.4,W 6 Out
+Andy Young,3B,ARI,@LAD,7,2400,6.8,2.8,3.6,1.5,6.5,2.7,W 6 Out
+Daulton Varsho,C1,ARI,@LAD,9,2000,6.5,3.2,3.0,1.5,2.7,1.3,W 6 Out
+Cody Bellinger,OF,LAD,ARI,,4200,4.1,1.0,15.0,3.6,12.0,2.9,W 6 Out
+Mitch Moreland,C1,SD,@LAA,,3500,3.7,1.1,10.0,2.9,13.2,3.8,W 7 Out
+Francisco Mejia,C1,SD,@LAA,,2000,3.3,1.6,4.4,2.2,3.3,1.7,W 7 Out
+Matt Beaty,C1,LAD,ARI,,2200,3.3,1.5,1.8,0.8,5.3,2.4,W 6 Out
+Jorge Mateo,2B,SD,@LAA,,2000,3.0,1.5,4.9,2.5,2.5,1.2,W 7 Out
+Franklin Barreto,2B,LAA,SD,,2000,3.0,1.5,1.3,0.6,1.1,0.5,W 7 Out
+Josh Rojas,OF,ARI,@LAD,,2000,3.0,1.5,0.0,0.0,0.0,0.0,W 6 Out
+Greg Allen,OF,SD,@LAA,,2000,2.9,1.5,8.9,4.4,4.0,2.0,W 7 Out
+Greg Garcia,2B,SD,@LAA,,2200,2.8,1.3,2.4,1.1,4.1,1.9,W 7 Out
+Luis Rengifo,2B,LAA,SD,,2100,2.7,1.3,9.2,4.4,5.0,2.4,W 7 Out
+Kole Calhoun,OF,ARI,@LAD,,2900,2.7,0.9,6.7,2.3,10.8,3.7,W 6 Out
+Jake Lamb,3B,ARI,@LAD,,2000,2.7,1.4,3.1,1.6,2.5,1.3,W 6 Out
+Jahmai Jones,OF,LAA,SD,,2000,2.6,1.3,0.0,0.0,0.0,0.0,W 7 Out
+Jose Briceno,C1,LAA,SD,,2100,2.6,1.3,0.0,0.0,0.0,0.0,W 7 Out
+Jared Walsh,C1,LAA,SD,,2000,2.6,1.3,0.0,0.0,0.3,0.2,W 7 Out
+Stephen Vogt,C1,ARI,@LAD,,2000,2.6,1.3,2.4,1.2,4.6,2.3,W 6 Out
+Austin Barnes,C1,LAD,ARI,,2100,2.5,1.2,9.4,4.5,7.8,3.7,W 6 Out
+Edwin Rios,C1,LAD,ARI,,2100,2.5,1.2,5.6,2.7,7.1,3.4,W 6 Out
+Jon Jay,OF,ARI,@LAD,,2000,2.4,1.2,6.9,3.4,4.7,2.4,W 6 Out
+Tucupita Marcano,3B,SD,@LAA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 7 Out
+Webster Rivas,C1,SD,@LAA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 7 Out
+Robert Hassell,OF,SD,@LAA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 7 Out
+Jake Vogel,OF,LAD,ARI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Carson Taylor,C1,LAD,ARI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Anthony Garcia,OF,LAD,ARI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Kody Hoese,3B,LAD,ARI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Devin Mann,2B,LAD,ARI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Miguel Vargas,3B,LAD,ARI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+CJ Abrams,SS,SD,@LAA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 7 Out
+Justin Turner,3B,LAD,ARI,,3000,0.0,0.0,12.4,4.1,10.5,3.5,W 6 Out
+Jose Rojas,2B,LAA,SD,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 7 Out
+Jack Kruger,C1,LAA,SD,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 7 Out
+Elliot Soto,SS,LAA,SD,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 7 Out
+Zach McKinstry,2B,LAD,ARI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Michael Busch,2B,LAD,ARI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Tommy Pham,OF,SD,@LAA,,2800,0.0,0.0,7.4,2.6,9.0,3.2,W 7 Out
+Connor Joe,C1,LAD,ARI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Josh VanMeter,2B,ARI,@LAD,,2000,0.0,0.0,1.8,0.9,3.5,1.8,W 6 Out
+Drew Jackson,OF,LAD,ARI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Michael Hermosillo,OF,LAA,SD,,2000,0.0,0.0,4.4,2.2,3.1,1.6,W 7 Out
+Keibert Ruiz,C1,LAD,ARI,,2000,0.0,0.0,10.9,5.4,10.9,5.4,W 6 Out
+Kevin Cron,C1,ARI,@LAD,,2000,0.0,0.0,0.6,0.3,1.1,0.6,W 6 Out
+Taylor Ward,3B,LAA,SD,,2000,0.0,0.0,0.0,0.0,3.5,1.8,W 7 Out
+Matt Thaiss,3B,LAA,SD,,2000,0.0,0.0,3.1,1.5,3.1,1.5,W 7 Out
+Terrance Gore,OF,LAD,ARI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Rocky Gale,C1,LAD,ARI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Abraham Almonte,OF,SD,@LAA,,2000,0.0,0.0,3.0,1.5,3.0,1.5,W 7 Out
+Max Stassi,C1,LAA,SD,,2200,0.0,0.0,3.7,1.7,8.0,3.7,W 7 Out
