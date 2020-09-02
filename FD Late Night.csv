@@ -22,8 +22,8 @@ Eloy Jimenez,OF,CWS,@MIN,5,3700,11.4,3.1,10.7,2.9,12.1,3.3,W 8 R-L
 Max Kepler,OF,MIN,CWS,1,3000,11.2,3.8,5.0,1.7,10.3,3.4,W 8 R-L
 Luis Robert,OF,CWS,@MIN,7,3600,11.2,3.1,19.4,5.4,12.3,3.4,W 8 R-L
 Yuli Gurriel,C1,HOU,TEX,5,2900,10.9,3.8,8.8,3.0,10.4,3.6,In Dome
-Yoan Moncada,3B,CWS,@MIN,2,3400,10.8,3.2,9.3,2.7,10.1,3.0,W 8 R-L
 Eddie Rosario,OF,MIN,CWS,4,2900,10.8,3.7,4.3,1.5,10.3,3.5,W 8 R-L
+Yoan Moncada,3B,CWS,@MIN,2,3400,10.8,3.2,9.3,2.7,10.1,3.0,W 8 R-L
 Carlos Santana,C1,CLE,@KC,4,3000,10.8,3.6,11.2,3.8,9.5,3.2,W 4 R-L
 Edwin Encarnacion,C1,CWS,@MIN,6,2800,10.8,3.9,13.1,4.7,8.2,2.9,W 8 R-L
 Ryan O'Hearn,C1,KC,CLE,4,2400,10.6,4.4,9.4,3.9,7.3,3.1,W 4 R-L
@@ -69,10 +69,10 @@ Oscar Mercado,OF,CLE,@KC,,2100,2.8,1.4,2.4,1.2,2.5,1.2,W 4 R-L
 Bubba Starling,OF,KC,CLE,,2000,2.8,1.4,2.5,1.3,2.4,1.2,W 4 R-L
 Dustin Garneau,C1,HOU,TEX,,2000,2.8,1.4,6.2,3.1,5.9,3.0,In Dome
 Meibrys Viloria,C1,KC,CLE,,2000,2.8,1.4,0.6,0.3,2.0,1.0,W 4 R-L
+Ryan Jeffers,C1,MIN,CWS,,2100,2.8,1.3,2.4,1.1,3.1,1.5,W 8 R-L
 LaMonte Wade,OF,MIN,CWS,,2000,2.8,1.4,3.1,1.6,2.2,1.1,W 8 R-L
 Abraham Toro,3B,HOU,TEX,,2200,2.8,1.3,5.6,2.5,6.3,2.9,In Dome
 Taylor Jones,C1,HOU,TEX,,2200,2.8,1.3,6.8,3.1,6.7,3.1,In Dome
-Ryan Jeffers,C1,MIN,CWS,,2100,2.8,1.3,2.4,1.1,3.1,1.5,W 8 R-L
 Jack Mayfield,SS,HOU,TEX,,2000,2.8,1.4,3.2,1.6,2.8,1.4,In Dome
 Jarrod Dyson,OF,CWS,@MIN,,2000,2.8,1.4,5.0,2.5,4.3,2.2,W 8 R-L
 Garrett Stubbs,C1,HOU,TEX,,2000,2.7,1.4,0.0,0.0,0.8,0.4,In Dome
@@ -82,54 +82,54 @@ Ildemaro Vargas,2B,MIN,CWS,,2000,2.6,1.3,1.8,0.9,3.4,1.7,W 8 R-L
 Austin Hedges,C1,CLE,@KC,,2300,2.5,1.1,3.1,1.4,4.4,1.9,W 4 R-L
 Danny Mendick,2B,CWS,@MIN,,2300,2.5,1.1,7.5,3.3,6.4,2.8,W 8 R-L
 Yolmer Sanchez,2B,CWS,@MIN,,2000,2.5,1.2,1.6,0.8,1.6,0.8,W 8 R-L
-Scott Heineman,OF,TEX,@HOU,,2000,2.4,1.2,1.9,0.9,4.8,2.4,In Dome
 Anderson Tejeda,SS,TEX,@HOU,,2000,2.4,1.2,11.6,5.8,11.6,5.8,In Dome
+Scott Heineman,OF,TEX,@HOU,,2000,2.4,1.2,1.9,0.9,4.8,2.4,In Dome
 Eli White,2B,TEX,@HOU,,2000,2.4,1.2,0.0,0.0,0.0,0.0,In Dome
 Jeff Mathis,C1,TEX,@HOU,,2000,2.4,1.2,5.6,2.8,6.7,3.4,In Dome
 Adam Engel,OF,CWS,@MIN,,2200,2.3,1.1,3.9,1.8,6.2,2.8,W 8 R-L
-Yadiel Rivera,C1,TEX,@HOU,,2000,2.2,1.1,1.5,0.8,1.5,0.8,In Dome
 Sandy Leon,C1,CLE,@KC,,2100,2.2,1.1,10.4,4.9,4.7,2.2,W 4 R-L
-Danny Santana,OF,TEX,@HOU,,2700,0.0,0.0,4.2,1.6,7.6,2.8,In Dome
-Willians Astudillo,C1,MIN,CWS,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 R-L
-Beau Taylor,C1,CLE,@KC,,2000,0.0,0.0,3.8,1.9,2.7,1.4,W 4 R-L
-Nick Dini,C1,KC,CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
-Grae Kessinger,SS,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Yermin Mercedes,C1,CWS,@MIN,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 R-L
-Nick Heath,OF,KC,CLE,,2000,0.0,0.0,6.8,3.4,6.8,3.4,W 4 R-L
+Yadiel Rivera,C1,TEX,@HOU,,2000,2.2,1.1,1.5,0.8,1.5,0.8,In Dome
 Davis Wendzel,3B,TEX,@HOU,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Cheslor Cuthbert,C1,CWS,@MIN,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 R-L
-Rob Refsnyder,OF,TEX,@HOU,,2000,0.0,0.0,3.1,1.5,3.1,1.5,In Dome
-Yu Chang,3B,CLE,@KC,,2000,0.0,0.0,1.3,0.7,2.3,1.2,W 4 R-L
+Daniel Johnson,OF,CLE,@KC,,2000,0.0,0.0,0.6,0.3,1.0,0.5,W 4 R-L
+Luis Gonzalez,OF,CWS,@MIN,,2000,0.0,0.0,2.1,1.0,2.1,1.0,W 8 R-L
 Nick Tanielu,3B,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
 Jake Meyers,OF,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Luis Gonzalez,OF,CWS,@MIN,,2000,0.0,0.0,2.1,1.0,2.1,1.0,W 8 R-L
 Sebastian Rivero,C1,KC,CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
 Alex De Goti,2B,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Jamie Ritchie,C1,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Oscar Hernandez,C1,KC,CLE,,2000,0.0,0.0,2.3,1.2,2.3,1.2,W 4 R-L
-Jake Elmore,3B,CLE,@KC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
-Edward Olivares,OF,KC,CLE,,2000,0.0,0.0,1.2,0.6,4.6,2.3,W 4 R-L
 Rougned Odor,2B,TEX,@HOU,,2500,0.0,0.0,0.6,0.2,5.9,2.4,In Dome
-Alex Bregman,3B,HOU,TEX,,3500,0.0,0.0,6.7,1.9,11.3,3.2,In Dome
-Jeison Guzman,SS,KC,CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
-Humberto Arteaga,SS,KC,CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
+Jamie Ritchie,C1,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Michael Papierski,C1,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Colton Shaver,C1,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Rob Refsnyder,OF,TEX,@HOU,,2000,0.0,0.0,3.1,1.5,3.1,1.5,In Dome
 Nicky Delmonico,OF,CWS,@MIN,,2000,0.0,0.0,4.5,2.3,3.6,1.8,W 8 R-L
-Willie Calhoun,OF,TEX,@HOU,,2200,0.0,0.0,5.8,2.6,4.4,2.0,In Dome
-Domingo Santana,OF,CLE,@KC,,2400,0.0,0.0,5.8,2.4,6.3,2.6,W 4 R-L
+Edward Olivares,OF,KC,CLE,,2000,0.0,0.0,1.2,0.6,4.6,2.3,W 4 R-L
+Zack Collins,C1,CWS,@MIN,,2000,0.0,0.0,2.4,1.2,1.7,0.9,W 8 R-L
+Yu Chang,3B,CLE,@KC,,2000,0.0,0.0,1.3,0.7,2.3,1.2,W 4 R-L
 Mitch Garver,C1,MIN,CWS,,2400,0.0,0.0,1.8,0.8,5.1,2.1,W 8 R-L
-Daniel Johnson,OF,CLE,@KC,,2000,0.0,0.0,0.6,0.3,1.0,0.5,W 4 R-L
-Yordys Valdes,SS,CLE,@KC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
-Tyler Freeman,SS,CLE,@KC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
-Jordan Brewer,OF,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Salvador Perez,C1,KC,CLE,,2800,0.0,0.0,8.8,3.1,9.5,3.4,W 4 R-L
+Adolis Garcia,OF,TEX,@HOU,,2000,0.0,0.0,1.0,0.5,1.0,0.5,In Dome
+Beau Taylor,C1,CLE,@KC,,2000,0.0,0.0,3.8,1.9,2.7,1.4,W 4 R-L
+Jake Elmore,3B,CLE,@KC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
+Willians Astudillo,C1,MIN,CWS,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 R-L
 Ryan Goins,3B,CWS,@MIN,,2000,0.0,0.0,1.2,0.6,1.1,0.6,W 8 R-L
+Salvador Perez,C1,KC,CLE,,2800,0.0,0.0,8.8,3.1,9.5,3.4,W 4 R-L
+Grae Kessinger,SS,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
 Jeremy Pena,SS,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
 Korey Lee,C1,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
 Bobby Witt,SS,KC,CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
-Michael Papierski,C1,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Colton Shaver,C1,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Zack Collins,C1,CWS,@MIN,,2000,0.0,0.0,2.4,1.2,1.7,0.9,W 8 R-L
-Adolis Garcia,OF,TEX,@HOU,,2000,0.0,0.0,1.0,0.5,1.0,0.5,In Dome
-Aaron Whitefield,OF,MIN,CWS,,2000,0.0,0.0,1.1,0.5,1.1,0.5,W 8 R-L
-Bradley Zimmer,OF,CLE,@KC,,2100,0.0,0.0,2.4,1.1,4.8,2.3,W 4 R-L
+Domingo Santana,OF,CLE,@KC,,2400,0.0,0.0,5.8,2.4,6.3,2.6,W 4 R-L
+Yermin Mercedes,C1,CWS,@MIN,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 R-L
+Nick Heath,OF,KC,CLE,,2000,0.0,0.0,6.8,3.4,6.8,3.4,W 4 R-L
+Jeison Guzman,SS,KC,CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
+Alex Bregman,3B,HOU,TEX,,3500,0.0,0.0,6.7,1.9,11.3,3.2,In Dome
+Yordys Valdes,SS,CLE,@KC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
+Tyler Freeman,SS,CLE,@KC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
+Jordan Brewer,OF,HOU,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
 Erick Mejia,SS,KC,CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
+Danny Santana,OF,TEX,@HOU,,2700,0.0,0.0,4.2,1.6,7.6,2.8,In Dome
+Bradley Zimmer,OF,CLE,@KC,,2100,0.0,0.0,2.4,1.1,4.8,2.3,W 4 R-L
+Cheslor Cuthbert,C1,CWS,@MIN,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 R-L
+Aaron Whitefield,OF,MIN,CWS,,2000,0.0,0.0,1.1,0.5,1.1,0.5,W 8 R-L
+Humberto Arteaga,SS,KC,CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
+Nick Dini,C1,KC,CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 4 R-L
+Oscar Hernandez,C1,KC,CLE,,2000,0.0,0.0,2.3,1.2,2.3,1.2,W 4 R-L
+Willie Calhoun,OF,TEX,@HOU,,2200,0.0,0.0,5.8,2.6,4.4,2.0,In Dome
