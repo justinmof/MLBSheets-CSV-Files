@@ -1,100 +1,462 @@
 ﻿PLAYER,POS,TEAM,OPP,START,SAL,FPTS,VAL,FPTS L5,VAL L5,FPTS AVG,VAL AVG,WEATHER
-J.A. Happ,P,NYY,@NYM,Yes,7900,26.8,3.4,15.2,1.9,15.2,1.9,W 8 Out
-Zach Eflin,P,PHI,WAS,Yes,9000,24.9,2.8,28.6,3.2,28.3,3.2,W 8 Out
-Anibal Sanchez,P,WAS,@PHI,Yes,6300,24.2,3.8,12.6,2.0,14.3,2.3,W 8 Out
-Robert Gsellman,P,NYM,NYY,Yes,5800,22.6,3.9,7.0,1.2,7.0,1.2,W 8 Out
-Juan Soto,OF,WAS,@PHI,3,4700,14.6,3.1,12.6,2.7,15.7,3.4,W 8 Out
-Rhys Hoskins,C1,PHI,WAS,2,3700,13.6,3.7,23.2,6.3,13.1,3.6,W 8 Out
-Trea Turner,SS,WAS,@PHI,2,4000,13.3,3.3,9.9,2.5,13.3,3.3,W 8 Out
-Clint Frazier,OF,NYY,@NYM,4,2900,12.9,4.5,9.2,3.2,11.8,4.1,W 8 Out
-Luke Voit,C1,NYY,@NYM,2,4000,12.8,3.2,6.3,1.6,13.1,3.3,W 8 Out
-DJ LeMahieu,2B,NYY,@NYM,1,3400,12.2,3.6,11.2,3.3,11.2,3.3,W 8 Out
-Bryce Harper,OF,PHI,WAS,3,4200,12.1,2.9,6.6,1.6,13.6,3.2,W 8 Out
-Mike Ford,C1,NYY,@NYM,5,2300,12.0,5.2,4.3,1.9,6.0,2.6,W 8 Out
-J.T. Realmuto,C1,PHI,WAS,4,3600,11.5,3.2,9.8,2.7,12.8,3.6,W 8 Out
-Roman Quinn,OF,PHI,WAS,1,2400,11.2,4.7,5.6,2.3,6.8,2.8,W 8 Out
-Gio Urshela,3B,NYY,@NYM,6,3200,11.1,3.5,10.6,3.3,10.6,3.3,W 8 Out
-Michael Conforto,OF,NYM,NYY,3,3000,10.9,3.6,11.4,3.8,11.8,3.9,W 8 Out
-Pete Alonso,C1,NYM,NYY,6,3500,10.8,3.1,5.7,1.6,9.5,2.7,W 8 Out
-Didi Gregorius,SS,PHI,WAS,5,3000,10.7,3.6,10.1,3.4,10.3,3.4,W 8 Out
-Jay Bruce,OF,PHI,WAS,7,2700,10.7,4.0,9.4,3.5,10.3,3.8,W 8 Out
-Aaron Hicks,OF,NYY,@NYM,3,2800,10.7,3.8,3.0,1.1,7.9,2.8,W 8 Out
-Kurt Suzuki,C1,WAS,@PHI,5,2100,10.1,4.8,6.6,3.2,7.3,3.5,W 8 Out
-Brett Gardner,OF,NYY,@NYM,7,2500,10.1,4.0,2.5,1.0,6.2,2.5,W 8 Out
-Jean Segura,2B,PHI,WAS,6,2800,9.8,3.5,9.5,3.4,8.9,3.2,W 8 Out
-Eric Thames,C1,WAS,@PHI,7,2500,9.8,3.9,6.1,2.5,5.3,2.1,W 8 Out
-Jake Marisnick,OF,NYM,NYY,7,2000,9.8,4.9,3.1,1.6,3.7,1.8,W 8 Out
-Adam Eaton,OF,WAS,@PHI,1,2700,9.7,3.6,5.5,2.0,8.8,3.3,W 8 Out
-J.D. Davis,OF,NYM,NYY,2,2700,9.6,3.5,4.3,1.6,8.5,3.1,W 8 Out
-Dominic Smith,OF,NYM,NYY,5,3500,9.2,2.6,5.6,1.6,11.8,3.4,W 8 Out
-Robinson Chirinos,C1,NYM,NYY,9,2000,9.1,4.6,3.0,1.5,3.5,1.8,W 8 Out
-Alec Bohm,3B,PHI,WAS,8,2500,9.1,3.6,9.4,3.8,9.2,3.7,W 8 Out
-Jeff McNeil,3B,NYM,NYY,1,2500,9.1,3.6,9.9,4.0,6.5,2.6,W 8 Out
-Victor Robles,OF,WAS,@PHI,9,2400,8.9,3.7,5.5,2.3,6.7,2.8,W 8 Out
-Tyler Wade,SS,NYY,@NYM,9,2000,8.9,4.5,6.2,3.1,3.1,1.6,W 8 Out
-Amed Rosario,SS,NYM,NYY,8,2400,8.8,3.7,4.4,1.8,6.3,2.6,W 8 Out
-Brock Holt,SS,WAS,@PHI,6,2000,8.7,4.4,1.2,0.6,1.7,0.9,W 8 Out
-Kyle Higashioka,C1,NYY,@NYM,8,2000,8.7,4.4,1.8,0.9,1.8,0.9,W 8 Out
-Asdrubal Cabrera,3B,WAS,@PHI,4,2800,7.9,2.8,1.9,0.7,9.0,3.2,W 8 Out
-Todd Frazier,3B,NYM,NYY,4,2600,7.7,3.0,3.0,1.2,6.9,2.7,W 8 Out
-Luis Garcia,2B,WAS,@PHI,8,2500,7.1,2.9,2.4,1.0,6.2,2.5,W 8 Out
-Andrew Knapp,C1,PHI,WAS,9,2000,6.9,3.5,7.5,3.7,5.5,2.8,W 8 Out
-Adam Haseley,OF,PHI,WAS,,2100,0.0,0.0,1.2,0.6,3.1,1.5,W 8 Out
-Miguel Andujar,3B,NYY,@NYM,,2000,0.0,0.0,1.8,0.9,1.8,0.9,W 8 Out
-Nick Martini,OF,PHI,WAS,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Patrick Mazeika,C1,NYM,NYY,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Johneshwy Fargas,OF,NYM,NYY,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Jarrett Parker,OF,NYM,NYY,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Gleyber Torres,SS,NYY,@NYM,,2700,0.0,0.0,5.5,2.1,6.6,2.4,W 8 Out
-Billy Hamilton,OF,NYM,NYY,,2000,0.0,0.0,3.1,1.6,2.5,1.3,W 8 Out
-Rodolfo Duran,C1,PHI,WAS,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Nick Maton,SS,PHI,WAS,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Bryson Stott,SS,PHI,WAS,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Phil Gosselin,3B,PHI,WAS,,2600,0.0,0.0,2.5,1.0,8.3,3.2,W 8 Out
-Mikie Mahtook,OF,PHI,WAS,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Ronald Torreyes,SS,PHI,WAS,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Ryan Cordell,OF,NYM,NYY,,2000,0.0,0.0,2.3,1.1,2.3,1.1,W 8 Out
-Estevan Florial,OF,NYY,@NYM,,2000,0.0,0.0,3.0,1.5,3.0,1.5,W 8 Out
-Luis Guillorme,2B,NYM,NYY,,2400,0.0,0.0,6.8,2.8,7.9,3.3,W 8 Out
-Andres Gimenez,2B,NYM,NYY,,2100,0.0,0.0,7.5,3.6,6.0,2.9,W 8 Out
-Andrew Stevenson,OF,WAS,@PHI,,2000,0.0,0.0,4.1,2.0,4.1,2.0,W 8 Out
-Carter Kieboom,3B,WAS,@PHI,,2100,0.0,0.0,4.3,2.1,6.6,3.1,W 8 Out
-Jordy Mercer,3B,NYY,@NYM,,2000,0.0,0.0,3.0,1.5,2.7,1.4,W 8 Out
-Josh Harrison,2B,WAS,@PHI,,2500,0.0,0.0,10.0,4.0,9.4,3.7,W 8 Out
-Israel Pineda,C1,WAS,@PHI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Drew Mendoza,3B,WAS,@PHI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Jeremy De La Rosa,OF,WAS,@PHI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Odubel Herrera,OF,PHI,WAS,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Henri Lartigue,C1,PHI,WAS,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Robinson Cano,2B,NYM,NYY,,3500,0.0,0.0,18.0,5.1,11.5,3.3,W 8 Out
-Gary Sanchez,C1,NYY,@NYM,,2900,0.0,0.0,7.0,2.4,7.1,2.4,W 8 Out
-Scott Kingery,OF,PHI,WAS,,2200,0.0,0.0,7.6,3.5,3.8,1.7,W 8 Out
-Neil Walker,2B,PHI,WAS,,2000,0.0,0.0,5.1,2.6,4.1,2.1,W 8 Out
-Wilmer Difo,SS,WAS,@PHI,,2000,0.0,0.0,0.6,0.3,0.6,0.3,W 8 Out
-Yan Gomes,C1,WAS,@PHI,,2600,0.0,0.0,9.1,3.5,9.9,3.8,W 8 Out
-Brandon Nimmo,OF,NYM,NYY,,2900,0.0,0.0,6.2,2.1,10.3,3.6,W 8 Out
-Mike Tauchman,OF,NYY,@NYM,,2600,0.0,0.0,5.0,1.9,7.0,2.7,W 8 Out
-Ali Sanchez,C1,NYM,NYY,,2000,0.0,0.0,1.2,0.6,1.2,0.6,W 8 Out
-Guillermo Heredia,OF,NYM,NYY,,2000,0.0,0.0,6.9,3.4,4.3,2.2,W 8 Out
-Max Moroff,SS,NYM,NYY,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Emilio Bonifacio,OF,WAS,@PHI,,2000,0.0,0.0,1.1,0.5,1.1,0.5,W 8 Out
-Michael Taylor,OF,WAS,@PHI,,2300,0.0,0.0,7.5,3.3,5.6,2.4,W 8 Out
-Wilson Ramos,C1,NYM,NYY,,2200,0.0,0.0,4.3,2.0,5.8,2.6,W 8 Out
-Giancarlo Stanton,OF,NYY,@NYM,,3600,0.0,0.0,9.9,2.7,12.2,3.4,W 8 Out
-Raudy Read,C1,WAS,@PHI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Tomas Nido,C1,NYM,NYY,,2300,0.0,0.0,13.3,5.8,11.7,5.1,W 8 Out
-Aaron Judge,OF,NYY,@NYM,,4000,0.0,0.0,12.5,3.1,15.6,3.9,W 8 Out
-Andrew McCutchen,OF,PHI,WAS,,3200,0.0,0.0,15.7,4.9,11.1,3.5,W 8 Out
-Thairo Estrada,SS,NYY,@NYM,,2200,0.0,0.0,3.1,1.4,3.5,1.6,W 8 Out
-Erik Kratz,C1,NYY,@NYM,,2000,0.0,0.0,4.9,2.5,4.6,2.3,W 8 Out
-Brett Baty,3B,NYM,NYY,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Simon Muzziotti,OF,PHI,WAS,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Rafael Marchan,C1,PHI,WAS,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Jakson Reetz,C1,WAS,@PHI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Yadiel Hernandez,OF,WAS,@PHI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Howie Kendrick,2B,WAS,@PHI,,2800,0.0,0.0,8.7,3.1,8.2,2.9,W 8 Out
-Rosell Herrera,OF,NYY,@NYM,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Kyle Garlick,OF,PHI,WAS,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Rob Brantly,C1,NYY,@NYM,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-David Rodriguez,C1,NYM,NYY,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
-Jake Hager,C1,NYM,NYY,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
+Yu Darvish,P,CHC,STL,Yes,11200,36.7,3.3,51.4,4.6,46.3,4.1,W 10 L-R
+Jack Flaherty,P,STL,@CHC,Yes,9700,36.5,3.8,27.8,2.9,27.8,2.9,W 10 L-R
+Corbin Burnes,P,MIL,@CLE,Yes,7600,31.0,4.1,34.0,4.5,30.7,4.0,W 11 L-R
+Jesus Luzardo,P,OAK,SD,Yes,8100,30.7,3.8,29.8,3.7,25.9,3.2,W 7 Out
+Carlos Carrasco,P,CLE,MIL,Yes,9300,30.6,3.3,18.8,2.0,28.3,3.0,W 11 L-R
+Dustin May,P,LAD,COL,Yes,7000,28.3,4.0,24.2,3.5,22.7,3.2,W 5 Out
+Lance McCullers,P,HOU,@LAA,Yes,8400,27.2,3.2,24.6,2.9,25.0,3.0,W 6 Out
+Brady Singer,P,KC,CWS,Yes,6300,27.1,4.3,13.6,2.2,17.9,2.8,W 5 R-L
+Pablo Lopez,P,MIA,@TB,Yes,8500,26.8,3.2,32.6,3.8,34.2,4.0,In Dome
+Dylan Bundy,P,LAA,HOU,Yes,8700,24.7,2.8,38.2,4.4,39.4,4.5,W 6 Out
+Tyler Anderson,P,SF,ARI,Yes,6400,24.6,3.9,16.8,2.6,14.8,2.3,W 8 Out
+Kyle Cody,P,TEX,@SEA,Yes,5700,24.2,4.3,10.3,1.8,10.3,1.8,In Dome
+Dane Dunning,P,CWS,@KC,Yes,7700,23.6,3.1,20.3,2.6,20.3,2.6,W 5 R-L
+Zach Davies,P,SD,@OAK,Yes,8900,23.6,2.7,39.0,4.4,33.9,3.8,W 7 Out
+Josh Fleming,P,TB,MIA,Yes,7800,23.6,3.0,21.3,2.7,21.3,2.7,In Dome
+Rick Porcello,P,NYM,PHI,Yes,6700,23.4,3.5,23.8,3.6,18.3,2.7,W 8 L-R
+Jake Arrieta,P,PHI,@NYM,Yes,6200,23.1,3.7,14.8,2.4,15.3,2.5,W 8 L-R
+Taylor Clarke,P,ARI,@SF,Yes,6800,22.2,3.3,17.4,2.6,15.1,2.2,W 8 Out
+Yusei Kikuchi,P,SEA,TEX,Yes,6300,21.8,3.5,21.4,3.4,19.2,3.0,In Dome
+Antonio Senzatela,P,COL,@LAD,Yes,7400,17.3,2.3,26.6,3.6,28.6,3.9,W 5 Out
+Christian Yelich,OF,MIL,@CLE,2,4100,16.3,4.0,18.5,4.5,12.3,3.0,W 11 L-R
+Alex Dickerson,OF,SF,ARI,2,2800,16.2,5.8,27.6,9.9,9.7,3.5,W 8 Out
+Mike Trout,OF,LAA,HOU,2,4600,15.6,3.4,18.4,4.0,14.9,3.2,W 6 Out
+Cody Bellinger,OF,LAD,COL,4,4300,15.1,3.5,11.9,2.8,11.7,2.7,W 5 Out
+Rhys Hoskins,C1,PHI,@NYM,2,4000,14.8,3.7,20.6,5.2,13.4,3.4,W 8 L-R
+Mookie Betts,OF,LAD,COL,2,4400,14.4,3.3,15.5,3.5,14.7,3.4,W 5 Out
+Michael Brantley,OF,HOU,@LAA,2,3400,14.1,4.2,21.5,6.3,12.8,3.8,W 6 Out
+Max Muncy,2B,LAD,COL,1,3600,14.0,3.9,15.6,4.3,10.6,2.9,W 5 Out
+Michael Conforto,OF,NYM,PHI,2,3300,13.8,4.2,12.0,3.7,11.9,3.6,W 8 L-R
+Corey Seager,SS,LAD,COL,5,3800,13.8,3.6,14.8,3.9,13.6,3.6,W 5 Out
+Fernando Tatis,SS,SD,@OAK,2,4700,13.5,2.9,17.5,3.7,16.6,3.5,W 7 Out
+Andrew McCutchen,OF,PHI,@NYM,1,3300,13.1,4.0,7.6,2.3,10.5,3.2,W 8 L-R
+Joc Pederson,OF,LAD,COL,6,2700,12.8,4.7,0.6,0.2,7.7,2.8,W 5 Out
+Brad Miller,C1,STL,@CHC,4,3200,12.4,3.9,22.0,6.9,14.2,4.4,W 10 L-R
+Ian Happ,OF,CHC,STL,1,3300,12.4,3.8,23.7,7.2,12.2,3.7,W 10 L-R
+Alex Bregman,3B,HOU,@LAA,3,3500,12.3,3.5,6.7,1.9,11.3,3.2,W 6 Out
+Will Smith,C1,LAD,COL,9,2700,12.3,4.6,13.1,4.8,9.7,3.6,W 5 Out
+George Springer,OF,HOU,@LAA,1,3500,12.2,3.5,11.8,3.4,10.1,2.9,W 6 Out
+Robinson Cano,2B,NYM,PHI,5,3500,12.1,3.5,18.0,5.1,11.5,3.3,W 8 L-R
+Starling Marte,OF,MIA,@TB,3,3100,12.1,3.9,10.1,3.3,11.1,3.6,In Dome
+Mike Yastrzemski,OF,SF,ARI,1,3900,12.1,3.1,14.3,3.7,14.0,3.6,W 8 Out
+Keston Hiura,2B,MIL,@CLE,3,3500,12.1,3.5,13.8,4.0,10.7,3.1,W 11 L-R
+Hunter Dozier,OF,KC,CWS,2,3200,12.0,3.8,11.7,3.7,11.7,3.7,W 5 R-L
+Jose Ramirez,3B,CLE,MIL,2,3900,12.0,3.1,7.4,1.9,12.8,3.3,W 11 L-R
+Shohei Ohtani,OF,LAA,HOU,,3200,12.0,3.7,-3.5,0.0,-3.5,0.0,W 6 Out
+Anthony Rendon,3B,LAA,HOU,3,3700,12.0,3.2,9.8,2.7,11.9,3.2,W 6 Out
+J.T. Realmuto,C1,PHI,@NYM,3,3700,12.0,3.2,12.9,3.5,13.3,3.6,W 8 L-R
+Christian Walker,C1,ARI,@SF,3,3200,11.9,3.7,5.6,1.8,10.1,3.2,W 8 Out
+Chris Taylor,SS,LAD,COL,3,2700,11.9,4.4,12.7,4.7,8.6,3.2,W 5 Out
+Pete Alonso,C1,NYM,PHI,6,3500,11.8,3.4,10.1,2.9,10.1,2.9,W 8 L-R
+Nick Solak,OF,TEX,@SEA,4,2700,11.8,4.4,8.0,3.0,9.0,3.4,In Dome
+Jon Berti,2B,MIA,@TB,1,2700,11.7,4.3,9.2,3.4,10.2,3.8,In Dome
+Kyle Schwarber,OF,CHC,STL,5,3400,11.7,3.4,18.3,5.4,11.0,3.2,W 10 L-R
+Didi Gregorius,SS,PHI,@NYM,5,3100,11.6,3.8,13.8,4.5,10.9,3.5,W 8 L-R
+Franmil Reyes,OF,CLE,MIL,5,3200,11.6,3.6,15.4,4.8,11.1,3.5,W 11 L-R
+J.P. Crawford,SS,SEA,TEX,1,2800,11.6,4.1,9.7,3.5,9.3,3.3,In Dome
+Brandon Nimmo,OF,NYM,PHI,1,2900,11.5,4.0,6.2,2.1,10.3,3.6,W 8 L-R
+Justin Smoak,C1,MIL,@CLE,4,2500,11.5,4.6,4.3,1.7,8.0,3.2,W 11 L-R
+A.J. Pollock,OF,LAD,COL,7,2700,11.5,4.2,7.4,2.7,9.3,3.5,W 5 Out
+Isiah Kiner-Falefa,3B,TEX,@SEA,2,2600,11.5,4.4,9.9,3.8,8.1,3.1,In Dome
+Jay Bruce,OF,PHI,@NYM,4,3000,11.5,3.8,10.0,3.3,10.0,3.3,W 8 L-R
+Joey Gallo,OF,TEX,@SEA,5,3300,11.4,3.5,3.6,1.1,9.7,2.9,In Dome
+Elvis Andrus,SS,TEX,@SEA,6,2400,11.4,4.7,7.5,3.1,6.4,2.7,In Dome
+Kyle Tucker,OF,HOU,@LAA,5,3800,11.2,3.0,11.5,3.0,12.9,3.4,W 6 Out
+Manny Machado,3B,SD,@OAK,3,4000,11.2,2.8,7.7,1.9,14.1,3.5,W 7 Out
+Brandon Belt,C1,SF,ARI,4,3000,11.1,3.7,9.2,3.1,9.7,3.2,W 8 Out
+Luis Robert,OF,CWS,@KC,5,3600,11.1,3.1,13.3,3.7,12.2,3.4,W 5 R-L
+Whit Merrifield,OF,KC,CWS,1,3400,11.1,3.3,0.0,0.0,11.2,3.3,W 5 R-L
+Shin-Soo Choo,OF,TEX,@SEA,3,2800,11.1,4.0,8.7,3.1,9.2,3.3,In Dome
+Ramon Laureano,OF,OAK,SD,1,3000,11.1,3.7,10.4,3.5,10.0,3.3,W 7 Out
+Carlos Correa,SS,HOU,@LAA,6,3000,10.9,3.6,3.1,1.0,8.8,2.9,W 6 Out
+Jake Cronenworth,2B,SD,@OAK,7,3400,10.9,3.2,15.6,4.6,11.0,3.2,W 7 Out
+Brandon Crawford,SS,SF,ARI,7,2300,10.8,4.7,15.2,6.6,8.3,3.6,W 8 Out
+Ryan Braun,C1,MIL,@CLE,5,2600,10.8,4.2,5.7,2.2,7.1,2.7,W 11 L-R
+Alec Bohm,3B,PHI,@NYM,8,2500,10.8,4.3,11.9,4.8,9.9,4.0,W 8 L-R
+Yoan Moncada,3B,CWS,@KC,2,3200,10.8,3.4,6.3,2.0,9.5,3.0,W 5 R-L
+Austin Meadows,OF,TB,MIA,4,3100,10.8,3.5,5.5,1.8,9.6,3.1,In Dome
+Ji-Man Choi,C1,TB,MIA,1,2500,10.8,4.3,12.5,5.0,7.4,3.0,In Dome
+Justin Upton,OF,LAA,HOU,4,2700,10.8,4.0,13.1,4.9,6.8,2.5,W 6 Out
+Jorge Soler,OF,KC,CWS,3,3100,10.8,3.5,3.0,1.0,9.9,3.2,W 5 R-L
+Garrett Cooper,C1,MIA,@TB,6,2800,10.7,3.8,15.8,5.7,12.6,4.5,In Dome
+Jose Abreu,C1,CWS,@KC,3,3700,10.7,2.9,10.9,2.9,13.3,3.6,W 5 R-L
+Gavin Lux,2B,LAD,COL,8,2300,10.6,4.6,2.4,1.0,2.4,1.0,W 5 Out
+Francisco Lindor,SS,CLE,MIL,3,3400,10.6,3.1,9.3,2.7,9.7,2.9,W 11 L-R
+Wil Myers,OF,SD,@OAK,6,3400,10.6,3.1,13.2,3.9,12.2,3.6,W 7 Out
+Leody Taveras,OF,TEX,@SEA,1,2100,10.6,5.0,8.0,3.8,6.4,3.1,In Dome
+Anthony Rizzo,C1,CHC,STL,3,3600,10.5,2.9,10.5,2.9,10.4,2.9,W 10 L-R
+Matt Olson,C1,OAK,SD,5,3100,10.5,3.4,6.8,2.2,10.8,3.5,W 7 Out
+Edwin Encarnacion,C1,CWS,@KC,4,2800,10.5,3.7,7.4,2.7,8.3,3.0,W 5 R-L
+Jesus Aguilar,C1,MIA,@TB,4,2900,10.4,3.6,7.6,2.6,10.2,3.5,In Dome
+Willy Adames,SS,TB,MIA,5,2700,10.4,3.9,17.4,6.5,10.3,3.8,In Dome
+Tim Anderson,SS,CWS,@KC,1,3500,10.3,3.0,10.6,3.0,13.3,3.8,W 5 R-L
+Ketel Marte,2B,ARI,@SF,2,2800,10.3,3.7,2.4,0.9,7.8,2.8,W 8 Out
+Dominic Smith,OF,NYM,PHI,4,3500,10.3,2.9,7.5,2.2,12.1,3.5,W 8 L-R
+Eloy Jimenez,OF,CWS,@KC,6,3400,10.3,3.0,3.8,1.1,11.3,3.3,W 5 R-L
+Evan Longoria,3B,SF,ARI,3,2900,10.2,3.5,11.4,3.9,10.0,3.4,W 8 Out
+Wilmer Flores,2B,SF,ARI,5,2900,10.1,3.5,11.1,3.8,10.5,3.6,W 8 Out
+Ty France,C1,SEA,TEX,7,2900,10.1,3.5,9.4,3.3,8.1,2.8,In Dome
+Adam Haseley,OF,PHI,@NYM,9,2100,10.1,4.8,1.2,0.6,2.9,1.4,W 8 L-R
+Kyle Seager,3B,SEA,TEX,4,3300,10.1,3.1,4.3,1.3,11.0,3.3,In Dome
+J.D. Davis,OF,NYM,PHI,3,2700,10.1,3.7,8.6,3.2,9.1,3.4,W 8 L-R
+Josh Rojas,OF,ARI,@SF,7,2000,10.0,5.0,2.3,1.1,2.3,1.1,W 8 Out
+Eduardo Escobar,3B,ARI,@SF,4,2800,10.0,3.6,7.3,2.6,7.8,2.8,W 8 Out
+Kyle Lewis,OF,SEA,TEX,3,3600,10.0,2.8,7.4,2.1,12.5,3.5,In Dome
+Brandon Lowe,2B,TB,MIA,2,3500,10.0,2.9,1.2,0.3,12.7,3.6,In Dome
+Jeff McNeil,3B,NYM,PHI,7,2600,10.0,3.8,12.4,4.8,6.9,2.7,W 8 L-R
+Donovan Solano,2B,SF,ARI,6,2700,9.9,3.7,9.7,3.6,9.9,3.7,W 8 Out
+Ronald Guzman,C1,TEX,@SEA,7,2500,9.9,4.0,12.3,4.9,9.7,3.9,In Dome
+Yoshi Tsutsugo,OF,TB,MIA,6,2500,9.9,4.0,8.1,3.2,8.5,3.4,In Dome
+Jason Heyward,OF,CHC,STL,7,2900,9.9,3.4,15.5,5.4,10.2,3.5,W 10 L-R
+Dylan Moore,3B,SEA,TEX,2,3000,9.9,3.3,9.9,3.3,12.7,4.2,In Dome
+Matt Chapman,3B,OAK,SD,3,3500,9.8,2.8,7.5,2.2,12.1,3.5,W 7 Out
+Tim Locastro,OF,ARI,@SF,1,2400,9.8,4.1,5.5,2.3,4.1,1.7,W 8 Out
+Omar Narvaez,C1,MIL,@CLE,7,2300,9.8,4.3,5.0,2.2,5.3,2.3,W 11 L-R
+Yuli Gurriel,C1,HOU,@LAA,4,2900,9.8,3.4,5.6,1.9,10.1,3.5,W 6 Out
+Jean Segura,2B,PHI,@NYM,6,2800,9.8,3.5,10.1,3.6,9.0,3.2,W 8 L-R
+Trevor Story,SS,COL,@LAD,2,4000,9.8,2.4,9.3,2.3,14.6,3.7,W 5 Out
+Paul Goldschmidt,C1,STL,@CHC,3,3400,9.8,2.9,14.7,4.3,11.5,3.4,W 10 L-R
+Mark Canha,OF,OAK,SD,4,3000,9.7,3.3,7.5,2.5,11.5,3.8,W 7 Out
+Tyler Naquin,OF,CLE,MIL,6,3000,9.7,3.3,15.3,5.1,10.6,3.5,W 11 L-R
+Shed Long,2B,SEA,TEX,8,2500,9.7,3.9,10.6,4.2,6.6,2.6,In Dome
+Nick Ahmed,SS,ARI,@SF,6,2600,9.7,3.7,6.3,2.4,8.1,3.1,W 8 Out
+Avisail Garcia,OF,MIL,@CLE,6,2600,9.7,3.7,6.8,2.6,7.6,2.9,W 11 L-R
+Aledmys Diaz,3B,HOU,@LAA,8,2100,9.7,4.6,8.0,3.8,8.0,3.8,W 6 Out
+Lewis Brinson,OF,MIA,@TB,8,2000,9.7,4.8,6.1,3.1,3.7,1.9,In Dome
+Alex Gordon,OF,KC,CWS,5,2300,9.6,4.2,6.1,2.7,6.4,2.8,W 5 R-L
+Garrett Hampson,OF,COL,@LAD,8,2800,9.6,3.4,15.0,5.4,9.5,3.4,W 5 Out
+Tommy La Stella,2B,OAK,SD,2,3000,9.6,3.2,10.6,3.5,9.9,3.3,W 7 Out
+Jurickson Profar,2B,SD,@OAK,8,2900,9.6,3.3,13.8,4.8,8.8,3.1,W 7 Out
+Evan White,C1,SEA,TEX,6,2700,9.5,3.5,5.6,2.1,7.4,2.7,In Dome
+Luis Urias,3B,MIL,@CLE,1,2400,9.5,4.0,5.5,2.3,6.6,2.8,W 11 L-R
+Sam Haggerty,C1,SEA,TEX,5,3100,9.5,3.1,8.1,2.6,11.1,3.6,In Dome
+Carlos Santana,C1,CLE,MIL,4,2800,9.3,3.3,2.5,0.9,9.0,3.2,W 11 L-R
+Albert Pujols,C1,LAA,HOU,5,2700,9.2,3.4,10.1,3.7,8.7,3.2,W 6 Out
+Eric Hosmer,C1,SD,@OAK,4,3900,9.2,2.4,17.7,4.5,13.0,3.3,W 7 Out
+Charlie Blackmon,OF,COL,@LAD,3,3700,9.2,2.5,5.5,1.5,11.5,3.1,W 5 Out
+Austin Nola,C1,SD,@OAK,5,2800,9.2,3.3,6.8,2.4,9.9,3.5,W 7 Out
+Kris Bryant,3B,CHC,STL,2,3100,9.2,3.0,2.4,0.8,6.8,2.2,W 10 L-R
+Adalberto Mondesi,SS,KC,CWS,8,2500,9.1,3.7,1.9,0.8,5.3,2.1,W 5 R-L
+Kevin Kiermaier,OF,TB,MIA,8,2500,9.1,3.7,15.1,6.0,8.3,3.3,In Dome
+Eli White,2B,TEX,@SEA,9,2000,9.1,4.6,0.0,0.0,0.0,0.0,In Dome
+Brian Anderson,3B,MIA,@TB,5,2900,9.1,3.1,7.3,2.5,9.3,3.2,In Dome
+Maikel Franco,3B,KC,CWS,4,2700,9.1,3.4,5.5,2.1,8.9,3.3,W 5 R-L
+Kolten Wong,2B,STL,@CHC,1,2600,9.0,3.5,13.2,5.1,8.3,3.2,W 10 L-R
+Jo Adell,OF,LAA,HOU,6,2200,9.0,4.1,9.4,4.3,5.2,2.4,W 6 Out
+Paul DeJong,SS,STL,@CHC,5,3000,9.0,3.0,14.3,4.8,11.2,3.7,W 10 L-R
+Joey Wendle,SS,TB,MIA,3,2200,8.9,4.1,4.9,2.3,7.4,3.4,In Dome
+Josh Reddick,OF,HOU,@LAA,7,2300,8.9,3.9,6.1,2.7,7.8,3.4,W 6 Out
+Wilson Ramos,C1,NYM,PHI,8,2200,8.9,4.0,1.2,0.6,5.6,2.5,W 8 L-R
+Amed Rosario,SS,NYM,PHI,9,2400,8.8,3.7,8.9,3.7,7.0,2.9,W 8 L-R
+Nolan Arenado,3B,COL,@LAD,4,3500,8.8,2.5,5.5,1.6,10.0,2.9,W 5 Out
+Edward Olivares,OF,KC,CWS,6,2000,8.8,4.4,4.3,2.2,5.0,2.5,W 5 R-L
+Sean Murphy,C1,OAK,SD,8,2100,8.8,4.2,2.5,1.2,5.5,2.6,W 7 Out
+Manuel Margot,OF,TB,MIA,7,2400,8.7,3.6,4.3,1.8,7.5,3.1,In Dome
+Eric Sogard,2B,MIL,@CLE,8,2200,8.7,4.0,7.0,3.2,5.4,2.5,W 11 L-R
+Corey Dickerson,OF,MIA,@TB,2,2700,8.7,3.2,6.2,2.3,7.5,2.8,In Dome
+Mauricio Dubon,SS,SF,ARI,9,2000,8.5,4.3,7.5,3.7,5.9,2.9,W 8 Out
+Stephen Piscotty,OF,OAK,SD,7,3200,8.5,2.7,10.8,3.4,10.7,3.3,W 7 Out
+Andrelton Simmons,SS,LAA,HOU,8,2500,8.5,3.4,10.6,4.3,8.2,3.3,W 6 Out
+Nomar Mazara,OF,CWS,@KC,8,2300,8.5,3.7,4.4,1.9,5.4,2.3,W 5 R-L
+Daniel Murphy,C1,COL,@LAD,5,2500,8.5,3.4,4.9,2.0,7.1,2.8,W 5 Out
+Phil Gosselin,3B,PHI,@NYM,7,2400,8.4,3.5,1.9,0.8,8.1,3.4,W 8 L-R
+Robbie Grossman,OF,OAK,SD,6,3000,8.4,2.8,8.1,2.7,11.9,4.0,W 7 Out
+Trent Grisham,OF,SD,@OAK,1,3100,8.4,2.7,10.6,3.4,11.1,3.6,W 7 Out
+Luis Torrens,C1,SEA,TEX,9,2300,8.3,3.6,1.2,0.5,2.1,0.9,In Dome
+Javier Baez,SS,CHC,STL,4,3200,8.3,2.6,9.6,3.0,8.5,2.7,W 10 L-R
+Raimel Tapia,OF,COL,@LAD,1,2700,8.2,3.1,9.4,3.5,8.2,3.0,W 5 Out
+Anthony Bemboom,C1,LAA,HOU,7,2400,8.2,3.4,4.9,2.1,7.7,3.2,W 6 Out
+Josh Naylor,OF,CLE,MIL,7,2400,8.2,3.4,7.6,3.2,4.5,1.9,W 11 L-R
+Kevin Pillar,OF,COL,@LAD,6,3000,8.2,2.7,15.5,5.2,10.3,3.4,W 5 Out
+Cesar Hernandez,2B,CLE,MIL,1,2700,8.0,3.0,4.2,1.6,8.7,3.2,W 11 L-R
+Luis Rengifo,2B,LAA,HOU,9,2100,8.0,3.8,7.4,3.5,4.7,2.3,W 6 Out
+Meibrys Viloria,C1,KC,CWS,9,2000,8.0,4.0,0.6,0.3,1.7,0.9,W 5 R-L
+Jose Trevino,C1,TEX,@SEA,8,2300,8.0,3.5,5.7,2.5,7.6,3.3,In Dome
+Willson Contreras,C1,CHC,STL,6,3000,8.0,2.7,9.3,3.1,8.9,3.0,W 10 L-R
+Kole Calhoun,OF,ARI,@SF,5,2900,8.0,2.8,3.0,1.1,10.0,3.5,W 8 Out
+Andy Young,3B,ARI,@SF,8,2200,8.0,3.6,4.3,2.0,6.5,2.9,W 8 Out
+Nick Madrigal,2B,CWS,@KC,9,2500,8.0,3.2,6.7,2.7,6.8,2.7,W 5 R-L
+James McCann,C1,CWS,@KC,7,3000,7.9,2.6,10.6,3.5,9.5,3.2,W 5 R-L
+Yadier Molina,C1,STL,@CHC,6,2500,7.9,3.2,10.1,4.0,8.0,3.2,W 10 L-R
+Orlando Arcia,SS,MIL,@CLE,9,2400,7.8,3.3,7.5,3.1,6.1,2.6,W 11 L-R
+Tommy Edman,3B,STL,@CHC,2,2600,7.7,3.0,8.6,3.3,8.8,3.4,W 10 L-R
+Joey Bart,C1,SF,ARI,8,2400,7.7,3.2,6.9,2.9,6.4,2.7,W 8 Out
+Matt Carpenter,3B,STL,@CHC,7,2600,7.7,2.9,7.5,2.9,8.0,3.1,W 10 L-R
+Martin Maldonado,C1,HOU,@LAA,9,2400,7.6,3.2,11.1,4.6,9.7,4.1,W 6 Out
+Nicky Lopez,2B,KC,CWS,7,2100,7.6,3.6,5.7,2.7,5.2,2.5,W 5 R-L
+Miguel Rojas,SS,MIA,@TB,9,3100,7.6,2.4,7.3,2.4,11.9,3.8,In Dome
+Jorge Alfaro,C1,MIA,@TB,7,2100,7.5,3.6,4.3,2.1,5.6,2.7,In Dome
+Michael Perez,C1,TB,MIA,9,2000,7.5,3.7,2.4,1.2,3.4,1.7,In Dome
+Daulton Varsho,C1,ARI,@SF,9,2100,7.4,3.5,1.2,0.6,2.4,1.1,W 8 Out
+Ryan McMahon,2B,COL,@LAD,7,2600,7.4,2.9,4.3,1.7,9.3,3.6,W 5 Out
+Tyler O'Neill,OF,STL,@CHC,8,2400,7.4,3.1,4.9,2.0,6.9,2.9,W 10 L-R
+Jose Martinez,OF,CHC,STL,8,2400,7.2,3.0,1.2,0.5,6.5,2.7,W 10 L-R
+Vimael Machin,SS,OAK,SD,9,2100,7.1,3.4,3.1,1.5,2.8,1.3,W 7 Out
+Delino DeShields,OF,CLE,MIL,9,2200,6.7,3.0,3.6,1.7,5.3,2.4,W 11 L-R
+Jason Kipnis,2B,CHC,STL,9,2500,6.6,2.6,6.8,2.7,7.7,3.1,W 10 L-R
+Austin Hedges,C1,CLE,MIL,8,2200,6.5,3.0,3.1,1.4,4.2,1.9,W 11 L-R
+Jason Castro,C1,SD,@OAK,9,2200,6.4,2.9,5.8,2.6,7.2,3.3,W 7 Out
+Dylan Carlson,OF,STL,@CHC,9,2200,6.3,2.9,3.2,1.5,5.3,2.4,W 10 L-R
+Tony Wolters,C1,COL,@LAD,9,2000,5.9,3.0,3.0,1.5,3.7,1.8,W 5 Out
+Matt Beaty,C1,LAD,COL,,2200,3.8,1.8,1.8,0.8,5.2,2.4,W 5 Out
+Bryce Harper,OF,PHI,@NYM,,4200,3.7,0.9,7.9,1.9,13.8,3.3,W 8 L-R
+Yadiel Rivera,C1,TEX,@SEA,,2000,3.5,1.7,1.5,0.8,1.5,0.8,In Dome
+Jose Marmolejos,C1,SEA,TEX,,2800,3.5,1.2,16.2,5.8,9.0,3.2,In Dome
+Jeff Mathis,C1,TEX,@SEA,,2000,3.3,1.7,5.6,2.8,6.2,3.1,In Dome
+David Bote,3B,CHC,STL,,2600,3.2,1.3,12.3,4.7,8.7,3.4,W 10 L-R
+Jake Fraley,OF,SEA,TEX,,2400,3.2,1.3,7.9,3.3,8.6,3.6,In Dome
+Enrique Hernandez,2B,LAD,COL,,2400,3.2,1.3,4.4,1.9,6.5,2.7,W 5 Out
+Ben Gamel,OF,MIL,@CLE,,2300,3.1,1.4,11.0,4.8,6.7,2.9,W 11 L-R
+Jake Marisnick,OF,NYM,PHI,,2100,3.1,1.5,6.3,3.0,5.1,2.4,W 8 L-R
+Jace Peterson,OF,MIL,@CLE,,2000,3.1,1.6,8.7,4.3,5.5,2.7,W 11 L-R
+Sam Hilliard,OF,COL,@LAD,,2600,3.1,1.2,7.5,2.9,8.5,3.3,W 5 Out
+Anderson Tejeda,SS,TEX,@SEA,,2000,3.1,1.5,8.7,4.3,8.7,4.3,In Dome
+Scott Heineman,OF,TEX,@SEA,,2000,3.1,1.5,1.9,0.9,4.8,2.4,In Dome
+Jedd Gyorko,3B,MIL,@CLE,,2400,3.0,1.3,10.5,4.4,7.7,3.2,W 11 L-R
+Khris Davis,OF,OAK,SD,,2400,3.0,1.3,2.4,1.0,5.6,2.3,W 7 Out
+Phillip Ervin,OF,SEA,TEX,,2100,3.0,1.4,0.0,0.0,2.7,1.3,In Dome
+David Dahl,OF,COL,@LAD,,2500,3.0,1.2,0.6,0.2,6.3,2.5,W 5 Out
+Franklin Barreto,2B,LAA,HOU,,2000,3.0,1.5,0.6,0.3,0.9,0.5,W 6 Out
+Edwin Rios,3B,LAD,COL,,2200,3.0,1.4,3.7,1.7,6.7,3.0,W 5 Out
+Tony Kemp,2B,OAK,SD,,2000,3.0,1.5,5.5,2.8,5.3,2.7,W 7 Out
+Robinson Chirinos,C1,NYM,PHI,,2100,2.9,1.4,3.6,1.7,3.7,1.8,W 8 L-R
+Todd Frazier,3B,NYM,PHI,,2500,2.9,1.2,10.4,4.2,8.0,3.2,W 8 L-R
+Austin Barnes,C1,LAD,COL,,2100,2.9,1.4,7.6,3.6,7.4,3.5,W 5 Out
+Lane Thomas,OF,STL,@CHC,,2000,2.9,1.4,3.6,1.8,2.6,1.3,W 10 L-R
+Dee Gordon,2B,SEA,TEX,,2000,2.9,1.4,4.9,2.5,3.8,1.9,In Dome
+Roman Quinn,OF,PHI,@NYM,,2400,2.9,1.2,0.0,0.0,6.6,2.7,W 8 L-R
+Steven Souza,OF,CHC,STL,,2500,2.9,1.1,7.5,3.0,6.6,2.6,W 10 L-R
+Neil Walker,2B,PHI,@NYM,,2200,2.8,1.3,5.1,2.3,4.1,1.9,W 8 L-R
+Jacob Nottingham,C1,MIL,@CLE,,2200,2.8,1.3,5.7,2.6,5.7,2.6,W 11 L-R
+Billy Hamilton,OF,NYM,PHI,,2000,2.8,1.4,2.5,1.2,2.4,1.2,W 8 L-R
+Jorge Mateo,2B,SD,@OAK,,2000,2.8,1.4,4.3,2.2,2.1,1.0,W 7 Out
+Tyrone Taylor,OF,MIL,@CLE,,2000,2.8,1.4,0.0,0.0,0.0,0.0,W 11 L-R
+Mark Mathias,2B,MIL,@CLE,,2100,2.8,1.3,3.8,1.8,4.7,2.2,W 11 L-R
+Harrison Bader,OF,STL,@CHC,,2100,2.8,1.3,1.2,0.6,6.0,2.9,W 10 L-R
+Myles Straw,OF,HOU,@LAA,,2000,2.8,1.4,5.7,2.9,5.7,2.8,W 6 Out
+Tim Lopes,OF,SEA,TEX,,2200,2.8,1.3,5.8,2.6,6.7,3.0,In Dome
+Luis Guillorme,2B,NYM,PHI,,2300,2.8,1.2,6.2,2.7,7.5,3.3,W 8 L-R
+Andres Gimenez,2B,NYM,PHI,,2100,2.8,1.3,5.7,2.7,5.8,2.8,W 8 L-R
+Patrick Mazeika,C1,NYM,PHI,,2000,2.7,1.4,0.0,0.0,0.0,0.0,W 8 L-R
+Joseph Odom,C1,SEA,TEX,,2000,2.7,1.4,1.9,1.0,2.2,1.1,In Dome
+Abraham Toro,3B,HOU,@LAA,,2300,2.7,1.2,8.0,3.5,6.5,2.8,W 6 Out
+Derek Dietrich,2B,TEX,@SEA,,2500,2.7,1.1,4.3,1.7,6.6,2.6,In Dome
+Dustin Garneau,C1,HOU,@LAA,,2000,2.7,1.4,6.2,3.1,5.9,3.0,W 6 Out
+Harold Ramirez,OF,MIA,@TB,,2000,2.7,1.4,4.6,2.3,4.6,2.3,In Dome
+Jack Mayfield,SS,HOU,@LAA,,2000,2.7,1.3,3.2,1.6,2.2,1.1,W 6 Out
+Jose Briceno,C1,LAA,HOU,,2100,2.7,1.3,0.0,0.0,0.0,0.0,W 6 Out
+Cameron Maybin,OF,CHC,STL,,2300,2.7,1.2,6.6,2.9,5.8,2.5,W 10 L-R
+Jared Walsh,C1,LAA,HOU,,2000,2.7,1.3,3.7,1.8,1.8,0.9,W 6 Out
+Taylor Ward,3B,LAA,HOU,,2000,2.6,1.3,0.0,0.0,3.3,1.7,W 6 Out
+Chad Wallach,C1,MIA,@TB,,2000,2.6,1.3,6.1,3.1,6.1,3.1,In Dome
+Eddy Alvarez,2B,MIA,@TB,,2200,2.6,1.2,6.2,2.8,6.8,3.1,In Dome
+Garrett Stubbs,C1,HOU,@LAA,,2000,2.6,1.3,0.0,0.0,0.8,0.4,W 6 Out
+Jazz Chisholm,SS,MIA,@TB,,2000,2.6,1.3,0.0,0.0,0.0,0.0,In Dome
+Chad Pinder,SS,OAK,SD,,2300,2.6,1.1,6.8,3.0,5.7,2.5,W 7 Out
+Matt Kemp,OF,COL,@LAD,,2700,2.5,0.9,8.2,3.0,7.4,2.8,W 5 Out
+Jonah Heim,C1,OAK,SD,,2000,2.5,1.3,4.6,2.3,4.6,2.3,W 7 Out
+Francisco Mejia,C1,SD,@OAK,,2000,2.5,1.2,4.4,2.2,3.3,1.7,W 7 Out
+Andrew Knapp,C1,PHI,@NYM,,2000,2.5,1.2,8.7,4.3,6.0,3.0,W 8 L-R
+Tomas Nido,C1,NYM,PHI,,2200,2.4,1.1,13.3,6.1,11.7,5.3,W 8 L-R
+Rangel Ravelo,C1,STL,@CHC,,2000,2.4,1.2,0.0,0.0,0.0,0.0,W 10 L-R
+Andrew Knizner,C1,STL,@CHC,,2000,2.4,1.2,3.9,2.0,4.0,2.0,W 10 L-R
+Matt Joyce,OF,MIA,@TB,,2400,2.4,1.0,4.3,1.8,6.8,2.9,In Dome
+Victor Caratini,C1,CHC,STL,,2300,2.4,1.0,2.5,1.1,5.6,2.4,W 10 L-R
+Mitch Moreland,C1,SD,@OAK,,3500,2.3,0.7,2.4,0.7,12.5,3.6,W 7 Out
+Josh Fuentes,C1,COL,@LAD,,2300,2.3,1.0,7.4,3.2,5.8,2.5,W 5 Out
+Lewin Diaz,C1,MIA,@TB,,2000,2.3,1.1,3.1,1.6,3.4,1.7,In Dome
+Drew Butera,C1,COL,@LAD,,2000,2.2,1.1,2.8,1.4,3.1,1.5,W 5 Out
+Matt Wieters,C1,STL,@CHC,,2000,2.2,1.1,0.6,0.3,0.5,0.3,W 10 L-R
+Greg Garcia,2B,SD,@OAK,,2100,2.2,1.0,2.4,1.1,3.9,1.9,W 7 Out
+Nico Hoerner,2B,CHC,STL,,2200,2.2,1.0,4.5,2.0,6.1,2.8,W 10 L-R
+Greg Allen,OF,SD,@OAK,,2000,2.1,1.1,7.4,3.7,4.9,2.4,W 7 Out
+Elias Diaz,C1,COL,@LAD,,2000,2.1,1.0,2.4,1.2,3.0,1.5,W 5 Out
+Austin Dean,OF,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
+Odubel Herrera,OF,PHI,@NYM,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
+Connor Joe,C1,LAD,COL,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 Out
+Brett Phillips,OF,TB,MIA,,2000,0.0,0.0,0.0,0.0,5.3,2.7,In Dome
+Danny Santana,OF,TEX,@SEA,,2700,0.0,0.0,4.2,1.6,7.6,2.8,In Dome
+Jon Jay,OF,ARI,@SF,,2100,0.0,0.0,6.9,3.3,4.7,2.2,W 8 Out
+Luis Toribio,3B,SF,ARI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
+Moises Gomez,OF,TB,MIA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Davis Wendzel,3B,TEX,@SEA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Taylor Jones,C1,HOU,@LAA,,2200,0.0,0.0,6.8,3.1,6.7,3.1,W 6 Out
+Yermin Mercedes,C1,CWS,@KC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 R-L
+Ali Sanchez,C1,NYM,PHI,,2000,0.0,0.0,1.2,0.6,1.2,0.6,W 8 L-R
+Kevan Smith,C1,TB,MIA,,2000,0.0,0.0,5.7,2.9,4.5,2.3,In Dome
+Henri Lartigue,C1,PHI,@NYM,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
+Brian O'Keefe,C1,SEA,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Austin Shenton,3B,SEA,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Logan Wyatt,C1,SF,ARI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
+Will Wilson,SS,SF,ARI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
+Jahmai Jones,OF,LAA,HOU,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+David Fletcher,2B,LAA,HOU,,3100,0.0,0.0,8.2,2.6,10.6,3.4,W 6 Out
+Jake Lamb,3B,ARI,@SF,,2000,0.0,0.0,3.1,1.6,2.5,1.3,W 8 Out
+Darin Ruf,OF,SF,ARI,,2200,0.0,0.0,3.7,1.7,5.6,2.5,W 8 Out
+Jarrett Parker,OF,NYM,PHI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
+Eric Stamets,SS,COL,@LAD,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 Out
+Chris Rabago,SS,COL,@LAD,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 Out
+Brian Navarreto,C1,MIA,@TB,,2000,0.0,0.0,3.0,1.5,3.0,1.5,In Dome
+Nick Martini,OF,PHI,@NYM,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
+Michael Hermosillo,OF,LAA,HOU,,2000,0.0,0.0,4.4,2.2,3.1,1.6,W 6 Out
+Keibert Ruiz,C1,LAD,COL,,2000,0.0,0.0,10.9,5.4,10.9,5.4,W 5 Out
+Zach Green,3B,SF,ARI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
+Mike Freeman,2B,CLE,MIL,,2000,0.0,0.0,3.1,1.5,2.7,1.3,W 11 L-R
+Guillermo Heredia,OF,NYM,PHI,,2000,0.0,0.0,6.9,3.4,4.3,2.2,W 8 L-R
+Max Moroff,SS,NYM,PHI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
+Tucupita Marcano,3B,SD,@OAK,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 7 Out
+Webster Rivas,C1,SD,@OAK,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 7 Out
+Robert Hassell,OF,SD,@OAK,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 7 Out
+Korey Lee,C1,HOU,@LAA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Bobby Witt,SS,KC,CWS,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 R-L
+Michael Busch,2B,LAD,COL,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 Out
+Austin Allen,C1,OAK,SD,,2000,0.0,0.0,2.4,1.2,3.3,1.7,W 7 Out
+Edmundo Sosa,2B,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
+Magneuris Sierra,OF,MIA,@TB,,2600,0.0,0.0,6.2,2.4,9.1,3.5,In Dome
+Jesus Sanchez,OF,MIA,@TB,,2000,0.0,0.0,0.0,0.0,2.8,1.4,In Dome
+Jarrod Dyson,OF,CWS,@KC,,2000,0.0,0.0,1.3,0.6,4.2,2.1,W 5 R-L
+Michael Papierski,C1,HOU,@LAA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Colton Shaver,C1,HOU,@LAA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Nick Tanielu,3B,HOU,@LAA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Jake Meyers,OF,HOU,@LAA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Austin Slater,C1,SF,ARI,,2500,0.0,0.0,12.4,5.0,10.8,4.3,W 8 Out
+Josh Phegley,C1,CHC,STL,,2000,0.0,0.0,4.4,2.2,3.4,1.7,W 10 L-R
+Max Schrock,2B,STL,@CHC,,2000,0.0,0.0,0.6,0.3,2.5,1.3,W 10 L-R
+Zach McKinstry,2B,LAD,COL,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 Out
+Max Stassi,C1,LAA,HOU,,2200,0.0,0.0,3.7,1.7,8.0,3.7,W 6 Out
+Johneshwy Fargas,OF,NYM,PHI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
+Bret Boswell,2B,COL,@LAD,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 Out
+Nick Heath,OF,KC,CWS,,2000,0.0,0.0,6.8,3.4,6.8,3.4,W 5 R-L
+Jeison Guzman,SS,KC,CWS,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 R-L
+Yandy Diaz,3B,TB,MIA,,2500,0.0,0.0,8.2,3.3,8.4,3.4,In Dome
+Bradley Zimmer,OF,CLE,MIL,,2100,0.0,0.0,2.4,1.1,4.8,2.3,W 11 L-R
+Ryan Cordell,OF,NYM,PHI,,2000,0.0,0.0,2.3,1.1,2.3,1.1,W 8 L-R
+Kody Hoese,3B,LAD,COL,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 Out
+Kameron Misner,OF,MIA,@TB,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Nasim Nunez,SS,MIA,@TB,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Devin Mann,2B,LAD,COL,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 Out
+Rougned Odor,2B,TEX,@SEA,,2500,0.0,0.0,0.6,0.2,5.9,2.4,In Dome
+Luis Gonzalez,OF,CWS,@KC,,2000,0.0,0.0,2.1,1.0,2.1,1.0,W 5 R-L
+Chadwick Tromp,C1,SF,ARI,,2000,0.0,0.0,1.3,0.7,5.7,2.9,W 8 Out
+Evan Mendoza,3B,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
+Jordan Walker,3B,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
+Pablo Sandoval,C1,SF,ARI,,2100,0.0,0.0,3.1,1.5,3.8,1.8,W 8 Out
+Hunter Renfroe,OF,TB,MIA,,2700,0.0,0.0,5.0,1.8,7.8,2.9,In Dome
+Domingo Santana,OF,CLE,MIL,,2300,0.0,0.0,5.8,2.5,6.3,2.7,W 11 L-R
+Mallex Smith,OF,SEA,TEX,,2000,0.0,0.0,3.7,1.9,3.9,2.0,In Dome
+Mikie Mahtook,OF,PHI,@NYM,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
+Ronald Torreyes,SS,PHI,@NYM,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
+Tommy Pham,OF,SD,@OAK,,2800,0.0,0.0,7.4,2.6,9.0,3.2,W 7 Out
+Chris Owings,OF,COL,@LAD,,2000,0.0,0.0,6.3,3.1,6.8,3.4,W 5 Out
+Nate Lowe,C1,TB,MIA,,2300,0.0,0.0,6.0,2.6,6.0,2.6,In Dome
+Adolis Garcia,OF,TEX,@SEA,,2000,0.0,0.0,1.0,0.5,1.0,0.5,In Dome
+Terrance Gore,OF,LAD,COL,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 Out
+Francisco Cervelli,C1,MIA,@TB,,2700,0.0,0.0,6.6,2.5,10.1,3.7,In Dome
+Nick Dini,C1,KC,CWS,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 R-L
+Salvador Perez,C1,KC,CWS,,2900,0.0,0.0,8.8,3.0,9.5,3.3,W 5 R-L
+Yasmani Grandal,C1,CWS,@KC,,2800,0.0,0.0,7.3,2.6,9.2,3.3,W 5 R-L
+Matt Thaiss,3B,LAA,HOU,,2000,0.0,0.0,3.1,1.5,3.1,1.5,W 6 Out
+Ryan Goins,3B,CWS,@KC,,2000,0.0,0.0,1.2,0.6,1.1,0.6,W 5 R-L
+Wander Franco,SS,TB,MIA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Josh VanMeter,2B,ARI,@SF,,2000,0.0,0.0,1.8,0.9,3.5,1.8,W 8 Out
+Ryan O'Hearn,C1,KC,CWS,,2400,0.0,0.0,1.2,0.5,7.0,2.9,W 5 R-L
+Rodolfo Duran,C1,PHI,@NYM,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
+Nick Maton,SS,PHI,@NYM,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
+Bryson Stott,SS,PHI,@NYM,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
+Santiago Chavez,C1,MIA,@TB,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Hernan Perez,3B,CHC,STL,,2000,0.0,0.0,1.0,0.5,1.0,0.5,W 10 L-R
+Jake Vogel,OF,LAD,COL,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 Out
+Humberto Arteaga,SS,KC,CWS,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 R-L
+Mike Brosseau,2B,TB,MIA,,2500,0.0,0.0,9.4,3.8,7.6,3.1,In Dome
+Ryan Lavarnway,C1,MIA,@TB,,2000,0.0,0.0,2.4,1.2,2.4,1.2,In Dome
+Anthony Garcia,OF,LAD,COL,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 Out
+Sandy Leon,C1,CLE,MIL,,2100,0.0,0.0,9.2,4.4,4.4,2.1,W 11 L-R
+Carson Kelly,C1,ARI,@SF,,2300,0.0,0.0,6.2,2.7,5.1,2.2,W 8 Out
+Jose Rojas,2B,LAA,HOU,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Jack Kruger,C1,LAA,HOU,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Elliot Soto,SS,LAA,HOU,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+David Rodriguez,C1,NYM,PHI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
+Jake Hager,C1,NYM,PHI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
+Keon Broxton,OF,MIL,@CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 11 L-R
+Esteban Quiroz,2B,TB,MIA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Daniel Johnson,OF,CLE,MIL,,2000,0.0,0.0,0.6,0.3,1.0,0.5,W 11 L-R
+Marcus Semien,SS,OAK,SD,,2900,0.0,0.0,11.1,3.8,9.2,3.2,W 7 Out
+Stephen Vogt,C1,ARI,@SF,,2000,0.0,0.0,2.4,1.2,4.6,2.3,W 8 Out
+Taylor Walls,SS,TB,MIA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Jordan Luplow,OF,CLE,MIL,,2200,0.0,0.0,3.1,1.4,4.7,2.2,W 11 L-R
+Nicky Delmonico,OF,CWS,@KC,,2000,0.0,0.0,4.5,2.3,3.6,1.8,W 5 R-L
+Cam Gallagher,C1,KC,CWS,,2100,0.0,0.0,3.7,1.8,5.1,2.4,W 5 R-L
+Kaden Polcovich,2B,SEA,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Zach DeLoach,OF,SEA,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Tyler Keenan,3B,SEA,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Brett Eibner,OF,MIA,@TB,,2000,0.0,0.0,-1.0,0.0,-1.0,0.0,In Dome
+Ryan McBroom,C1,KC,CWS,,2200,0.0,0.0,0.6,0.3,6.0,2.7,W 5 R-L
+Seth Brown,C1,OAK,SD,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 7 Out
+Ian Miller,OF,CHC,STL,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
+Brendan Rodgers,2B,COL,@LAD,,2000,0.0,0.0,1.8,0.9,2.7,1.4,W 5 Out
+Yu Chang,3B,CLE,MIL,,2000,0.0,0.0,1.3,0.7,2.3,1.2,W 11 L-R
+Rob Refsnyder,OF,TEX,@SEA,,2000,0.0,0.0,3.1,1.5,3.1,1.5,In Dome
+Cheslor Cuthbert,C1,CWS,@KC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 R-L
+Sebastian Rivero,C1,KC,CWS,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 R-L
+Alex De Goti,2B,HOU,@LAA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Jamie Ritchie,C1,HOU,@LAA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Willie Calhoun,OF,TEX,@SEA,,2200,0.0,0.0,5.8,2.6,4.4,2.0,In Dome
+Jaylin Davis,OF,SF,ARI,,2000,0.0,0.0,6.2,3.1,6.2,3.1,W 8 Out
+Donovan Walton,SS,SEA,TEX,,2000,0.0,0.0,3.0,1.5,3.0,1.5,In Dome
+Johnny Davis,OF,TB,MIA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Ryon Healy,C1,MIL,@CLE,,2000,0.0,0.0,1.0,0.5,1.0,0.5,W 11 L-R
+Patrick Bailey,C1,SF,ARI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
+Scott Kingery,OF,PHI,@NYM,,2200,0.0,0.0,7.6,3.5,3.8,1.7,W 8 L-R
+Mike Zunino,C1,TB,MIA,,2000,0.0,0.0,3.0,1.5,6.1,3.1,In Dome
+Bubba Starling,OF,KC,CWS,,2000,0.0,0.0,3.1,1.6,2.4,1.2,W 5 R-L
+Jose Altuve,2B,HOU,@LAA,,3200,0.0,0.0,5.5,1.7,8.6,2.7,W 6 Out
+Rocky Gale,C1,LAD,COL,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 Out
+Brian O'Grady,C1,TB,MIA,,2100,0.0,0.0,10.7,5.1,10.7,5.1,In Dome
+Abraham Almonte,OF,SD,@OAK,,2000,0.0,0.0,3.0,1.5,3.0,1.5,W 7 Out
+Zack Collins,C1,CWS,@KC,,2000,0.0,0.0,2.4,1.2,1.7,0.9,W 5 R-L
+David Peralta,OF,ARI,@SF,,2700,0.0,0.0,3.7,1.4,8.5,3.1,W 8 Out
+Braden Bishop,OF,SEA,TEX,,2100,0.0,0.0,6.9,3.3,5.4,2.6,In Dome
+Yordys Valdes,SS,CLE,MIL,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 11 L-R
+Tyler Freeman,SS,CLE,MIL,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 11 L-R
+Drew Jackson,OF,LAD,COL,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 Out
+Steven Duggar,OF,SF,ARI,,2000,0.0,0.0,0.0,0.0,2.3,1.2,W 8 Out
+Masyn Winn,SS,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
+Monte Harrison,OF,MIA,@TB,,2000,0.0,0.0,6.2,3.1,4.3,2.2,In Dome
+Joe McCarthy,OF,SF,ARI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
+Miguel Vargas,3B,LAD,COL,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 Out
+Brett Baty,3B,NYM,PHI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
+Simon Muzziotti,OF,PHI,@NYM,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
+Rafael Marchan,C1,PHI,@NYM,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
+Sean Rodriguez,3B,MIA,@TB,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Oscar Hernandez,C1,KC,CWS,,2000,0.0,0.0,2.3,1.2,2.3,1.2,W 5 R-L
+Daniel Robertson,3B,SF,ARI,,2200,0.0,0.0,11.1,5.1,11.1,5.1,W 8 Out
+Adam Engel,OF,CWS,@KC,,2200,0.0,0.0,5.0,2.3,6.4,2.9,W 5 R-L
+Dylan Cozens,OF,TB,MIA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Kyle Garlick,OF,PHI,@NYM,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
+Albert Almora,OF,CHC,STL,,2000,0.0,0.0,2.5,1.3,1.7,0.8,W 10 L-R
+Jordan Brewer,OF,HOU,@LAA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Grae Kessinger,SS,HOU,@LAA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Jeremy Pena,SS,HOU,@LAA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 Out
+Danny Mendick,2B,CWS,@KC,,2300,0.0,0.0,2.4,1.1,6.2,2.7,W 5 R-L
+Tyler Heineman,C1,SF,ARI,,2000,0.0,0.0,2.4,1.2,4.9,2.5,W 8 Out
+Erick Mejia,SS,KC,CWS,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 R-L
+Alan Trejo,SS,COL,@LAD,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 Out
+John Nogowski,C1,STL,@CHC,,2000,0.0,0.0,3.0,1.5,3.0,1.5,W 10 L-R
+Jose Godoy,C1,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
+CJ Abrams,SS,SD,@OAK,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 7 Out
+Malcom Nunez,3B,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
+Jhon Torres,OF,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
+Trejyn Fletcher,OF,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
+Yolmer Sanchez,2B,CWS,@KC,,2000,0.0,0.0,1.1,0.5,1.1,0.5,W 5 R-L
+Roberto Perez,C1,CLE,MIL,,2100,0.0,0.0,6.3,3.0,4.9,2.4,W 11 L-R
+Carson Taylor,C1,LAD,COL,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 5 Out
+Beau Taylor,C1,CLE,MIL,,2000,0.0,0.0,3.8,1.9,2.7,1.4,W 11 L-R
+Joe Hudson,C1,SEA,TEX,,2000,0.0,0.0,1.8,0.9,1.7,0.8,In Dome
+Justin Turner,3B,LAD,COL,,3000,0.0,0.0,12.4,4.1,10.5,3.5,W 5 Out
+Dexter Fowler,OF,STL,@CHC,,2300,0.0,0.0,16.5,7.2,8.6,3.8,W 10 L-R
+Manny Pina,C1,MIL,@CLE,,2000,0.0,0.0,1.2,0.6,6.4,3.2,W 11 L-R
+Luis Alexander Basabe,OF,SF,ARI,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 Out
+Randy Arozarena,OF,TB,MIA,,2200,0.0,0.0,10.9,4.9,10.9,4.9,In Dome
+Oscar Mercado,OF,CLE,MIL,,2100,0.0,0.0,2.4,1.2,2.5,1.2,W 11 L-R
+Kevin Cron,C1,ARI,@SF,,2000,0.0,0.0,0.6,0.3,1.1,0.6,W 8 Out
