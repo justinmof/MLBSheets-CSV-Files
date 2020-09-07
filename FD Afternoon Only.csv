@@ -1,10 +1,10 @@
 ﻿PLAYER,POS,TEAM,OPP,START,SAL,FPTS,VAL,FPTS L5,VAL L5,FPTS AVG,VAL AVG,WEATHER
-Kyle Hendricks,P,CHC,STL,Yes,8700,28.4,3.3,29.8,3.4,31.4,3.6,W 11 In
+Kyle Hendricks,P,CHC,STL,Yes,8700,28.4,3.3,29.8,3.4,31.4,3.6,W 12 In
 Marco Gonzales,P,SEA,TEX,Yes,8500,24.8,2.9,37.2,4.4,34.7,4.1,In Dome
 Kolby Allard,P,TEX,@SEA,Yes,7000,23.9,3.4,17.0,2.4,17.2,2.5,In Dome
-Johan Oviedo,P,STL,@CHC,Yes,6300,20.0,3.2,17.7,2.8,17.7,2.8,W 11 In
+Johan Oviedo,P,STL,@CHC,Yes,6300,20.0,3.2,17.7,2.8,17.7,2.8,W 12 In
 Joey Gallo,OF,TEX,@SEA,5,3200,12.0,3.7,6.2,2.0,9.6,3.0,In Dome
-Brad Miller,C1,STL,@CHC,4,3400,11.9,3.5,20.3,6.0,12.8,3.8,W 11 In
+Brad Miller,C1,STL,@CHC,4,3400,11.9,3.5,20.3,6.0,12.8,3.8,W 12 In
 Nick Solak,OF,TEX,@SEA,4,2700,10.6,3.9,9.3,3.4,8.9,3.3,In Dome
 Ty France,C1,SEA,TEX,7,2800,10.5,3.7,8.1,2.9,8.4,3.0,In Dome
 Phillip Ervin,OF,SEA,TEX,8,2100,10.5,5.0,2.5,1.2,3.1,1.5,In Dome
@@ -12,83 +12,83 @@ Kyle Lewis,OF,SEA,TEX,3,3700,10.3,2.8,10.0,2.7,12.1,3.3,In Dome
 Kyle Seager,3B,SEA,TEX,4,3100,10.1,3.3,11.8,3.8,11.6,3.7,In Dome
 Dylan Moore,3B,SEA,TEX,2,3000,9.8,3.3,6.7,2.2,12.5,4.2,In Dome
 Elvis Andrus,SS,TEX,@SEA,6,2400,9.8,4.1,5.6,2.4,6.2,2.6,In Dome
-Paul Goldschmidt,C1,STL,@CHC,3,3900,9.6,2.5,7.5,1.9,11.2,2.9,W 11 In
+Paul Goldschmidt,C1,STL,@CHC,3,3900,9.6,2.5,7.5,1.9,11.2,2.9,W 12 In
+Anthony Rizzo,C1,CHC,STL,3,4000,9.6,2.4,10.0,2.5,10.3,2.6,W 12 In
 Isiah Kiner-Falefa,3B,TEX,@SEA,2,2600,9.6,3.7,9.1,3.5,8.1,3.1,In Dome
-Anthony Rizzo,C1,CHC,STL,3,4000,9.6,2.4,10.0,2.5,10.3,2.6,W 11 In
 Evan White,C1,SEA,TEX,5,2600,9.5,3.7,6.9,2.7,7.7,3.0,In Dome
-Ian Happ,OF,CHC,STL,1,3500,9.5,2.7,11.7,3.4,12.3,3.5,W 11 In
+Ian Happ,OF,CHC,STL,1,3500,9.5,2.7,11.7,3.4,12.3,3.5,W 12 In
 Shin-Soo Choo,OF,TEX,@SEA,3,2800,9.4,3.3,12.3,4.4,9.6,3.4,In Dome
 Leody Taveras,OF,TEX,@SEA,1,2400,9.2,3.8,9.2,3.8,8.3,3.4,In Dome
-Paul DeJong,SS,STL,@CHC,5,3000,9.1,3.0,10.0,3.4,11.1,3.7,W 11 In
+Paul DeJong,SS,STL,@CHC,5,3000,9.1,3.0,10.0,3.4,11.1,3.7,W 12 In
 Sam Haggerty,C1,SEA,TEX,6,3000,9.1,3.0,5.5,1.9,10.7,3.6,In Dome
 J.P. Crawford,SS,SEA,TEX,1,2800,9.0,3.2,10.0,3.6,9.6,3.4,In Dome
-Kolten Wong,2B,STL,@CHC,1,2600,9.0,3.5,8.1,3.1,8.3,3.2,W 11 In
-Tommy Edman,3B,STL,@CHC,2,2600,8.9,3.4,8.2,3.1,8.8,3.4,W 11 In
-Kyle Schwarber,OF,CHC,STL,5,3600,8.8,2.5,4.2,1.2,10.1,2.8,W 11 In
-Matt Carpenter,3B,STL,@CHC,7,2600,8.5,3.3,10.0,3.8,8.3,3.2,W 11 In
-Kris Bryant,3B,CHC,STL,2,3000,8.5,2.8,5.5,1.8,6.7,2.2,W 11 In
-Tyler O'Neill,OF,STL,@CHC,8,2400,8.4,3.5,10.6,4.4,7.5,3.1,W 11 In
+Kolten Wong,2B,STL,@CHC,1,2600,9.0,3.5,8.1,3.1,8.3,3.2,W 12 In
+Tommy Edman,3B,STL,@CHC,2,2600,8.9,3.4,8.2,3.1,8.8,3.4,W 12 In
+Kyle Schwarber,OF,CHC,STL,5,3600,8.8,2.5,4.2,1.2,10.1,2.8,W 12 In
+Matt Carpenter,3B,STL,@CHC,7,2600,8.5,3.3,10.0,3.8,8.3,3.2,W 12 In
+Kris Bryant,3B,CHC,STL,2,3000,8.5,2.8,5.5,1.8,6.7,2.2,W 12 In
+Tyler O'Neill,OF,STL,@CHC,8,2400,8.4,3.5,10.6,4.4,7.5,3.1,W 12 In
 Luis Torrens,C1,SEA,TEX,9,2300,8.2,3.6,2.4,1.0,2.3,1.0,In Dome
 Ronald Guzman,C1,TEX,@SEA,8,2500,8.2,3.3,5.5,2.2,9.0,3.6,In Dome
-Javier Baez,SS,CHC,STL,4,3300,7.9,2.4,2.4,0.7,8.0,2.4,W 11 In
-Willson Contreras,C1,CHC,STL,6,3000,7.9,2.6,15.1,5.0,9.5,3.2,W 11 In
+Javier Baez,SS,CHC,STL,4,3300,7.9,2.4,2.4,0.7,8.0,2.4,W 12 In
+Willson Contreras,C1,CHC,STL,6,3000,7.9,2.6,15.1,5.0,9.5,3.2,W 12 In
 Eli White,2B,TEX,@SEA,9,2000,7.8,3.9,1.2,0.6,1.2,0.6,In Dome
 Jose Trevino,C1,TEX,@SEA,7,2400,7.6,3.2,6.9,2.9,7.4,3.1,In Dome
-Yadier Molina,C1,STL,@CHC,6,2500,7.5,3.0,8.0,3.2,7.4,2.9,W 11 In
-Jason Heyward,OF,CHC,STL,7,2900,7.1,2.5,4.8,1.7,9.5,3.3,W 11 In
-Dylan Carlson,OF,STL,@CHC,9,2200,7.0,3.2,2.0,0.9,4.9,2.2,W 11 In
-Jason Kipnis,2B,CHC,STL,9,2500,6.2,2.5,10.7,4.3,7.9,3.2,W 11 In
-Jose Martinez,OF,CHC,STL,8,2400,6.2,2.6,0.6,0.3,6.0,2.5,W 11 In
+Yadier Molina,C1,STL,@CHC,6,2500,7.5,3.0,8.0,3.2,7.4,2.9,W 12 In
+Jason Heyward,OF,CHC,STL,7,2900,7.1,2.5,4.8,1.7,9.5,3.3,W 12 In
+Dylan Carlson,OF,STL,@CHC,9,2200,7.0,3.2,2.0,0.9,4.9,2.2,W 12 In
+Jason Kipnis,2B,CHC,STL,9,2500,6.2,2.5,10.7,4.3,7.9,3.2,W 12 In
+Jose Martinez,OF,CHC,STL,8,2400,6.2,2.6,0.6,0.3,6.0,2.5,W 12 In
 Shed Long,2B,SEA,TEX,,2500,3.0,1.2,8.8,3.5,6.6,2.6,In Dome
 Jeff Mathis,C1,TEX,@SEA,,2000,2.9,1.5,5.6,2.8,5.8,2.9,In Dome
-Lane Thomas,OF,STL,@CHC,,2000,2.9,1.4,6.8,3.4,4.0,2.0,W 11 In
+Lane Thomas,OF,STL,@CHC,,2000,2.9,1.4,6.8,3.4,4.0,2.0,W 12 In
 Jose Marmolejos,C1,SEA,TEX,,2800,2.8,1.0,8.0,2.9,8.2,2.9,In Dome
-Harrison Bader,OF,STL,@CHC,,2200,2.8,1.3,5.5,2.5,6.3,2.9,W 11 In
+Harrison Bader,OF,STL,@CHC,,2200,2.8,1.3,5.5,2.5,6.3,2.9,W 12 In
 Anderson Tejeda,SS,TEX,@SEA,,2000,2.8,1.4,5.5,2.8,10.4,5.2,In Dome
 Scott Heineman,OF,TEX,@SEA,,2000,2.7,1.4,2.6,1.3,4.8,2.4,In Dome
 Joseph Odom,C1,SEA,TEX,,2000,2.7,1.4,1.3,0.7,2.0,1.0,In Dome
 Dee Strange-Gordon,2B,SEA,TEX,,2000,2.6,1.3,3.1,1.5,3.6,1.8,In Dome
-David Bote,3B,CHC,STL,,2600,2.6,1.0,14.2,5.5,8.5,3.3,W 11 In
-Rangel Ravelo,C1,STL,@CHC,,2000,2.4,1.2,4.8,2.4,4.8,2.4,W 11 In
+David Bote,3B,CHC,STL,,2600,2.6,1.0,14.2,5.5,8.5,3.3,W 12 In
+Rangel Ravelo,C1,STL,@CHC,,2000,2.4,1.2,4.8,2.4,4.8,2.4,W 12 In
 Derek Dietrich,2B,TEX,@SEA,,2500,2.4,1.0,1.2,0.5,6.0,2.4,In Dome
-Cameron Maybin,OF,CHC,STL,,2300,2.3,1.0,2.4,1.0,5.2,2.3,W 11 In
-Matt Wieters,C1,STL,@CHC,,2000,2.2,1.1,0.6,0.3,0.4,0.2,W 11 In
-Victor Caratini,C1,CHC,STL,,2300,2.1,0.9,3.1,1.4,5.0,2.2,W 11 In
-Ildemaro Vargas,2B,CHC,STL,,2000,1.9,1.0,1.8,0.9,3.4,1.7,W 11 In
-Nico Hoerner,2B,CHC,STL,,2200,1.9,0.9,4.3,2.0,5.9,2.7,W 11 In
-Andrew Knizner,C1,STL,@CHC,,2000,0.0,0.0,3.9,2.0,4.0,2.0,W 11 In
-Austin Dean,OF,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 11 In
-Edmundo Sosa,2B,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 11 In
-Davis Wendzel,3B,TEX,@SEA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-John Nogowski,C1,STL,@CHC,,2000,0.0,0.0,3.0,1.5,3.0,1.5,W 11 In
-Jose Godoy,C1,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 11 In
-Albert Almora,OF,CHC,STL,,2000,0.0,0.0,2.5,1.3,1.7,0.8,W 11 In
+Cameron Maybin,OF,CHC,STL,,2300,2.3,1.0,2.4,1.0,5.2,2.3,W 12 In
+Matt Wieters,C1,STL,@CHC,,2000,2.2,1.1,0.6,0.3,0.4,0.2,W 12 In
+Victor Caratini,C1,CHC,STL,,2300,2.1,0.9,3.1,1.4,5.0,2.2,W 12 In
+Ildemaro Vargas,2B,CHC,STL,,2000,1.9,1.0,1.8,0.9,3.4,1.7,W 12 In
+Nico Hoerner,2B,CHC,STL,,2200,1.9,0.9,4.3,2.0,5.9,2.7,W 12 In
+Ian Miller,OF,CHC,STL,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 12 In
 Willie Calhoun,OF,TEX,@SEA,,2200,0.0,0.0,5.8,2.6,4.4,2.0,In Dome
-Steven Souza,OF,CHC,STL,,2500,0.0,0.0,6.9,2.8,6.0,2.4,W 11 In
-Dexter Fowler,OF,STL,@CHC,,2300,0.0,0.0,16.5,7.2,8.6,3.8,W 11 In
-Jordan Walker,3B,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 11 In
-Masyn Winn,SS,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 11 In
-Yadiel Rivera,C1,TEX,@SEA,,2000,0.0,0.0,1.5,0.8,1.5,0.8,In Dome
-Donovan Walton,SS,SEA,TEX,,2000,0.0,0.0,3.0,1.5,3.0,1.5,In Dome
-Rougned Odor,2B,TEX,@SEA,,2500,0.0,0.0,0.6,0.2,5.9,2.4,In Dome
-Zach DeLoach,OF,SEA,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Tyler Keenan,3B,SEA,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Josh Phegley,C1,CHC,STL,,2000,0.0,0.0,4.4,2.2,3.4,1.7,W 11 In
-Evan Mendoza,3B,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 11 In
-Adolis Garcia,OF,TEX,@SEA,,2000,0.0,0.0,1.0,0.5,1.0,0.5,In Dome
-Joe Hudson,C1,SEA,TEX,,2000,0.0,0.0,1.8,0.9,1.7,0.8,In Dome
-Max Schrock,2B,STL,@CHC,,2000,0.0,0.0,0.6,0.3,2.5,1.3,W 11 In
-Brian O'Keefe,C1,SEA,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Steven Souza,OF,CHC,STL,,2500,0.0,0.0,6.9,2.8,6.0,2.4,W 12 In
+Albert Almora,OF,CHC,STL,,2000,0.0,0.0,2.5,1.3,1.7,0.8,W 12 In
 Austin Shenton,3B,SEA,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
 Kaden Polcovich,2B,SEA,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Davis Wendzel,3B,TEX,@SEA,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Dexter Fowler,OF,STL,@CHC,,2300,0.0,0.0,16.5,7.2,8.6,3.8,W 12 In
+Josh Phegley,C1,CHC,STL,,2000,0.0,0.0,4.4,2.2,3.4,1.7,W 12 In
+Andrew Knizner,C1,STL,@CHC,,2000,0.0,0.0,3.9,2.0,4.0,2.0,W 12 In
+Austin Dean,OF,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 12 In
 Danny Santana,OF,TEX,@SEA,,2700,0.0,0.0,4.2,1.6,7.6,2.8,In Dome
-Hernan Perez,3B,CHC,STL,,2000,0.0,0.0,1.0,0.5,1.0,0.5,W 11 In
-Malcom Nunez,3B,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 11 In
-Jhon Torres,OF,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 11 In
-Trejyn Fletcher,OF,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 11 In
-Tim Lopes,OF,SEA,TEX,,2200,0.0,0.0,5.8,2.6,6.7,3.0,In Dome
+Edmundo Sosa,2B,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 12 In
+Evan Mendoza,3B,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 12 In
+Jordan Walker,3B,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 12 In
+Masyn Winn,SS,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 12 In
+Yadiel Rivera,C1,TEX,@SEA,,2000,0.0,0.0,1.5,0.8,1.5,0.8,In Dome
 Jake Fraley,OF,SEA,TEX,,2400,0.0,0.0,7.9,3.3,8.6,3.6,In Dome
-Braden Bishop,OF,SEA,TEX,,2100,0.0,0.0,6.9,3.3,5.4,2.6,In Dome
-Ian Miller,OF,CHC,STL,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 11 In
+Adolis Garcia,OF,TEX,@SEA,,2000,0.0,0.0,1.0,0.5,1.0,0.5,In Dome
+Hernan Perez,3B,CHC,STL,,2000,0.0,0.0,1.0,0.5,1.0,0.5,W 12 In
+Rougned Odor,2B,TEX,@SEA,,2500,0.0,0.0,0.6,0.2,5.9,2.4,In Dome
 Rob Refsnyder,OF,TEX,@SEA,,2000,0.0,0.0,3.1,1.5,3.1,1.5,In Dome
+Malcom Nunez,3B,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 12 In
+Jhon Torres,OF,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 12 In
+Trejyn Fletcher,OF,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 12 In
+Max Schrock,2B,STL,@CHC,,2000,0.0,0.0,0.6,0.3,2.5,1.3,W 12 In
+Donovan Walton,SS,SEA,TEX,,2000,0.0,0.0,3.0,1.5,3.0,1.5,In Dome
+John Nogowski,C1,STL,@CHC,,2000,0.0,0.0,3.0,1.5,3.0,1.5,W 12 In
+Jose Godoy,C1,STL,@CHC,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 12 In
+Zach DeLoach,OF,SEA,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Tyler Keenan,3B,SEA,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
+Tim Lopes,OF,SEA,TEX,,2200,0.0,0.0,5.8,2.6,6.7,3.0,In Dome
+Joe Hudson,C1,SEA,TEX,,2000,0.0,0.0,1.8,0.9,1.7,0.8,In Dome
 Mallex Smith,OF,SEA,TEX,,2000,0.0,0.0,3.7,1.9,3.9,2.0,In Dome
+Braden Bishop,OF,SEA,TEX,,2100,0.0,0.0,6.9,3.3,5.4,2.6,In Dome
+Brian O'Keefe,C1,SEA,TEX,,2000,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
