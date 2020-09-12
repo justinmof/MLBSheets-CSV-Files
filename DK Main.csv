@@ -1,529 +1,1022 @@
-﻿PLAYER,POS,REAL POS,TEAM,OPP,START,SAL,FPTS,VAL,FPTS L5,VAL L5,FPTS AVG,VAL AVG,WEATHER
-Lucas Giolito,P,SP,CWS,DET,Yes,10500,22.0,2.1,30.0,2.9,22.5,2.2,W 10 L-R
-Shane Bieber,P,SP,CLE,@MIN,Yes,11000,19.5,1.8,24.7,2.2,30.0,2.7,W 8 In w/52%
-Luis Castillo,P,SP,CIN,@STL,Yes,9800,18.1,1.9,14.1,1.4,16.1,1.6,W 6 R-L
-Brandon Woodruff,P,SP,MIL,CHC,Yes,8500,17.8,2.1,12.0,1.4,14.7,1.7,In Dome
-Kenta Maeda,P,SP,MIN,CLE,Yes,10200,17.5,1.7,20.7,2.0,20.7,2.0,W 8 In w/52%
-Caleb Smith,P,SP,ARI,SEA,Yes,5900,15.5,2.6,6.6,1.1,6.6,1.1,In Dome
-Casey Mize,P,SP,DET,@CWS,Yes,5700,14.8,2.6,5.1,0.9,5.1,0.9,W 10 L-R
-Griffin Canning,P,SP,LAA,@COL,Yes,7300,14.4,2.0,8.5,1.2,9.4,1.3,W 6 In
-Mike Trout,OF,OF,LAA,@COL,3,6000,13.7,2.3,8.0,1.3,11.5,1.9,W 6 In
-Garrett Richards,P,SP,SD,SF,Yes,7500,13.6,1.8,9.2,1.2,11.4,1.5,W 8 L-R
-German Marquez,P,SP,COL,LAA,Yes,7400,13.3,1.8,6.5,0.9,13.5,1.8,W 6 In
-Mike Fiers,P,SP,OAK,@TEX,Yes,7200,13.2,1.8,12.5,1.7,8.5,1.2,In Dome
-Adam Wainwright,P,SP,STL,CIN,Yes,8800,12.5,1.4,20.3,2.3,20.6,2.4,W 6 R-L
-Clint Frazier,OF,OF,NYY,BAL,4,4600,11.4,2.5,7.4,1.6,8.6,1.9,W 8 L-R
-Jon Lester,P,SP,CHC,@MIL,Yes,8300,11.3,1.4,1.6,0.2,7.6,0.9,In Dome
-Luis Urias,2B,2B/3B,MIL,CHC,7,3100,11.2,3.6,7.4,2.4,6.0,1.9,In Dome
-Gleyber Torres,SS,SS,NYY,BAL,5,5000,11.2,2.2,6.8,1.4,5.4,1.1,W 8 L-R
-Anthony Rendon,3B,3B,LAA,@COL,4,4900,11.1,2.3,9.2,1.9,9.1,1.9,W 6 In
-Steven Brault,P,RP,PIT,@KC,Yes,6000,11.1,1.9,6.7,1.1,5.2,0.9,W 3 Out
-Johnny Cueto,P,SP,SF,@SD,Yes,8000,11.1,1.4,13.5,1.7,12.1,1.5,W 8 L-R
-Matt Olson,1B,1B,OAK,@TEX,4,5000,10.8,2.2,8.2,1.6,8.0,1.6,In Dome
-Fernando Tatis,SS,SS,SD,SF,2,6000,10.8,1.8,11.0,1.8,12.4,2.1,W 8 L-R
-DJ LeMahieu,2B,2B/3B,NYY,BAL,1,5500,10.7,1.9,10.2,1.9,8.9,1.6,W 8 L-R
-Luke Voit,1B,1B,NYY,BAL,2,5400,10.5,2.0,8.0,1.5,9.4,1.7,W 8 L-R
-Christian Walker,1B,1B,ARI,SEA,3,3700,10.5,2.9,8.2,2.2,7.9,2.1,In Dome
-Mike Tauchman,OF,OF,NYY,BAL,7,3200,10.5,3.3,3.4,1.1,5.0,1.6,W 8 L-R
-Trent Grisham,OF,OF,SD,SF,1,4800,10.4,2.2,9.8,2.0,8.8,1.8,W 8 L-R
-Trevor Story,SS,SS,COL,LAA,2,5800,10.3,1.8,11.0,1.9,10.8,1.9,W 6 In
-DJ Stewart,OF,OF,BAL,@NYY,5,2200,10.3,4.7,19.0,8.6,7.8,3.6,W 8 L-R
-Christian Yelich,OF,OF,MIL,CHC,3,5300,10.3,1.9,5.4,1.0,8.6,1.6,In Dome
-Tim Locastro,OF,OF,ARI,SEA,1,2500,10.2,4.1,9.0,3.6,4.3,1.7,In Dome
-Shohei Ohtani,1B,1B/OF,LAA,@COL,,4400,10.1,2.3,-5.4,0.0,-5.4,0.0,W 6 In
-Dylan Moore,2B,2B/OF,SEA,@ARI,2,3600,10.0,2.8,11.4,3.2,10.1,2.8,In Dome
-Kyle Seager,3B,3B,SEA,@ARI,4,4700,10.0,2.1,11.2,2.4,8.6,1.8,In Dome
-Gary Sanchez,C,C,NYY,BAL,6,4800,9.9,2.1,3.2,0.7,4.9,1.0,W 8 L-R
-Yusei Kikuchi,P,SP,SEA,@ARI,Yes,6200,9.8,1.6,11.5,1.9,12.5,2.0,In Dome
-Justin Upton,OF,OF,LAA,@COL,5,2900,9.7,3.4,10.8,3.7,6.0,2.1,W 6 In
-Manny Machado,3B,3B,SD,SF,3,5700,9.6,1.7,11.0,1.9,10.7,1.9,W 8 L-R
-Ty France,2B,2B/3B,SEA,@ARI,5,3800,9.6,2.5,7.8,2.1,6.6,1.7,In Dome
-Adalberto Mondesi,SS,SS,KC,PIT,9,2800,9.6,3.4,13.2,4.7,5.9,2.1,W 3 Out
-Brett Gardner,OF,OF,NYY,BAL,9,3500,9.5,2.7,3.6,1.0,5.0,1.4,W 8 L-R
-Ryan Braun,OF,OF,MIL,CHC,5,3500,9.4,2.7,8.8,2.5,6.0,1.7,In Dome
-Eugenio Suarez,3B,3B,CIN,@STL,4,4300,9.3,2.2,1.8,0.4,7.7,1.8,W 6 R-L
-Tim Anderson,SS,SS,CWS,DET,1,5700,9.2,1.6,7.8,1.4,10.5,1.8,W 10 L-R
-Phillip Ervin,OF,OF,SEA,@ARI,1,3300,9.1,2.8,2.8,0.9,2.2,0.7,In Dome
-Alex Dickerson,OF,OF,SF,@SD,2,4100,9.1,2.2,3.8,0.9,6.8,1.7,W 8 L-R
-Nolan Arenado,3B,3B,COL,LAA,4,5600,9.1,1.6,9.0,1.6,7.7,1.4,W 6 In
-Keston Hiura,2B,2B,MIL,CHC,2,5300,9.1,1.7,6.2,1.2,8.3,1.6,In Dome
-Kris Bubic,P,SP,KC,PIT,Yes,6600,9.1,1.4,9.3,1.4,10.2,1.6,W 3 Out
-Whit Merrifield,2B,2B/OF,KC,PIT,1,4500,9.1,2.0,10.2,2.3,8.6,1.9,W 3 Out
-Wil Myers,OF,OF,SD,SF,6,4300,9.0,2.1,13.0,3.0,9.5,2.2,W 8 L-R
-Shogo Akiyama,OF,OF,CIN,@STL,1,2100,9.0,4.3,7.0,3.3,4.4,2.1,W 6 R-L
-Avisail Garcia,OF,OF,MIL,CHC,1,2700,9.0,3.3,8.0,3.0,6.1,2.3,In Dome
-Charlie Blackmon,OF,OF,COL,LAA,3,5800,8.9,1.5,2.0,0.3,8.3,1.4,W 6 In
-Ramon Laureano,OF,OF,OAK,@TEX,3,3800,8.9,2.3,5.8,1.5,7.1,1.9,In Dome
-Carson Kelly,C,C,ARI,SEA,8,2300,8.8,3.8,5.4,2.4,4.1,1.8,In Dome
-Marcus Semien,SS,SS,OAK,@TEX,2,4100,8.8,2.1,1.2,0.3,6.6,1.6,In Dome
-Luis Robert,OF,OF,CWS,DET,6,5000,8.8,1.8,5.2,1.0,8.9,1.8,W 10 L-R
-Austin Nola,C,C,SD,SF,5,5000,8.7,1.7,12.0,2.4,8.0,1.6,W 8 L-R
-Nick Ahmed,SS,SS,ARI,SEA,6,3700,8.7,2.4,5.4,1.5,6.4,1.7,In Dome
-Jose Abreu,1B,1B,CWS,DET,3,5500,8.7,1.6,6.6,1.2,9.9,1.8,W 10 L-R
-Edwin Encarnacion,1B,1B,CWS,DET,4,4800,8.7,1.8,10.2,2.1,6.7,1.4,W 10 L-R
-Jedd Gyorko,1B,1B/3B,MIL,CHC,4,3900,8.7,2.2,10.4,2.7,6.7,1.7,In Dome
-Kyle Lewis,OF,OF,SEA,@ARI,3,4900,8.6,1.8,8.0,1.6,9.1,1.9,In Dome
-Hunter Dozier,1B,1B/OF,KC,PIT,2,3800,8.5,2.3,6.8,1.8,8.2,2.2,W 3 Out
-Nelson Cruz,OF,OF,MIN,CLE,4,5400,8.5,1.6,8.6,1.6,9.8,1.8,W 8 In w/52%
-Maikel Franco,3B,3B,KC,PIT,4,3500,8.5,2.4,10.2,2.9,7.5,2.1,W 3 Out
-Nick Castellanos,OF,OF,CIN,@STL,2,4700,8.5,1.8,7.4,1.6,8.4,1.8,W 6 R-L
-Josh Donaldson,3B,3B,MIN,CLE,2,4100,8.4,2.1,7.2,1.8,6.8,1.7,W 8 In w/52%
-Miguel Sano,1B,1B,MIN,CLE,5,5200,8.4,1.6,10.2,2.0,7.9,1.5,W 8 In w/52%
-Eduardo Escobar,3B,3B,ARI,SEA,4,3600,8.3,2.3,5.2,1.4,6.0,1.7,In Dome
-Eddie Rosario,OF,OF,MIN,CLE,3,4300,8.3,1.9,8.6,2.0,7.7,1.8,W 8 In w/52%
-Joey Gallo,OF,OF,TEX,OAK,4,4400,8.3,1.9,5.0,1.1,6.8,1.5,In Dome
-Tommy La Stella,1B,1B/2B,OAK,@TEX,1,4600,8.2,1.8,5.6,1.2,7.2,1.6,In Dome
-Jeimer Candelario,1B,1B,DET,@CWS,4,3700,8.2,2.2,14.4,3.9,8.9,2.4,W 10 L-R
-Mitch Moreland,1B,1B,SD,SF,4,4000,8.2,2.1,8.2,2.1,8.8,2.2,W 8 L-R
-Kyle Higashioka,C,C,NYY,BAL,,2600,8.2,3.2,5.4,2.1,3.9,1.5,W 8 L-R
-Tyler Wade,2B,2B/SS,NYY,BAL,,2700,8.1,3.0,3.2,1.2,2.8,1.0,W 8 L-R
-Brad Miller,3B,3B,STL,CIN,4,5000,8.1,1.6,3.4,0.7,8.5,1.7,W 6 R-L
-Jose Ramirez,3B,3B,CLE,@MIN,3,5400,8.1,1.5,7.4,1.4,9.3,1.7,W 8 In w/52%
-Mike Yastrzemski,OF,OF,SF,@SD,1,5500,8.1,1.5,6.6,1.2,9.8,1.8,W 8 L-R
-Donovan Solano,2B,2B,SF,@SD,3,4400,8.1,1.8,7.2,1.6,7.9,1.8,W 8 L-R
-Mark Canha,OF,OF,OAK,@TEX,5,4500,8.1,1.8,4.8,1.1,7.7,1.7,In Dome
-David Peralta,OF,OF,ARI,SEA,2,3000,8.0,2.7,7.6,2.5,6.7,2.2,In Dome
-Eloy Jimenez,OF,OF,CWS,DET,2,5100,8.0,1.6,4.2,0.8,8.4,1.6,W 10 L-R
-Brandon Belt,1B,1B,SF,@SD,4,3300,8.0,2.4,4.0,1.2,7.7,2.3,W 8 L-R
-Edward Olivares,OF,OF,KC,PIT,7,2600,8.0,3.1,11.4,4.4,6.2,2.4,W 3 Out
-Evan White,1B,1B,SEA,@ARI,6,3100,7.9,2.6,4.0,1.3,5.6,1.8,In Dome
-Sean Murphy,C,C,OAK,@TEX,9,3700,7.9,2.1,9.8,2.7,5.0,1.3,In Dome
-Jorge Polanco,SS,SS,MIN,CLE,1,4900,7.9,1.6,7.2,1.5,6.5,1.3,W 8 In w/52%
-Ian Happ,OF,OF,CHC,@MIL,1,4600,7.9,1.7,4.4,1.0,8.7,1.9,In Dome
-J.P. Crawford,SS,SS,SEA,@ARI,,4700,7.9,1.7,7.0,1.5,7.4,1.6,In Dome
-Rougned Odor,2B,2B,TEX,OAK,6,3100,7.9,2.5,1.2,0.4,4.1,1.3,In Dome
-Ryan McBroom,1B,1B,KC,PIT,5,2000,7.9,3.9,0.4,0.2,4.2,2.1,W 3 Out
-Ryan McMahon,2B,2B,COL,LAA,7,3900,7.9,2.0,1.8,0.5,6.3,1.6,W 6 In
-Brian Goodwin,OF,OF,CIN,@STL,5,2800,7.8,2.8,4.8,1.7,6.0,2.2,W 6 R-L
-Francisco Lindor,SS,SS,CLE,@MIN,1,5300,7.7,1.5,5.6,1.1,7.5,1.4,W 8 In w/52%
-Jake Cronenworth,2B,2B,SD,SF,7,4000,7.7,1.9,4.8,1.2,7.7,1.9,W 8 L-R
-Isiah Kiner-Falefa,3B,3B/SS,TEX,OAK,2,3600,7.6,2.1,8.2,2.3,6.8,1.9,In Dome
-Shed Long,2B,2B,SEA,@ARI,9,2400,7.6,3.2,4.6,1.9,5.0,2.1,In Dome
-Daulton Varsho,C,C/OF,ARI,SEA,9,2300,7.6,3.3,7.2,3.1,3.9,1.7,In Dome
-Wilmer Flores,1B,1B/2B,SF,@SD,5,4300,7.6,1.8,7.4,1.7,8.2,1.9,W 8 L-R
-Wyatt Mathisen,3B,3B,ARI,SEA,5,2300,7.6,3.3,2.3,1.0,2.3,1.0,In Dome
-Joey Votto,1B,1B,CIN,@STL,3,3900,7.6,1.9,2.2,0.6,6.3,1.6,W 6 R-L
-Willson Contreras,C,C,CHC,@MIL,4,4600,7.5,1.6,8.0,1.7,7.2,1.6,In Dome
-Jurickson Profar,OF,OF,SD,SF,9,3300,7.5,2.3,7.4,2.2,6.5,2.0,W 8 L-R
-Andrelton Simmons,SS,SS,LAA,@COL,1,3900,7.5,1.9,5.0,1.3,6.9,1.8,W 6 In
-Tommy Edman,3B,3B/OF,STL,CIN,2,5200,7.4,1.4,10.8,2.1,7.4,1.4,W 6 R-L
-Nick Solak,2B,2B,TEX,OAK,3,3600,7.4,2.1,3.8,1.1,6.6,1.8,In Dome
-Leody Taveras,OF,OF,TEX,OAK,1,2300,7.4,3.2,7.4,3.2,6.7,2.9,In Dome
-Josh Rojas,2B,2B,ARI,SEA,7,2900,7.4,2.5,4.8,1.7,4.4,1.5,In Dome
-Rio Ruiz,3B,3B,BAL,@NYY,7,4000,7.4,1.8,10.2,2.6,7.3,1.8,W 8 L-R
-Matt Carpenter,3B,3B,STL,CIN,7,5100,7.3,1.4,5.4,1.1,5.8,1.1,W 6 R-L
-Raimel Tapia,OF,OF,COL,LAA,1,3700,7.2,2.0,3.2,0.9,6.4,1.7,W 6 In
-Bubba Starling,OF,OF,KC,PIT,6,2200,7.2,3.3,1.6,0.7,2.3,1.1,W 3 Out
-Ryan Mountcastle,OF,OF,BAL,@NYY,6,3700,7.2,1.9,10.4,2.8,9.2,2.5,W 8 L-R
-Paul Goldschmidt,1B,1B,STL,CIN,3,5600,7.2,1.3,7.4,1.3,8.3,1.5,W 6 R-L
-Elvis Andrus,SS,SS,TEX,OAK,5,3100,7.2,2.3,4.2,1.4,4.9,1.6,In Dome
-Mauricio Dubon,OF,OF,SF,@SD,8,2700,7.1,2.6,6.2,2.3,5.1,1.9,W 8 L-R
-Jason Castro,C,C,SD,SF,8,4300,7.1,1.6,5.4,1.3,5.4,1.3,W 8 L-R
-Tyrone Taylor,OF,OF,MIL,CHC,8,2600,7.0,2.7,8.4,3.2,6.0,2.3,In Dome
-Victor Reyes,OF,OF,DET,@CWS,1,3900,6.9,1.8,4.2,1.1,7.3,1.9,W 10 L-R
-Paul DeJong,SS,SS,STL,CIN,5,4800,6.9,1.4,5.0,1.0,7.8,1.6,W 6 R-L
-Anthony Rizzo,1B,1B,CHC,@MIL,3,4900,6.9,1.4,2.4,0.5,7.1,1.5,In Dome
-Kolten Wong,2B,2B,STL,CIN,1,4900,6.9,1.4,5.8,1.2,6.2,1.3,W 6 R-L
-Byron Buxton,OF,OF,MIN,CLE,7,3300,6.8,2.1,5.4,1.6,6.0,1.8,W 8 In w/52%
-Tyler O'Neill,OF,OF,STL,CIN,8,2900,6.8,2.4,5.8,2.0,5.6,1.9,W 6 R-L
-Ronald Guzman,1B,1B,TEX,OAK,7,2900,6.8,2.3,3.4,1.2,5.8,2.0,In Dome
-Luis Torrens,C,C,SEA,@ARI,8,2800,6.8,2.4,4.4,1.6,2.9,1.0,In Dome
-Orlando Arcia,SS,SS,MIL,CHC,6,2900,6.8,2.3,7.4,2.6,4.9,1.7,In Dome
-Cedric Mullins,OF,OF,BAL,@NYY,1,2800,6.7,2.4,10.6,3.8,5.2,1.8,W 8 L-R
-Yolmer Sanchez,2B,2B/3B,CWS,DET,8,3500,6.7,1.9,4.0,1.1,4.0,1.1,W 10 L-R
-Anderson Tejeda,2B,2B/SS,TEX,OAK,9,3000,6.7,2.2,5.4,1.8,7.5,2.5,In Dome
-Nomar Mazara,OF,OF,CWS,DET,7,3300,6.6,2.0,5.0,1.5,4.4,1.3,W 10 L-R
-Jacob Nottingham,C,C,MIL,CHC,9,2600,6.6,2.5,6.4,2.5,5.8,2.2,In Dome
-James McCann,C,C,CWS,DET,5,4900,6.6,1.3,10.2,2.1,8.0,1.6,W 10 L-R
-Cole Tucker,OF,OF,PIT,@KC,9,2400,6.6,2.7,3.0,1.3,4.4,1.8,W 3 Out
-Kyle Schwarber,OF,OF,CHC,@MIL,5,4200,6.5,1.6,1.6,0.4,6.9,1.6,In Dome
-Nick Madrigal,2B,2B,CWS,DET,9,3200,6.5,2.0,5.4,1.7,6.0,1.9,W 10 L-R
-Evan Longoria,3B,3B,SF,@SD,6,4400,6.5,1.5,3.0,0.7,7.0,1.6,W 8 L-R
-Willi Castro,3B,3B/SS,DET,@CWS,5,3800,6.5,1.7,5.2,1.4,7.4,1.9,W 10 L-R
-Franmil Reyes,OF,OF,CLE,@MIN,5,4100,6.5,1.6,3.0,0.7,7.6,1.9,W 8 In w/52%
-Carlos Santana,1B,1B,CLE,@MIN,4,3600,6.4,1.8,5.4,1.5,6.5,1.8,W 8 In w/52%
-Alex Gordon,OF,OF,KC,PIT,8,2200,6.4,2.9,2.2,1.0,4.9,2.2,W 3 Out
-Jonathan Schoop,2B,2B,DET,@CWS,2,4200,6.4,1.5,1.8,0.4,7.6,1.8,W 10 L-R
-Robbie Grossman,OF,OF,OAK,@TEX,6,3800,6.4,1.7,2.4,0.6,7.7,2.0,In Dome
-Sam Huff,C,C,TEX,OAK,8,2200,6.2,2.8,0.0,0.0,0.0,0.0,In Dome
-Kris Bryant,3B,3B,CHC,@MIL,2,4600,6.2,1.3,5.6,1.2,5.1,1.1,In Dome
-Renato Nunez,1B,1B,BAL,@NYY,3,4500,6.1,1.3,5.0,1.1,8.2,1.8,W 8 L-R
-Josh Bell,1B,1B,PIT,@KC,6,3400,6.0,1.8,5.2,1.5,5.3,1.6,W 3 Out
-Tyler Naquin,OF,OF,CLE,@MIN,6,2800,6.0,2.2,1.8,0.6,6.4,2.3,W 8 In w/52%
-Cam Gallagher,C,C,KC,PIT,,2200,6.0,2.7,6.8,3.1,4.2,1.9,W 3 Out
-Jason Heyward,OF,OF,CHC,@MIL,7,3500,6.0,1.7,2.4,0.7,6.8,1.9,In Dome
-Luis Rengifo,2B,2B,LAA,@COL,9,3000,5.9,2.0,2.2,0.7,3.4,1.1,W 6 In
-Bryan Reynolds,OF,OF,PIT,@KC,4,3200,5.9,1.8,2.2,0.7,5.4,1.7,W 3 Out
-Chadwick Tromp,C,C,SF,@SD,9,3000,5.9,2.0,2.8,0.9,4.1,1.4,W 8 L-R
-Jorge Bonifacio,OF,OF,DET,@CWS,6,2500,5.9,2.3,6.2,2.5,5.2,2.1,W 10 L-R
-Yadier Molina,C,C,STL,CIN,6,4500,5.9,1.3,4.6,1.0,5.9,1.3,W 6 R-L
-Pedro Severino,C,C,BAL,@NYY,4,4700,5.8,1.2,5.2,1.1,7.5,1.6,W 8 L-R
-Cesar Hernandez,2B,2B,CLE,@MIN,2,4000,5.8,1.4,2.4,0.6,6.4,1.6,W 8 In w/52%
-Erik Gonzalez,3B,3B/SS,PIT,@KC,1,3300,5.7,1.7,6.0,1.8,6.5,2.0,W 3 Out
-Brandon Crawford,SS,SS,SF,@SD,7,4000,5.6,1.4,2.4,0.6,6.0,1.5,W 8 L-R
-Harrison Bader,OF,OF,STL,CIN,9,2800,5.6,2.0,2.8,1.0,4.4,1.6,W 6 R-L
-Ryan Jeffers,C,C,MIN,CLE,9,2400,5.5,2.3,5.2,2.2,3.3,1.4,W 8 In w/52%
-Daz Cameron,OF,OF,DET,@CWS,7,2600,5.5,2.1,0.5,0.2,0.5,0.2,W 10 L-R
-Miguel Cabrera,1B,1B,DET,@CWS,3,3200,5.5,1.7,3.4,1.1,6.3,2.0,W 10 L-R
-Roberto Perez,C,C,CLE,@MIN,8,3200,5.4,1.7,2.6,0.8,3.6,1.1,W 8 In w/52%
-Jacob Stallings,C,C,PIT,@KC,7,3000,5.4,1.8,4.6,1.5,5.7,1.9,W 3 Out
-Jose Garcia,SS,SS,CIN,@STL,8,2100,5.4,2.6,0.6,0.3,2.4,1.2,W 6 R-L
-Austin Romine,C,C,DET,@CWS,8,3500,5.3,1.5,1.0,0.3,4.9,1.4,W 10 L-R
-Tony Wolters,C,C,COL,LAA,9,2700,5.3,2.0,1.6,0.6,2.7,1.0,W 6 In
-Ke'Bryan Hayes,3B,3B,PIT,@KC,3,3000,5.3,1.8,7.0,2.3,8.1,2.7,W 3 Out
-Marwin Gonzalez,2B,2B/3B,MIN,CLE,8,3400,5.3,1.6,0.4,0.1,4.5,1.3,W 8 In w/52%
-Delino DeShields,OF,OF,CLE,@MIN,9,2000,5.3,2.6,3.8,1.9,4.3,2.2,W 8 In w/52%
-Victor Caratini,C,C,CHC,@MIL,8,2600,5.2,2.0,1.0,0.4,3.6,1.4,In Dome
-Colin Moran,1B,1B,PIT,@KC,5,3500,5.2,1.5,2.8,0.8,7.4,2.1,W 3 Out
-Kevin Newman,2B,2B/SS,PIT,@KC,2,3400,5.0,1.5,3.0,0.9,4.8,1.4,W 3 Out
-Josh Naylor,OF,OF,CLE,@MIN,7,2000,4.9,2.5,2.0,1.0,3.3,1.6,W 8 In w/52%
-Jose Iglesias,SS,SS,BAL,@NYY,2,4300,4.8,1.1,4.4,1.0,7.2,1.7,W 8 L-R
-Hanser Alberto,2B,2B,BAL,@NYY,8,3900,4.8,1.2,4.0,1.0,7.6,2.0,W 8 L-R
-Pat Valaika,1B,1B/2B,BAL,@NYY,,3300,4.8,1.4,5.2,1.6,5.2,1.6,W 8 L-R
-Isaac Paredes,3B,3B,DET,@CWS,9,2500,4.2,1.7,0.6,0.2,3.1,1.2,W 10 L-R
-Mike Ford,1B,1B,NYY,BAL,,3600,3.4,1.0,0.8,0.2,3.9,1.1,W 8 L-R
-Aaron Hicks,OF,OF,NYY,BAL,3,4000,3.3,0.8,9.4,2.4,6.4,1.6,W 8 L-R
-Miguel Andujar,3B,3B/OF,NYY,BAL,8,3700,3.2,0.9,8.0,2.2,3.8,1.0,W 8 L-R
-Jared Walsh,1B,1B,LAA,@COL,2,2500,3.0,1.2,10.4,4.2,4.8,1.9,W 6 In
-Khris Davis,OF,OF,OAK,@TEX,7,3200,2.8,0.9,4.2,1.3,4.5,1.4,In Dome
-Thairo Estrada,2B,2B/3B,NYY,BAL,,2700,2.7,1.0,3.4,1.3,2.7,1.0,W 8 L-R
-Erik Kratz,C,C,NYY,BAL,,3100,2.6,0.9,4.4,1.4,4.2,1.4,W 8 L-R
-Jose Marmolejos,1B,1B/OF,SEA,@ARI,,2500,2.4,1.0,3.6,1.4,6.0,2.4,In Dome
-Kevin Pillar,OF,OF,COL,LAA,5,3800,2.4,0.6,3.0,0.8,7.5,2.0,W 6 In
-Joseph Odom,C,C,SEA,@ARI,,2700,2.4,0.9,1.0,0.4,1.5,0.5,In Dome
-Kole Calhoun,OF,OF,ARI,SEA,,3400,2.4,0.7,8.6,2.5,7.5,2.2,In Dome
-Matt Kemp,OF,OF,COL,LAA,6,3600,2.4,0.7,9.6,2.7,5.7,1.6,W 6 In
-Jorge Mateo,OF,OF,SD,SF,,2700,2.4,0.9,0.4,0.2,1.4,0.5,W 8 L-R
-Josh VanMeter,2B,2B/OF,ARI,SEA,,2900,2.4,0.8,2.8,1.0,2.9,1.0,In Dome
-Aristides Aquino,OF,OF,CIN,@STL,6,3200,2.4,0.7,2.6,0.8,3.4,1.1,W 6 R-L
-Pavin Smith,1B,1B,ARI,SEA,,2400,2.3,1.0,0.0,0.0,0.0,0.0,In Dome
-Jake Cave,OF,OF,MIN,CLE,6,3000,2.3,0.8,3.4,1.1,4.5,1.5,W 8 In w/52%
-Salvador Perez,C,C,KC,PIT,3,4200,2.3,0.6,6.6,1.6,7.4,1.8,W 3 Out
-Taylor Ward,OF,OF,LAA,@COL,7,2700,2.3,0.9,9.0,3.3,4.2,1.6,W 6 In
-Dee Strange-Gordon,2B,2B/OF,SEA,@ARI,7,2900,2.3,0.8,3.6,1.2,3.0,1.0,In Dome
-Jon Jay,OF,OF,ARI,SEA,,2100,2.3,1.1,4.0,1.9,3.1,1.5,In Dome
-Freddy Galvis,2B,2B/SS,CIN,@STL,7,2800,2.3,0.8,2.0,0.7,5.4,1.9,W 6 R-L
-Curt Casali,C,C,CIN,@STL,9,3200,2.2,0.7,1.2,0.4,5.6,1.8,W 6 R-L
-Anthony Bemboom,C,C,LAA,@COL,8,2700,2.2,0.8,1.4,0.5,3.9,1.5,W 6 In
-Austin Dean,1B,1B/OF,STL,CIN,,4000,2.2,0.6,0.0,0.0,0.0,0.0,W 6 R-L
-Chance Sisco,C,C,BAL,@NYY,9,4100,2.2,0.5,4.4,1.1,6.0,1.5,W 8 L-R
-Jake Lamb,1B,1B,ARI,SEA,,2400,2.2,0.9,3.4,1.4,2.1,0.9,In Dome
-Nicky Lopez,2B,2B,KC,PIT,,2200,2.2,1.0,6.8,3.1,4.4,2.0,W 3 Out
-Abraham Almonte,OF,OF,SD,SF,,3600,2.2,0.6,0.4,0.1,2.0,0.6,W 8 L-R
-Josh Fuentes,1B,1B,COL,LAA,8,3800,2.1,0.6,5.4,1.4,5.0,1.3,W 6 In
-Stephen Vogt,C,C,ARI,SEA,,3400,2.1,0.6,2.2,0.7,3.3,1.0,In Dome
-Matt Reynolds,3B,3B,KC,PIT,,2200,2.1,1.0,0.7,0.3,0.7,0.3,W 3 Out
-Meibrys Viloria,C,C,KC,PIT,,2200,2.1,1.0,1.0,0.5,1.5,0.7,W 3 Out
-Jorge Ona,OF,OF,SD,SF,,2500,2.1,0.8,5.3,2.1,5.3,2.1,W 8 L-R
-Lane Thomas,OF,OF,STL,CIN,,2200,2.1,1.0,4.2,1.9,3.2,1.5,W 6 R-L
-Greg Garcia,2B,2B,SD,SF,,3000,2.1,0.7,1.4,0.5,2.8,0.9,W 8 L-R
-David Bote,3B,3B,CHC,@MIL,6,3300,2.0,0.6,4.2,1.3,6.0,1.8,In Dome
-Vimael Machin,3B,3B/SS,OAK,@TEX,8,2400,2.0,0.8,4.6,1.9,2.9,1.2,In Dome
-Ryan O'Hearn,1B,1B,KC,PIT,,3200,1.9,0.6,2.2,0.7,4.8,1.5,W 3 Out
-Bryan Holaday,C,C,BAL,@NYY,,2000,1.9,0.9,2.8,1.4,2.3,1.1,W 8 L-R
-Rangel Ravelo,1B,1B/OF,STL,CIN,,3500,1.9,0.5,9.3,2.6,9.3,2.6,W 6 R-L
-Matt Wieters,C,C,STL,CIN,,3600,1.8,0.5,3.2,0.9,1.6,0.4,W 6 R-L
-Andrew Velazquez,SS,SS,BAL,@NYY,,2700,1.8,0.7,3.0,1.1,2.7,1.0,W 8 L-R
-Mason Williams,OF,OF,BAL,@NYY,,2100,1.8,0.8,1.6,0.8,1.1,0.5,W 8 L-R
-Nico Hoerner,2B,2B/3B,CHC,@MIL,9,3300,1.7,0.5,5.8,1.8,4.6,1.4,In Dome
-Chris Davis,1B,1B,BAL,@NYY,,3000,1.7,0.6,0.6,0.2,2.4,0.8,W 8 L-R
-Michael Lorenzen,OF,OF,CIN,@STL,,2100,1.6,0.8,0.4,0.2,2.4,1.1,W 6 R-L
-Adam Frazier,2B,2B/OF,PIT,@KC,8,3300,1.4,0.4,3.4,1.0,5.6,1.7,W 3 Out
-Luis Garcia,P,RP,TEX,OAK,Yes,4000,1.1,0.3,2.1,0.5,2.4,0.6,In Dome
-Josh Jung,3B,3B,TEX,OAK,,2200,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Nick Ciuffo,C,C,TEX,OAK,,2300,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Eli White,OF,OF,TEX,OAK,,2100,0.0,0.0,3.8,1.8,2.4,1.1,In Dome
-Yadiel Rivera,2B,2B/OF,TEX,OAK,,2000,0.0,0.0,1.3,0.6,1.3,0.6,In Dome
-Derek Dietrich,1B,1B,TEX,OAK,,2500,0.0,0.0,1.2,0.5,4.4,1.8,In Dome
-Shin-Soo Choo,OF,OF,TEX,OAK,,2700,0.0,0.0,10.2,3.8,7.3,2.7,In Dome
-Jeff Mathis,C,C,TEX,OAK,,2700,0.0,0.0,2.0,0.7,4.0,1.5,In Dome
-Sherten Apostel,3B,3B,TEX,OAK,,2100,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Rob Refsnyder,1B,1B/OF,TEX,OAK,,2100,0.0,0.0,2.2,1.1,2.4,1.1,In Dome
-Jose Trevino,C,C,TEX,OAK,,3700,0.0,0.0,2.8,0.8,5.5,1.5,In Dome
-Adolis Garcia,OF,OF,TEX,OAK,,2100,0.0,0.0,0.7,0.3,0.7,0.3,In Dome
-Danny Santana,1B,1B,TEX,OAK,,4100,0.0,0.0,3.2,0.8,5.6,1.4,In Dome
-Elehuris Montero,3B,3B,STL,CIN,,2500,0.0,0.0,0.0,0.0,0.0,0.0,W 6 R-L
-Willie Calhoun,OF,OF,TEX,OAK,,2300,0.0,0.0,4.4,1.9,3.4,1.5,In Dome
-Scott Heineman,OF,OF,TEX,OAK,,2100,0.0,0.0,1.8,0.9,3.4,1.6,In Dome
-Andy Ibanez,2B,2B,TEX,OAK,,2300,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Julio Rodriguez,C,C,STL,CIN,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 6 R-L
-Andrew Knizner,C,C,STL,CIN,,4000,0.0,0.0,2.8,0.7,3.0,0.8,W 6 R-L
-Nolan Gorman,3B,3B,STL,CIN,,2700,0.0,0.0,0.0,0.0,0.0,0.0,W 6 R-L
-Tim Federowicz,C,C,TEX,OAK,,2200,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Dexter Fowler,OF,OF,STL,CIN,,2800,0.0,0.0,12.0,4.3,6.5,2.3,W 6 R-L
-Edmundo Sosa,2B,2B/SS,STL,CIN,,2800,0.0,0.0,0.0,0.0,0.0,0.0,W 6 R-L
-John Nogowski,1B,1B,STL,CIN,,2800,0.0,0.0,3.0,1.1,3.0,1.1,W 6 R-L
-Heliot Ramos,OF,OF,SF,@SD,,2200,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Kean Wong,2B,2B,SF,@SD,,2200,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Luis Toribio,3B,3B,SF,@SD,,2200,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Will Wilson,SS,SS,SF,@SD,,2200,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Marco Luciano,SS,SS,SF,@SD,,2200,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Zach Green,3B,3B,SF,@SD,,2200,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Justin Smoak,3B,3B,SF,@SD,,2300,0.0,0.0,3.0,1.3,5.9,2.6,W 8 L-R
-Joe McCarthy,OF,OF,SF,@SD,,2200,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Joey Bart,C,C,SF,@SD,,3500,0.0,0.0,4.0,1.1,5.6,1.6,W 8 L-R
-Jose Godoy,C,C,STL,CIN,,2500,0.0,0.0,0.0,0.0,0.0,0.0,W 6 R-L
-Ivan Herrera,C,C,STL,CIN,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 6 R-L
-Evan Mendoza,3B,3B,STL,CIN,,2800,0.0,0.0,0.0,0.0,0.0,0.0,W 6 R-L
-Malcom Nunez,3B,3B,STL,CIN,,2600,0.0,0.0,0.0,0.0,0.0,0.0,W 6 R-L
-Justin Williams,OF,OF,STL,CIN,,2400,0.0,0.0,0.0,0.0,0.0,0.0,W 6 R-L
-Dylan Carlson,OF,OF,STL,CIN,,2800,0.0,0.0,1.4,0.5,3.7,1.3,W 6 R-L
-Max Schrock,2B,2B,STL,CIN,,2700,0.0,0.0,0.5,0.2,2.0,0.8,W 6 R-L
-Austin Slater,OF,OF,SF,@SD,,3900,0.0,0.0,6.8,1.7,8.0,2.0,W 8 L-R
-Jordan Walker,3B,3B,STL,CIN,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 6 R-L
-Masyn Winn,SS,SS,STL,CIN,,2600,0.0,0.0,0.0,0.0,0.0,0.0,W 6 R-L
-Trejyn Fletcher,OF,OF,STL,CIN,,2200,0.0,0.0,0.0,0.0,0.0,0.0,W 6 R-L
-Tim Lopes,OF,OF,SEA,@ARI,,2300,0.0,0.0,4.1,1.8,5.2,2.3,In Dome
-Joe Hudson,C,C,SEA,@ARI,,2300,0.0,0.0,1.6,0.7,1.4,0.6,In Dome
-Cal Raleigh,C,C,SEA,@ARI,,2300,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Donovan Walton,SS,SS,SEA,@ARI,,2300,0.0,0.0,2.0,0.9,2.0,0.9,In Dome
-Braden Bishop,OF,OF,SEA,@ARI,,2300,0.0,0.0,5.2,2.3,4.0,1.7,In Dome
-Tyler Keenan,3B,3B,SEA,@ARI,,2300,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Zach DeLoach,OF,OF,SEA,@ARI,,2300,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Kaden Polcovich,2B,2B,SEA,@ARI,,2300,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Brian O'Keefe,C,C,SEA,@ARI,,2300,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Sam Haggerty,OF,OF,SEA,@ARI,,3500,0.0,0.0,4.2,1.2,8.3,2.4,In Dome
-Julio Rodriguez,OF,OF,SEA,@ARI,,2300,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Mallex Smith,OF,OF,SEA,@ARI,,2300,0.0,0.0,3.2,1.4,3.1,1.3,In Dome
-Noelvi Marte,SS,SS,SEA,@ARI,,2300,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Jake Fraley,OF,OF,SEA,@ARI,,2400,0.0,0.0,6.4,2.7,6.8,2.9,In Dome
-Austin Shenton,3B,3B,SEA,@ARI,,2300,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Jarred Kelenic,OF,OF,SEA,@ARI,,2300,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Jaylin Davis,OF,OF,SF,@SD,,2200,0.0,0.0,4.8,2.2,4.8,2.2,W 8 L-R
-Steven Duggar,OF,OF,SF,@SD,,2200,0.0,0.0,0.0,0.0,1.6,0.7,W 8 L-R
-Luis Alexander Basabe,OF,OF,SF,@SD,,2200,0.0,0.0,0.7,0.3,0.7,0.3,W 8 L-R
-Jose Siri,OF,OF,SF,@SD,,2200,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Alexander Canario,OF,OF,SF,@SD,,2200,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Tyler Heineman,C,C,SF,@SD,,3300,0.0,0.0,1.9,0.6,3.9,1.2,W 8 L-R
-Chris Shaw,1B,1B/OF,SF,@SD,,2200,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Darin Ruf,OF,OF,SF,@SD,,2400,0.0,0.0,7.6,3.2,5.2,2.2,W 8 L-R
-Jason Martin,OF,OF,PIT,@KC,,2200,0.0,0.0,2.0,0.9,2.0,0.9,W 3 Out
-Christian Kelley,C,C,PIT,@KC,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 3 Out
-Robert Hassell,OF,OF,SD,SF,,2200,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Francisco Mejia,C,C,SD,SF,,2500,0.0,0.0,3.2,1.3,2.4,1.0,W 8 L-R
-Hudson Head,OF,OF,SD,SF,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Travis Swaggerty,OF,OF,PIT,@KC,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 3 Out
-Jared Oliva,OF,OF,PIT,@KC,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 3 Out
-Will Craig,1B,1B,PIT,@KC,,2500,0.0,0.0,0.0,0.0,0.0,0.0,W 3 Out
-Mason Martin,1B,1B/OF,PIT,@KC,,2600,0.0,0.0,0.0,0.0,0.0,0.0,W 3 Out
-Jose Osuna,3B,3B/OF,PIT,@KC,,2200,0.0,0.0,3.4,1.6,2.9,1.3,W 3 Out
-Webster Rivas,C,C,SD,SF,,2100,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Tucupita Marcano,3B,3B/SS,SD,SF,,2500,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Luis Campusano,C,C,SD,SF,,2200,0.0,0.0,9.0,4.1,9.0,4.1,W 8 L-R
-CJ Abrams,SS,SS,SD,SF,,2100,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Eric Hosmer,1B,1B,SD,SF,,5100,0.0,0.0,4.0,0.8,9.1,1.8,W 8 L-R
-Tommy Pham,OF,OF,SD,SF,,3500,0.0,0.0,5.8,1.7,6.9,2.0,W 8 L-R
-Sheldon Neuse,2B,2B,OAK,@TEX,,2500,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Nick Allen,SS,SS,OAK,@TEX,,2500,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Kyle Holder,SS,SS,NYY,BAL,,2500,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Logan Davidson,SS,SS,OAK,@TEX,,2500,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Jonah Heim,C,C,OAK,@TEX,,3800,0.0,0.0,4.6,1.2,4.6,1.2,In Dome
-Kyle McCann,C,C,OAK,@TEX,,2500,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Ji-Hwan Bae,2B,2B/SS,PIT,@KC,,2200,0.0,0.0,0.0,0.0,0.0,0.0,W 3 Out
-Gregory Polanco,OF,OF,PIT,@KC,,2900,0.0,0.0,1.4,0.5,5.1,1.7,W 3 Out
-John Ryan Murphy,C,C,PIT,@KC,,2400,0.0,0.0,2.0,0.8,2.4,1.0,W 3 Out
-JT Riddle,3B,3B/OF,PIT,@KC,,2400,0.0,0.0,6.6,2.8,3.7,1.5,W 3 Out
-Oneil Cruz,SS,SS,PIT,@KC,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 3 Out
-Rodolfo Castro,2B,2B/SS,PIT,@KC,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 3 Out
-Tomas Telis,1B,1B,MIN,CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-Max Kepler,OF,OF,MIN,CLE,,4200,0.0,0.0,2.0,0.5,7.6,1.8,W 8 In w/52%
-Trevor Larnach,OF,OF,MIN,CLE,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-Ehire Adrianza,3B,3B/SS,MIN,CLE,,3000,0.0,0.0,4.6,1.5,2.4,0.8,W 8 In w/52%
-Alex Kirilloff,1B,1B/OF,MIN,CLE,,2200,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-Juan Graterol,C,C,MIN,CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-LaMonte Wade,OF,OF,MIN,CLE,,2400,0.0,0.0,4.6,1.9,3.3,1.4,W 8 In w/52%
-Zander Wiel,1B,1B,MIN,CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-Nick Gordon,2B,2B,MIN,CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-Wilfredo Tovar,SS,SS,MIN,CLE,,2400,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-Brent Rooker,OF,OF,MIN,CLE,,2400,0.0,0.0,8.0,3.3,7.0,2.9,W 8 In w/52%
-Gilberto Celestino,OF,OF,MIN,CLE,,2200,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-Caleb Hamilton,C,C,MIN,CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-Masahiro Tanaka,P,SP,NYY,BAL,Yes,7800,0.0,0.0,12.2,1.6,12.6,1.6,W 8 L-R
-Max McDowell,C,C,NYY,BAL,,2600,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Mitch Garver,C,C,MIN,CLE,,4400,0.0,0.0,1.4,0.3,3.8,0.9,W 8 In w/52%
-Royce Lewis,SS,SS,MIN,CLE,,2200,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-Alex Avila,C,C,MIN,CLE,,2600,0.0,0.0,0.6,0.2,3.5,1.4,W 8 In w/52%
-Luis Arraez,2B,2B,MIN,CLE,,3800,0.0,0.0,8.6,2.3,5.3,1.4,W 8 In w/52%
-Drew Maggi,2B,2B/3B,MIN,CLE,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-Willians Astudillo,3B,3B/C,MIN,CLE,,2900,0.0,0.0,4.2,1.5,4.2,1.5,W 8 In w/52%
-Travis Blankenhorn,2B,2B,MIN,CLE,,2500,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-Gio Urshela,3B,3B,NYY,BAL,,4500,0.0,0.0,10.8,2.4,8.3,1.8,W 8 L-R
-Aaron Judge,OF,OF,NYY,BAL,,5600,0.0,0.0,9.6,1.7,11.4,2.0,W 8 L-R
-Giancarlo Stanton,OF,OF,NYY,BAL,,4800,0.0,0.0,7.4,1.5,9.0,1.9,W 8 L-R
-Rosell Herrera,2B,2B/OF,NYY,BAL,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Zack Granite,OF,OF,NYY,BAL,,2500,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Estevan Florial,OF,OF,NYY,BAL,,3300,0.0,0.0,3.0,0.9,3.0,0.9,W 8 L-R
-Matt Duffy,3B,3B/SS,NYY,BAL,,4200,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Austin Allen,C,C,OAK,@TEX,,3600,0.0,0.0,2.2,0.6,2.6,0.7,In Dome
-Skye Bolt,OF,OF,OAK,@TEX,,2900,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Robert Puason,SS,SS,OAK,@TEX,,2500,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Tyler Soderstrom,C,C,OAK,@TEX,,2500,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Stephen Piscotty,OF,OF,OAK,@TEX,,3500,0.0,0.0,5.8,1.7,7.7,2.2,In Dome
-Dustin Fowler,OF,OF,OAK,@TEX,,2500,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Seth Brown,OF,OF,OAK,@TEX,,2500,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Luis Barrera,OF,OF,OAK,@TEX,,2500,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Greg Deichmann,OF,OF,OAK,@TEX,,2500,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Brayan Buelvas,OF,OF,OAK,@TEX,,2500,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Matt Chapman,3B,3B,OAK,@TEX,,4800,0.0,0.0,4.8,1.0,8.4,1.7,In Dome
-Tony Kemp,2B,2B,OAK,@TEX,,2700,0.0,0.0,3.2,1.2,3.8,1.4,In Dome
-Chad Pinder,2B,2B,OAK,@TEX,,2500,0.0,0.0,4.4,1.8,4.3,1.7,In Dome
-Kyle Farmer,2B,2B/SS,CIN,@STL,,2600,0.0,0.0,0.6,0.2,3.0,1.1,W 6 R-L
-Travis Jankowski,OF,OF,CIN,@STL,,2000,0.0,0.0,1.4,0.7,1.4,0.7,W 6 R-L
-Jesse Winker,OF,OF,CIN,@STL,,3500,0.0,0.0,3.6,1.0,7.5,2.1,W 6 R-L
-Alfredo Rodriguez,SS,SS,CIN,@STL,,2100,0.0,0.0,0.0,0.0,0.0,0.0,W 6 R-L
-Mike Freeman,2B,2B/3B,CLE,@MIN,,2000,0.0,0.0,4.2,2.1,2.8,1.4,W 8 In w/52%
-Gabriel Arias,SS,SS,CLE,@MIN,,2500,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-Jordan Luplow,OF,OF,CLE,@MIN,,2300,0.0,0.0,3.8,1.7,3.8,1.7,W 8 In w/52%
-Steve Baron,C,C,CLE,@MIN,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-Bobby Bradley,1B,1B,CLE,@MIN,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-Sandy Leon,C,C,CLE,@MIN,,2000,0.0,0.0,5.2,2.6,3.9,2.0,W 8 In w/52%
-Bo Naylor,C,C,CLE,@MIN,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-Oscar Mercado,OF,OF,CLE,@MIN,,2000,0.0,0.0,5.2,2.6,2.6,1.3,W 8 In w/52%
-Ernie Clement,SS,SS,CLE,@MIN,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-Elias Diaz,C,C,COL,LAA,,3200,0.0,0.0,2.6,0.8,2.7,0.9,W 6 In
-Domingo Santana,OF,OF,CLE,@MIN,,2000,0.0,0.0,4.0,2.0,4.5,2.3,W 8 In w/52%
-Bradley Zimmer,OF,OF,CLE,@MIN,,2000,0.0,0.0,1.8,0.9,3.6,1.8,W 8 In w/52%
-Yu Chang,3B,3B,CLE,@MIN,,2000,0.0,0.0,1.0,0.5,1.8,0.9,W 8 In w/52%
-Tyler Freeman,SS,SS,CLE,@MIN,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-Owen Miller,SS,SS,CLE,@MIN,,2600,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-George Valera,OF,OF,CLE,@MIN,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-Aaron Bracho,SS,SS,CLE,@MIN,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-Jake Bauers,1B,1B/OF,CLE,@MIN,,2600,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-Nolan Jones,3B,3B,CLE,@MIN,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 In w/52%
-Beau Taylor,C,C,CLE,@MIN,,2000,0.0,0.0,2.6,1.3,1.9,0.9,W 8 In w/52%
-Daniel Johnson,OF,OF,CLE,@MIN,,2000,0.0,0.0,0.6,0.3,0.8,0.4,W 8 In w/52%
-Austin Hedges,C,C,CLE,@MIN,,2000,0.0,0.0,1.8,0.9,3.1,1.6,W 8 In w/52%
-Albert Almora,OF,OF,CHC,@MIL,,2600,0.0,0.0,1.8,0.7,1.3,0.5,In Dome
-Jason Kipnis,2B,2B,CHC,@MIL,,3500,0.0,0.0,7.0,2.0,5.9,1.7,In Dome
-P.J. Higgins,C,C,CHC,@MIL,,2600,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Patrick Wisdom,1B,1B/3B,CHC,@MIL,,2300,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Ildemaro Vargas,2B,2B,CHC,@MIL,,3200,0.0,0.0,1.0,0.3,2.6,0.8,In Dome
-Brennen Davis,OF,OF,CHC,@MIL,,2600,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Christopher Morel,3B,3B,CHC,@MIL,,2600,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Ian Miller,OF,OF,CHC,@MIL,,3900,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Miguel Amaya,C,C,CHC,@MIL,,2600,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Cameron Maybin,OF,OF,CHC,@MIL,,2700,0.0,0.0,5.4,2.0,4.8,1.8,In Dome
-Josh Phegley,C,C,CHC,@MIL,,2600,0.0,0.0,3.2,1.2,2.4,0.9,In Dome
-Christian Colon,2B,2B,CIN,@STL,,2100,0.0,0.0,1.8,0.9,2.6,1.2,W 6 R-L
-Mark Payton,OF,OF,CIN,@STL,,2100,0.0,0.0,3.0,1.4,2.5,1.2,W 6 R-L
-Tyler Stephenson,C,C,CIN,@STL,,2100,0.0,0.0,14.0,6.7,14.0,6.7,W 6 R-L
-Nick Senzel,OF,OF,CIN,@STL,,2600,0.0,0.0,9.6,3.7,6.8,2.6,W 6 R-L
-Alex Blandino,2B,2B/3B,CIN,@STL,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 R-L
-Matt Davidson,1B,1B,CIN,@STL,,2900,0.0,0.0,0.0,0.0,3.7,1.3,W 6 R-L
-Francisco Pena,C,C,CIN,@STL,,2100,0.0,0.0,0.0,0.0,0.0,0.0,W 6 R-L
-Mike Moustakas,1B,1B/2B,CIN,@STL,,4700,0.0,0.0,6.4,1.4,5.7,1.2,W 6 R-L
-Jonathan India,3B,3B,CIN,@STL,,2100,0.0,0.0,0.0,0.0,0.0,0.0,W 6 R-L
-Tucker Barnhart,C,C,CIN,@STL,,2200,0.0,0.0,7.8,3.6,4.3,1.9,W 6 R-L
-Anthony Santander,OF,OF,BAL,@NYY,,4700,0.0,0.0,8.6,1.8,9.8,2.1,W 8 L-R
-Tyler Nevin,1B,1B/3B,BAL,@NYY,,2900,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Taylor Davis,C,C,BAL,@NYY,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Ramon Urias,2B,2B,BAL,@NYY,,2000,0.0,0.0,1.0,0.5,1.0,0.5,W 8 L-R
-Austin Wynns,C,C,BAL,@NYY,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Adley Rutschman,C,C,BAL,@NYY,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Javier Baez,SS,SS,CHC,@MIL,,4600,0.0,0.0,4.6,1.0,5.9,1.3,In Dome
-Hernan Perez,2B,2B/SS,CHC,@MIL,,2500,0.0,0.0,1.0,0.4,1.0,0.4,In Dome
-Billy Hamilton,OF,OF,CHC,@MIL,,2500,0.0,0.0,1.4,0.6,1.6,0.6,In Dome
-Dwight Smith,OF,OF,BAL,@NYY,,2100,0.0,0.0,2.0,1.0,5.4,2.6,W 8 L-R
-Keegan Akin,P,SP,BAL,@NYY,Yes,6700,0.0,0.0,10.9,1.6,10.9,1.6,W 8 L-R
-Austin Hays,OF,OF,BAL,@NYY,,2400,0.0,0.0,6.8,2.8,5.2,2.2,W 8 L-R
-Ryan McKenna,OF,OF,BAL,@NYY,,2000,0.0,0.0,0.0,0.0,0.0,0.0,W 8 L-R
-Dilson Herrera,1B,1B,BAL,@NYY,,2000,0.0,0.0,0.7,0.3,0.7,0.3,W 8 L-R
-Kevin Cron,1B,1B,ARI,SEA,,2200,0.0,0.0,0.4,0.2,0.8,0.3,In Dome
-Andy Young,2B,2B/3B,ARI,SEA,,2300,0.0,0.0,3.0,1.3,4.7,2.0,In Dome
-Alek Thomas,OF,OF,ARI,SEA,,2200,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-John Hicks,1B,1B/C,ARI,SEA,,2800,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Seth Beer,OF,OF,ARI,SEA,,2200,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Stuart Fairchild,OF,OF,ARI,SEA,,2100,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Geraldo Perdomo,SS,SS,ARI,SEA,,2400,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Corbin Carroll,OF,OF,ARI,SEA,,2200,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Dominic Fletcher,OF,OF,ARI,SEA,,2200,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Ketel Marte,2B,2B/OF,ARI,SEA,,3700,0.0,0.0,7.0,1.9,6.5,1.8,In Dome
-Nick Heath,OF,OF,KC,PIT,,2500,0.0,0.0,5.2,2.1,5.2,2.1,W 3 Out
-Sebastian Rivero,C,C,KC,PIT,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 3 Out
-Seuly Matias,OF,OF,KC,PIT,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 3 Out
-Khalil Lee,OF,OF,KC,PIT,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 3 Out
-Jeison Guzman,SS,SS,KC,PIT,,2200,0.0,0.0,0.0,0.0,0.0,0.0,W 3 Out
-Jorge Soler,OF,OF,KC,PIT,,3500,0.0,0.0,1.8,0.5,7.2,2.1,W 3 Out
-Erick Mejia,3B,3B/OF,KC,PIT,,2100,0.0,0.0,0.0,0.0,0.0,0.0,W 3 Out
-Nick Pratto,1B,1B,KC,PIT,,2500,0.0,0.0,0.0,0.0,0.0,0.0,W 3 Out
-Bobby Witt,SS,SS,KC,PIT,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 3 Out
-MJ Melendez,C,C,KC,PIT,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 3 Out
-Kyle Isbel,OF,OF,KC,PIT,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 3 Out
-Oscar Hernandez,C,C,KC,PIT,,2200,0.0,0.0,2.0,0.9,2.0,0.9,W 3 Out
-Allan de San Miguel,C,C,KC,PIT,,2400,0.0,0.0,0.0,0.0,0.0,0.0,W 3 Out
-Jose Briceno,C,C,LAA,@COL,,2500,0.0,0.0,2.5,1.0,2.5,1.0,W 6 In
-Matt Thaiss,3B,3B/OF,LAA,@COL,,2700,0.0,0.0,6.4,2.4,4.0,1.5,W 6 In
-Elliot Soto,3B,3B/SS,LAA,@COL,,2500,0.0,0.0,0.0,0.0,0.0,0.0,W 6 In
-David Fletcher,2B,2B/SS,LAA,@COL,,5100,0.0,0.0,6.2,1.2,8.3,1.6,W 6 In
-Max Stassi,C,C,LAA,@COL,,2600,0.0,0.0,3.8,1.5,5.9,2.3,W 6 In
-Michael Hermosillo,OF,OF,LAA,@COL,,2600,0.0,0.0,3.4,1.3,2.4,0.9,W 6 In
-Jack Kruger,C,C,LAA,@COL,,2700,0.0,0.0,0.0,0.0,0.0,0.0,W 6 In
-Brice Turang,SS,SS,MIL,CHC,,2400,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Omar Narvaez,C,C,MIL,CHC,,3300,0.0,0.0,6.2,1.9,4.1,1.3,In Dome
-Thomas Dillard,1B,1B/OF,MIL,CHC,,2800,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Jordyn Adams,OF,OF,LAA,@COL,,2800,0.0,0.0,0.0,0.0,0.0,0.0,W 6 In
-Brandon Marsh,OF,OF,LAA,@COL,,2800,0.0,0.0,0.0,0.0,0.0,0.0,W 6 In
-Albert Pujols,1B,1B,LAA,@COL,,3000,0.0,0.0,5.6,1.9,6.3,2.1,W 6 In
-Jo Adell,OF,OF,LAA,@COL,,2500,0.0,0.0,3.4,1.4,4.4,1.8,W 6 In
-Jose Rojas,2B,2B,LAA,@COL,,2700,0.0,0.0,0.0,0.0,0.0,0.0,W 6 In
-Jahmai Jones,OF,OF,LAA,@COL,,2800,0.0,0.0,0.0,0.0,0.0,0.0,W 6 In
-Corey Ray,OF,OF,MIL,CHC,,2500,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Keon Broxton,OF,OF,MIL,CHC,,2300,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Manny Pina,C,C,MIL,CHC,,3900,0.0,0.0,0.8,0.2,4.9,1.3,In Dome
-Ryon Healy,1B,1B/3B,MIL,CHC,,2400,0.0,0.0,1.0,0.4,1.0,0.4,In Dome
-Jace Peterson,1B,1B/OF,MIL,CHC,,2300,0.0,0.0,6.4,2.8,4.1,1.8,In Dome
-Tristen Lutz,OF,OF,MIL,CHC,,2500,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Mark Mathias,OF,OF,MIL,CHC,,2400,0.0,0.0,0.6,0.3,3.3,1.4,In Dome
-Ben Gamel,OF,OF,MIL,CHC,,2800,0.0,0.0,5.4,1.9,5.2,1.9,In Dome
-David Freitas,1B,1B,MIL,CHC,,2600,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Daniel Vogelbach,1B,1B,MIL,CHC,,3400,0.0,0.0,5.4,1.6,3.8,1.1,In Dome
-Ronny Rodriguez,2B,2B,MIL,CHC,,3200,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Eric Sogard,3B,3B,MIL,CHC,,2600,0.0,0.0,6.2,2.4,4.1,1.6,In Dome
-Mario Feliciano,C,C,MIL,CHC,,2600,0.0,0.0,0.0,0.0,0.0,0.0,In Dome
-Chris Rabago,C,C,COL,LAA,,2400,0.0,0.0,0.0,0.0,0.0,0.0,W 6 In
-Chris Owings,2B,2B/OF,COL,LAA,,3300,0.0,0.0,4.8,1.5,5.2,1.6,W 6 In
-Daniel Murphy,1B,1B,COL,LAA,,3100,0.0,0.0,0.6,0.2,5.0,1.6,W 6 In
-Dom Nunez,C,C,COL,LAA,,3000,0.0,0.0,0.0,0.0,0.0,0.0,W 6 In
-Garrett Hampson,2B,2B/OF,COL,LAA,,4100,0.0,0.0,4.0,1.0,6.8,1.7,W 6 In
-Sam Hilliard,OF,OF,COL,LAA,,3500,0.0,0.0,7.6,2.2,6.3,1.8,W 6 In
-Brendan Rodgers,2B,2B/SS,COL,LAA,,2900,0.0,0.0,1.4,0.5,2.0,0.7,W 6 In
-Alan Trejo,SS,SS,COL,LAA,,3200,0.0,0.0,0.0,0.0,0.0,0.0,W 6 In
-David Dahl,OF,OF,COL,LAA,,2800,0.0,0.0,0.4,0.1,4.8,1.7,W 6 In
-Drew Butera,C,C,COL,LAA,,2700,0.0,0.0,0.0,0.0,1.8,0.7,W 6 In
-Bret Boswell,2B,2B/3B,COL,LAA,,2800,0.0,0.0,0.0,0.0,0.0,0.0,W 6 In
-Danny Mendick,2B,2B/3B,CWS,DET,,3700,0.0,0.0,2.2,0.6,4.9,1.3,W 10 L-R
-Yoan Moncada,3B,3B,CWS,DET,,5300,0.0,0.0,7.0,1.3,7.4,1.4,W 10 L-R
-Yonathan Daza,OF,OF,COL,LAA,,2700,0.0,0.0,0.0,0.0,0.0,0.0,W 6 In
-Eric Stamets,SS,SS,COL,LAA,,2700,0.0,0.0,0.0,0.0,0.0,0.0,W 6 In
-Yasmani Grandal,1B,1B/C,CWS,DET,,5300,0.0,0.0,14.4,2.7,7.8,1.5,W 10 L-R
-Zack Collins,C,C,CWS,DET,,3400,0.0,0.0,1.8,0.5,1.2,0.4,W 10 L-R
-Adam Engel,OF,OF,CWS,DET,,2300,0.0,0.0,4.0,1.7,4.7,2.1,W 10 L-R
-Luis Gonzalez,OF,OF,CWS,DET,,2300,0.0,0.0,1.3,0.6,1.3,0.6,W 10 L-R
-Blake Rutherford,OF,OF,CWS,DET,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
-Cheslor Cuthbert,1B,1B/3B,CWS,DET,,2600,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
-Yermin Mercedes,C,C,CWS,DET,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
-Micker Adolfo,OF,OF,CWS,DET,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
-Freddy Fermin,C,C,KC,PIT,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 3 Out
-Nick Dini,C,C,KC,PIT,,2600,0.0,0.0,0.0,0.0,0.0,0.0,W 3 Out
-Riley Greene,OF,OF,DET,@CWS,,2600,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
-Brady Policelli,C,C,DET,@CWS,,2500,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
-Travis Demeritte,OF,OF,DET,@CWS,,2600,0.0,0.0,0.6,0.2,2.1,0.8,W 10 L-R
-Harold Castro,2B,2B/OF,DET,@CWS,,2700,0.0,0.0,7.4,2.7,3.2,1.2,W 10 L-R
-Brandon Dixon,1B,1B/OF,DET,@CWS,,3900,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
-Zack Short,SS,SS,DET,@CWS,,2600,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
-Grayson Greiner,C,C,DET,@CWS,,2900,0.0,0.0,7.4,2.6,4.9,1.7,W 10 L-R
-Eric Haase,C,C,DET,@CWS,,3100,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
-Eliezer Alfonzo,C,C,DET,@CWS,,2400,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
-Sergio Alcantara,3B,3B,DET,@CWS,,2800,0.0,0.0,5.2,1.9,5.2,1.9,W 10 L-R
-Niko Goodrum,SS,SS,DET,@CWS,,3500,0.0,0.0,6.0,1.7,7.1,2.0,W 10 L-R
-Jake Rogers,C,C,DET,@CWS,,2700,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
-Spencer Torkelson,3B,3B,DET,@CWS,,2200,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
-Derek Hill,OF,OF,DET,@CWS,,2500,0.0,0.0,0.4,0.2,0.3,0.1,W 10 L-R
-Nicky Delmonico,OF,OF,CWS,DET,,2500,0.0,0.0,3.4,1.4,2.7,1.1,W 10 L-R
-Seby Zavala,C,C,CWS,DET,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
-Jarrod Dyson,OF,OF,CWS,DET,,2300,0.0,0.0,0.8,0.4,2.9,1.3,W 10 L-R
-Andrew Vaughn,1B,1B,CWS,DET,,2300,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
-Dawel Lugo,3B,3B,DET,@CWS,,2500,0.0,0.0,2.0,0.8,1.8,0.7,W 10 L-R
-Dillon Dingler,C,C,DET,@CWS,,2500,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
-Christin Stewart,OF,OF,DET,@CWS,,2500,0.0,0.0,0.8,0.3,3.4,1.4,W 10 L-R
-Frank Schwindel,1B,1B,DET,@CWS,,2700,0.0,0.0,0.0,0.0,0.0,0.0,W 10 L-R
+Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+SP,Yu Darvish (15343157),Yu Darvish,15343157,P,11500,CHC@MIL 09/12/2020 07:10PM ET,CHC,27.27
+SP,Shane Bieber (15343158),Shane Bieber,15343158,P,11000,CLE@MIN 09/12/2020 08:07PM ET,CLE,32.13
+SP,Trevor Bauer (15343159),Trevor Bauer,15343159,P,10900,CIN@STL 09/12/2020 08:15PM ET,CIN,29.73
+SP,Clayton Kershaw (15343160),Clayton Kershaw,15343160,P,10500,HOU@LAD 09/12/2020 08:07PM ET,LAD,23.21
+SP,Lucas Giolito (15343161),Lucas Giolito,15343161,P,10500,DET@CWS 09/12/2020 07:10PM ET,CWS,24.14
+SP,Walker Buehler (15343163),Walker Buehler,15343163,P,10200,HOU@LAD 09/12/2020 08:07PM ET,LAD,14.44
+SP,Kenta Maeda (15343162),Kenta Maeda,15343162,P,10200,CLE@MIN 09/12/2020 08:07PM ET,MIN,24.07
+SP,Carlos Carrasco (15343164),Carlos Carrasco,15343164,P,10200,CLE@MIN 09/12/2020 08:07PM ET,CLE,17.98
+SP,Dylan Bundy (15343167),Dylan Bundy,15343167,P,9800,LAA@COL 09/12/2020 08:10PM ET,LAA,24.53
+SP,Zack Greinke (15343166),Zack Greinke,15343166,P,9800,HOU@LAD 09/12/2020 08:07PM ET,HOU,17.71
+SP,Luis Castillo (15343165),Luis Castillo,15343165,P,9800,CIN@STL 09/12/2020 08:15PM ET,CIN,19.81
+SP,Mike Clevinger (15343168),Mike Clevinger,15343168,P,9700,Postponed,SD,15.12
+SP,Dinelson Lamet (15342576),Dinelson Lamet,15342576,P,9600,Postponed,SD,22.73
+SP,Sonny Gray (15343169),Sonny Gray,15343169,P,9600,CIN@STL 09/12/2020 08:15PM ET,CIN,18.46
+SP,Aaron Civale (15343170),Aaron Civale,15343170,P,9400,CLE@MIN 09/12/2020 08:07PM ET,CLE,18.47
+SP,Zac Gallen (15342577),Zac Gallen,15342577,P,9400,SEA@ARI 09/12/2020 08:10PM ET,ARI,20.68
+SP,Julio Urias (15342578),Julio Urias,15342578,P,9200,HOU@LAD 09/12/2020 08:07PM ET,LAD,13.08
+SP,Alex Reyes (15343171),Alex Reyes,15343171,P,9200,CIN@STL 09/12/2020 08:15PM ET,STL,4.98
+RP,Cam Bedrosian (15343173),Cam Bedrosian,15343173,P,9000,LAA@COL 09/12/2020 08:10PM ET,LAA,3.55
+SP,Jake Odorizzi (15343172),Jake Odorizzi,15343172,P,9000,CLE@MIN 09/12/2020 08:07PM ET,MIN,4.1
+RP,Framber Valdez (15342579),Framber Valdez,15342579,P,8900,HOU@LAD 09/12/2020 08:07PM ET,HOU,18.44
+SP,Jack Flaherty (15343174),Jack Flaherty,15343174,P,8900,CIN@STL 09/12/2020 08:15PM ET,STL,14.88
+SP,Dustin May (15343176),Dustin May,15343176,P,8800,HOU@LAD 09/12/2020 08:07PM ET,LAD,10.99
+SP,Adam Wainwright (15343175),Adam Wainwright,15343175,P,8800,CIN@STL 09/12/2020 08:15PM ET,STL,19.05
+SP,Josh James (15343177),Josh James,15343177,P,8700,HOU@LAD 09/12/2020 08:07PM ET,HOU,0.94
+SP,Dylan Cease (15343179),Dylan Cease,15343179,P,8700,DET@CWS 09/12/2020 07:10PM ET,CWS,12.41
+SP,Zach Davies (15343178),Zach Davies,15343178,P,8700,Postponed,SD,21.01
+SP,Kyle Hendricks (15342580),Kyle Hendricks,15342580,P,8700,CHC@MIL 09/12/2020 07:10PM ET,CHC,17.9
+SP,Tyler Chatwood (15343181),Tyler Chatwood,15343181,P,8700,CHC@MIL 09/12/2020 07:10PM ET,CHC,11.88
+SP,Merrill Kelly (15343180),Merrill Kelly,15343180,P,8700,SEA@ARI 09/12/2020 08:10PM ET,ARI,20.66
+SP,Jose Berrios (15343182),Jose Berrios,15343182,P,8600,CLE@MIN 09/12/2020 08:07PM ET,MIN,16.24
+SP,Spencer Turnbull (15343183),Spencer Turnbull,15343183,P,8500,DET@CWS 09/12/2020 07:10PM ET,DET,13.99
+SP,Brandon Woodruff (15343184),Brandon Woodruff,15343184,P,8500,CHC@MIL 09/12/2020 07:10PM ET,MIL,18.46
+SP,Andrew Heaney (15343188),Andrew Heaney,15343188,P,8400,LAA@COL 09/12/2020 08:10PM ET,LAA,16.16
+SP,Lance McCullers Jr. (15343186),Lance McCullers Jr.,15343186,P,8400,HOU@LAD 09/12/2020 08:07PM ET,HOU,9.65
+SP,Dallas Keuchel (15343185),Dallas Keuchel,15343185,P,8400,DET@CWS 09/12/2020 07:10PM ET,CWS,16.49
+RP,Lewis Thorpe (15343187),Lewis Thorpe,15343187,P,8400,CLE@MIN 09/12/2020 08:07PM ET,MIN,2.05
+SP,Tony Gonsolin (15343191),Tony Gonsolin,15343191,P,8300,HOU@LAD 09/12/2020 08:07PM ET,LAD,15.92
+RP,Brandon Bielak (15343193),Brandon Bielak,15343193,P,8300,HOU@LAD 09/12/2020 08:07PM ET,HOU,6.16
+SP,Chris Paddack (15343189),Chris Paddack,15343189,P,8300,Postponed,SD,13.78
+SP,Jon Lester (15343192),Jon Lester,15343192,P,8300,CHC@MIL 09/12/2020 07:10PM ET,CHC,10.58
+SP,Brent Suter (15343194),Brent Suter,15343194,P,8300,CHC@MIL 09/12/2020 07:10PM ET,MIL,5.67
+RP,Dakota Hudson (15342581),Dakota Hudson,15342581,P,8300,CIN@STL 09/12/2020 08:15PM ET,STL,15.09
+RP,Austin Gomber (15343190),Austin Gomber,15343190,P,8300,CIN@STL 09/12/2020 08:15PM ET,STL,6.16
+SP,Cristian Javier (15343197),Cristian Javier,15343197,P,8200,HOU@LAD 09/12/2020 08:07PM ET,HOU,14.24
+RP,Randy Dobnak (15343196),Randy Dobnak,15343196,P,8200,CLE@MIN 09/12/2020 08:07PM ET,MIN,10.85
+SP,Freddy Peralta (15343198),Freddy Peralta,15343198,P,8200,CHC@MIL 09/12/2020 07:10PM ET,MIL,8.97
+SP,Tyler Mahle (15343195),Tyler Mahle,15343195,P,8200,CIN@STL 09/12/2020 08:15PM ET,CIN,17.32
+RP,Zach Plesac (15342582),Zach Plesac,15342582,P,8000,CLE@MIN 09/12/2020 08:07PM ET,CLE,26.3
+SP,Johnny Cueto (15343199),Johnny Cueto,15343199,P,8000,Postponed,SF,13.48
+RP,Corbin Burnes (15343202),Corbin Burnes,15343202,P,8000,CHC@MIL 09/12/2020 07:10PM ET,MIL,21.8
+RP,Adrian Houser (15343203),Adrian Houser,15343203,P,8000,CHC@MIL 09/12/2020 07:10PM ET,MIL,9.12
+SP,Carlos Martinez (15343200),Carlos Martinez,15343200,P,8000,CIN@STL 09/12/2020 08:15PM ET,STL,-1.55
+SP,Anthony DeSclafani (15343201),Anthony DeSclafani,15343201,P,8000,CIN@STL 09/12/2020 08:15PM ET,CIN,4.11
+RP,Ryan Helsley (15343204),Ryan Helsley,15343204,P,7900,CIN@STL 09/12/2020 08:15PM ET,STL,1.29
+SP,Homer Bailey (15343205),Homer Bailey,15343205,P,7800,CLE@MIN 09/12/2020 08:07PM ET,MIN,15.65
+SP,Jimmy Nelson (15343206),Jimmy Nelson,15343206,P,7700,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+SP,Logan Webb (15343207),Logan Webb,15343207,P,7700,Postponed,SF,10.09
+SP,Trey Supak (15343208),Trey Supak,15343208,P,7700,CHC@MIL 09/12/2020 07:10PM ET,MIL,0
+SP,Adbert Alzolay (15343209),Adbert Alzolay,15343209,P,7700,CHC@MIL 09/12/2020 07:10PM ET,CHC,8.74
+SP,Justus Sheffield (15342583),Justus Sheffield,15342583,P,7700,SEA@ARI 09/12/2020 08:10PM ET,SEA,13.71
+SP,Alex Wood (15343211),Alex Wood,15343211,P,7600,HOU@LAD 09/12/2020 08:07PM ET,LAD,4.02
+SP,Matthew Boyd (15343212),Matthew Boyd,15343212,P,7600,DET@CWS 09/12/2020 07:10PM ET,DET,9.37
+SP,Robert Stephenson (15343210),Robert Stephenson,15343210,P,7600,CIN@STL 09/12/2020 08:15PM ET,CIN,1.94
+SP,Gio Gonzalez (15343215),Gio Gonzalez,15343215,P,7500,DET@CWS 09/12/2020 07:10PM ET,CWS,8.69
+SP,Drew Smyly (15343213),Drew Smyly,15343213,P,7500,Postponed,SF,12.34
+SP,Garrett Richards (15343214),Garrett Richards,15343214,P,7500,Postponed,SD,11.37
+RP,Alec Mills (15343217),Alec Mills,15343217,P,7500,CHC@MIL 09/12/2020 07:10PM ET,CHC,11.03
+SP,Taylor Widener (15343216),Taylor Widener,15343216,P,7500,SEA@ARI 09/12/2020 08:10PM ET,ARI,4.82
+SP,German Marquez (15343223),German Marquez,15343223,P,7400,LAA@COL 09/12/2020 08:10PM ET,COL,15.29
+SP,Julio Teheran (15343224),Julio Teheran,15343224,P,7400,LAA@COL 09/12/2020 08:10PM ET,LAA,2.73
+SP,Michael Pineda (15343218),Michael Pineda,15343218,P,7400,CLE@MIN 09/12/2020 08:07PM ET,MIN,21.02
+SP,Andrew Suarez (15343222),Andrew Suarez,15343222,P,7400,Postponed,SF,1.47
+RP,Justin Dunn (15343219),Justin Dunn,15343219,P,7400,SEA@ARI 09/12/2020 08:10PM ET,SEA,11.49
+SP,Miles Mikolas (15343220),Miles Mikolas,15343220,P,7400,CIN@STL 09/12/2020 08:15PM ET,STL,0
+RP,Daniel Ponce de Leon (15343221),Daniel Ponce de Leon,15343221,P,7400,CIN@STL 09/12/2020 08:15PM ET,STL,5.34
+SP,Griffin Canning (15343227),Griffin Canning,15343227,P,7300,LAA@COL 09/12/2020 08:10PM ET,LAA,10.69
+SP,Rich Hill (15342584),Rich Hill,15342584,P,7300,CLE@MIN 09/12/2020 08:07PM ET,MIN,9.05
+RP,Sam Coonrod (15343226),Sam Coonrod,15343226,P,7300,Postponed,SF,0.96
+RP,Richard Lovelady (15343225),Richard Lovelady,15343225,P,7300,PIT@KC 09/12/2020 07:05PM ET,KC,-0.95
+SP,Antonio Senzatela (15343230),Antonio Senzatela,15343230,P,7200,LAA@COL 09/12/2020 08:10PM ET,COL,12.66
+RP,Conner Menez (15343228),Conner Menez,15343228,P,7200,Postponed,SF,4.61
+SP,Madison Bumgarner (15343229),Madison Bumgarner,15343229,P,7200,SEA@ARI 09/12/2020 08:10PM ET,ARI,3.71
+SP,Triston McKenzie (15343231),Triston McKenzie,15343231,P,7100,CLE@MIN 09/12/2020 08:07PM ET,CLE,21.41
+SP,Jake Faria (15343234),Jake Faria,15343234,P,7100,CHC@MIL 09/12/2020 07:10PM ET,MIL,0
+SP,Chad Kuhl (15343232),Chad Kuhl,15343232,P,7100,PIT@KC 09/12/2020 07:05PM ET,PIT,10.42
+SP,Alex Young (15343233),Alex Young,15343233,P,7100,SEA@ARI 09/12/2020 08:10PM ET,ARI,7
+SP,Erik Swanson (15343235),Erik Swanson,15343235,P,7100,SEA@ARI 09/12/2020 08:10PM ET,SEA,0.33
+RP,Matt Wisler (15343238),Matt Wisler,15343238,P,7000,CLE@MIN 09/12/2020 08:07PM ET,MIN,6.35
+SP,Kevin Gausman (15342585),Kevin Gausman,15342585,P,7000,Postponed,SF,18.58
+SP,Zack Brown (15343239),Zack Brown,15343239,P,7000,CHC@MIL 09/12/2020 07:10PM ET,MIL,0
+SP,Danny Duffy (15343237),Danny Duffy,15343237,P,7000,PIT@KC 09/12/2020 07:05PM ET,KC,14.62
+RP,Kwang Hyun Kim (15343236),Kwang Hyun Kim,15343236,P,7000,CIN@STL 09/12/2020 08:15PM ET,STL,12.55
+RP,Rico Garcia (15343240),Rico Garcia,15343240,P,6900,Postponed,SF,0.7
+SP,Jose Quintana (15343241),Jose Quintana,15343241,P,6900,CHC@MIL 09/12/2020 07:10PM ET,CHC,9.35
+SP,Luke Weaver (15343242),Luke Weaver,15343242,P,6900,SEA@ARI 09/12/2020 08:10PM ET,ARI,8.14
+SP,Nick Margevicius (15343243),Nick Margevicius,15343243,P,6900,SEA@ARI 09/12/2020 08:10PM ET,SEA,8.93
+SP,Tejay Antone (15342586),Tejay Antone,15342586,P,6900,CIN@STL 09/12/2020 08:15PM ET,CIN,11.68
+SP,Tarik Skubal (15343245),Tarik Skubal,15343245,P,6800,DET@CWS 09/12/2020 07:10PM ET,DET,6.56
+RP,Ross Detwiler (15343246),Ross Detwiler,15343246,P,6800,DET@CWS 09/12/2020 07:10PM ET,CWS,3.96
+SP,Brett Anderson (15342587),Brett Anderson,15342587,P,6800,CHC@MIL 09/12/2020 07:10PM ET,MIL,8.69
+RP,Josh Lindblom (15343244),Josh Lindblom,15343244,P,6800,CHC@MIL 09/12/2020 07:10PM ET,MIL,9.72
+SP,Kyle Freeland (15342588),Kyle Freeland,15342588,P,6700,LAA@COL 09/12/2020 08:10PM ET,COL,11.83
+SP,Tyler Anderson (15343248),Tyler Anderson,15343248,P,6700,Postponed,SF,8.96
+SP,Brad Keller (15343249),Brad Keller,15343249,P,6700,PIT@KC 09/12/2020 07:05PM ET,KC,15.67
+SP,Genesis Cabrera (15343247),Genesis Cabrera,15343247,P,6700,CIN@STL 09/12/2020 08:15PM ET,STL,5.00
+SP,Jose Urquidy (15343250),Jose Urquidy,15343250,P,6600,HOU@LAD 09/12/2020 08:07PM ET,HOU,6.28
+SP,Trevor Cahill (15343252),Trevor Cahill,15343252,P,6600,Postponed,SF,9.57
+RP,Trey Wingenter (15343253),Trey Wingenter,15343253,P,6600,Postponed,SD,0
+SP,Eric Lauer (15343254),Eric Lauer,15343254,P,6600,CHC@MIL 09/12/2020 07:10PM ET,MIL,0.4
+SP,Kris Bubic (15343251),Kris Bubic,15343251,P,6600,PIT@KC 09/12/2020 07:05PM ET,KC,11.5
+SP,Marco Gonzales (15343255),Marco Gonzales,15343255,P,6600,SEA@ARI 09/12/2020 08:10PM ET,SEA,20.86
+SP,Jeff Hoffman (15343293),Jeff Hoffman,15343293,P,6500,LAA@COL 09/12/2020 08:10PM ET,COL,2.09
+SP,Peter Lambert (15343295),Peter Lambert,15343295,P,6500,LAA@COL 09/12/2020 08:10PM ET,COL,0
+SP,Dane Dunning (15343256),Dane Dunning,15343256,P,6500,DET@CWS 09/12/2020 07:10PM ET,CWS,16.75
+RP,Cory Gearrin (15343268),Cory Gearrin,15343268,P,6500,CLE@MIN 09/12/2020 08:07PM ET,MIN,5.3
+RP,Tyler Clippard (15343269),Tyler Clippard,15343269,P,6500,CLE@MIN 09/12/2020 08:07PM ET,MIN,3.61
+RP,Matt Strahm (15343261),Matt Strahm,15343261,P,6500,Postponed,SD,2.75
+SP,Joey Lucchesi (15343266),Joey Lucchesi,15343266,P,6500,Postponed,SD,1.8
+SP,Drew Pomeranz (15343267),Drew Pomeranz,15343267,P,6500,Postponed,SD,4.46
+RP,Tyson Miller (15343270),Tyson Miller,15343270,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,1.12
+SP,Brailyn Marquez (15343271),Brailyn Marquez,15343271,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,0
+RP,Brad Wieck (15343272),Brad Wieck,15343272,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,1.05
+RP,Rex Brothers (15343273),Rex Brothers,15343273,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,3.12
+RP,Manuel Rodriguez (15343274),Manuel Rodriguez,15343274,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,0
+SP,Jharel Cotton (15343275),Jharel Cotton,15343275,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,0
+RP,Jason Adam (15343276),Jason Adam,15343276,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,4.88
+RP,Dan Winkler (15343277),Dan Winkler,15343277,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,2.64
+RP,Craig Kimbrel (15343278),Craig Kimbrel,15343278,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,2.99
+SP,Keegan Thompson (15343279),Keegan Thompson,15343279,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,0
+RP,Jeremy Jeffress (15343280),Jeremy Jeffress,15343280,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,3.71
+SP,Duane Underwood Jr. (15343281),Duane Underwood Jr.,15343281,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,3.78
+RP,Juan Gamez (15343282),Juan Gamez,15343282,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,0
+RP,James Norwood (15343283),James Norwood,15343283,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,-1.75
+SP,Colin Rea (15343284),Colin Rea,15343284,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,3.03
+RP,Rowan Wick (15343285),Rowan Wick,15343285,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,2.66
+RP,Trevor Megill (15343286),Trevor Megill,15343286,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,0
+SP,Jack Patterson (15343287),Jack Patterson,15343287,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,0
+RP,Dakota Mekkes (15343288),Dakota Mekkes,15343288,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,0
+RP,Dillon Maples (15343289),Dillon Maples,15343289,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,-1.38
+RP,Danny Hultzen (15343290),Danny Hultzen,15343290,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,0
+RP,Kyle Ryan (15343291),Kyle Ryan,15343291,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,1.80
+SP,Justin Steele (15343292),Justin Steele,15343292,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,0
+RP,Ryan Tepera (15343294),Ryan Tepera,15343294,P,6500,CHC@MIL 09/12/2020 07:10PM ET,CHC,3.54
+SP,Trevor Williams (15342589),Trevor Williams,15342589,P,6500,PIT@KC 09/12/2020 07:05PM ET,PIT,9.97
+RP,Mike Montgomery (15343257),Mike Montgomery,15343257,P,6500,PIT@KC 09/12/2020 07:05PM ET,KC,-2.5
+SP,Derek Holland (15343258),Derek Holland,15343258,P,6500,PIT@KC 09/12/2020 07:05PM ET,PIT,9.14
+SP,Jakob Junis (15343259),Jakob Junis,15343259,P,6500,PIT@KC 09/12/2020 07:05PM ET,KC,5.89
+RP,Heath Fillmyer (15343260),Heath Fillmyer,15343260,P,6500,PIT@KC 09/12/2020 07:05PM ET,KC,0
+RP,Ronald Bolanos (15343262),Ronald Bolanos,15343262,P,6500,PIT@KC 09/12/2020 07:05PM ET,KC,-2.48
+SP,Kyle Zimmer (15343263),Kyle Zimmer,15343263,P,6500,PIT@KC 09/12/2020 07:05PM ET,KC,5.20
+SP,Brady Singer (15343264),Brady Singer,15343264,P,6500,PIT@KC 09/12/2020 07:05PM ET,KC,13.06
+RP,Glenn Sparkman (15343265),Glenn Sparkman,15343265,P,6500,PIT@KC 09/12/2020 07:05PM ET,KC,0.81
+SP,Patrick Sandoval (15343299),Patrick Sandoval,15343299,P,6400,LAA@COL 09/12/2020 08:10PM ET,LAA,5.2
+SP,Michael Fulmer (15342590),Michael Fulmer,15342590,P,6400,DET@CWS 09/12/2020 07:10PM ET,DET,2.69
+SP,Jeff Samardzija (15343298),Jeff Samardzija,15343298,P,6400,Postponed,SF,-1.22
+RP,JT Brubaker (15343297),JT Brubaker,15343297,P,6400,PIT@KC 09/12/2020 07:05PM ET,PIT,9.08
+SP,Wade Miley (15343296),Wade Miley,15343296,P,6400,CIN@STL 09/12/2020 08:15PM ET,CIN,4.34
+SP,Jaime Barria (15342591),Jaime Barria,15342591,P,6300,LAA@COL 09/12/2020 08:10PM ET,LAA,12.5
+SP,Jon Gray (15343306),Jon Gray,15343306,P,6300,LAA@COL 09/12/2020 08:10PM ET,COL,5.87
+SP,Ivan Nova (15343305),Ivan Nova,15343305,P,6300,DET@CWS 09/12/2020 07:10PM ET,DET,2.54
+SP,Cal Quantrill (15343303),Cal Quantrill,15343303,P,6300,CLE@MIN 09/12/2020 08:07PM ET,CLE,5.28
+RP,Devin Smeltzer (15343304),Devin Smeltzer,15343304,P,6300,CLE@MIN 09/12/2020 08:07PM ET,MIN,5
+SP,Tyler Beede (15343301),Tyler Beede,15343301,P,6300,Postponed,SF,0
+SP,Chris Stratton (15343302),Chris Stratton,15343302,P,6300,PIT@KC 09/12/2020 07:05PM ET,PIT,4.01
+SP,Lucas Sims (15343300),Lucas Sims,15343300,P,6300,CIN@STL 09/12/2020 08:15PM ET,CIN,4.98
+SP,Ryan Castellani (15343310),Ryan Castellani,15343310,P,6200,LAA@COL 09/12/2020 08:10PM ET,COL,6.76
+RP,Felix Pena (15343311),Felix Pena,15343311,P,6200,LAA@COL 09/12/2020 08:10PM ET,LAA,3.99
+RP,Luis Garcia (15343308),Luis Garcia,15343308,P,6200,HOU@LAD 09/12/2020 08:07PM ET,HOU,13.4
+SP,Adrian Morejon (15343307),Adrian Morejon,15343307,P,6200,Postponed,SD,9.36
+SP,Yusei Kikuchi (15343309),Yusei Kikuchi,15343309,P,6200,SEA@ARI 09/12/2020 08:10PM ET,SEA,14.12
+SP,J.B. Bukauskas (15343312),J.B. Bukauskas,15343312,P,6100,SEA@ARI 09/12/2020 08:10PM ET,ARI,0
+SP,Ljay Newsome (15343313),Ljay Newsome,15343313,P,6100,SEA@ARI 09/12/2020 08:10PM ET,SEA,7.32
+OF,Mike Trout (15342594),Mike Trout,15342594,OF,6000,LAA@COL 09/12/2020 08:10PM ET,LAA,11.78
+RP,Ray Black (15343317),Ray Black,15343317,P,6000,CHC@MIL 09/12/2020 07:10PM ET,MIL,0
+RP,Steven Brault (15343314),Steven Brault,15343314,P,6000,PIT@KC 09/12/2020 07:05PM ET,PIT,5.89
+SP,Joe Musgrove (15343315),Joe Musgrove,15343315,P,6000,PIT@KC 09/12/2020 07:05PM ET,PIT,10.75
+SP,Corbin Martin (15343316),Corbin Martin,15343316,P,6000,SEA@ARI 09/12/2020 08:10PM ET,ARI,0
+OF,Mookie Betts (15342597),Mookie Betts,15342597,OF,5900,HOU@LAD 09/12/2020 08:07PM ET,LAD,11.19
+SP,Reynaldo Lopez (15342592),Reynaldo Lopez,15342592,P,5900,DET@CWS 09/12/2020 07:10PM ET,CWS,2.49
+SP,Gregory Soto (15343320),Gregory Soto,15343320,P,5900,DET@CWS 09/12/2020 07:10PM ET,DET,3.08
+SP,Adam Plutko (15343318),Adam Plutko,15343318,P,5900,CLE@MIN 09/12/2020 08:07PM ET,CLE,4.18
+SS,Fernando Tatis Jr. (15342595),Fernando Tatis Jr.,15342595,SS,5900,Postponed,SD,12.39
+SP,Caleb Smith (15343319),Caleb Smith,15343319,P,5900,SEA@ARI 09/12/2020 08:10PM ET,ARI,8.05
+SS,Trevor Story (15342596),Trevor Story,15342596,SS,5800,LAA@COL 09/12/2020 08:10PM ET,COL,11.28
+3B,Nolan Arenado (15342601),Nolan Arenado,15342601,3B,5800,LAA@COL 09/12/2020 08:10PM ET,COL,7.74
+SP,Chi Chi Gonzalez (15343322),Chi Chi Gonzalez,15343322,P,5800,LAA@COL 09/12/2020 08:10PM ET,COL,2.75
+RP,Matt Andriese (15343323),Matt Andriese,15343323,P,5800,LAA@COL 09/12/2020 08:10PM ET,LAA,6.41
+1B/OF,Cody Bellinger (15342598),Cody Bellinger,15342598,1B/OF,5800,HOU@LAD 09/12/2020 08:07PM ET,LAD,8.36
+SP,Kyle Funkhouser (15343321),Kyle Funkhouser,15343321,P,5800,DET@CWS 09/12/2020 07:10PM ET,DET,1.48
+RP,Kenley Jansen (15343326),Kenley Jansen,15343326,P,5700,HOU@LAD 09/12/2020 08:07PM ET,LAD,4.13
+SP,Casey Mize (15343327),Casey Mize,15343327,P,5700,DET@CWS 09/12/2020 07:10PM ET,DET,8.36
+OF,Nelson Cruz (15342606),Nelson Cruz,15342606,OF,5700,CLE@MIN 09/12/2020 08:07PM ET,MIN,10.07
+3B,Manny Machado (15342602),Manny Machado,15342602,3B,5700,Postponed,SD,10.70
+SP,Carlos Hernandez (15342593),Carlos Hernandez,15342593,P,5700,PIT@KC 09/12/2020 07:05PM ET,KC,7.72
+RP,Bo Takahashi (15343328),Bo Takahashi,15343328,P,5700,SEA@ARI 09/12/2020 08:10PM ET,ARI,0
+SP,Tony Santillan (15343324),Tony Santillan,15343324,P,5700,CIN@STL 09/12/2020 08:15PM ET,CIN,0
+RP,Andrew Miller (15343325),Andrew Miller,15343325,P,5700,CIN@STL 09/12/2020 08:15PM ET,STL,1.77
+OF,Charlie Blackmon (15342607),Charlie Blackmon,15342607,OF,5600,LAA@COL 09/12/2020 08:10PM ET,COL,9.05
+SS,Tim Anderson (15342603),Tim Anderson,15342603,SS,5600,DET@CWS 09/12/2020 07:10PM ET,CWS,10.88
+3B,Jose Ramirez (15342604),Jose Ramirez,15342604,3B,5600,CLE@MIN 09/12/2020 08:07PM ET,CLE,9.93
+1B,Paul Goldschmidt (15342600),Paul Goldschmidt,15342600,1B,5600,CIN@STL 09/12/2020 08:15PM ET,STL,8.10
+SP,Sal Romano (15343329),Sal Romano,15343329,P,5600,CIN@STL 09/12/2020 08:15PM ET,CIN,0
+1B/3B,Max Muncy (15342609),Max Muncy,15342609,1B/3B,5500,HOU@LAD 09/12/2020 08:07PM ET,LAD,7.57
+RP,Buck Farmer (15343330),Buck Farmer,15343330,P,5500,DET@CWS 09/12/2020 07:10PM ET,DET,1.8
+SS,Francisco Lindor (15342605),Francisco Lindor,15342605,SS,5500,CLE@MIN 09/12/2020 08:07PM ET,CLE,7.76
+OF,Mike Yastrzemski (15342608),Mike Yastrzemski,15342608,OF,5500,Postponed,SF,10.04
+3B,Anthony Rendon (15342612),Anthony Rendon,15342612,3B,5400,LAA@COL 09/12/2020 08:10PM ET,LAA,9.18
+SP,Jose Suarez (15343334),Jose Suarez,15343334,P,5400,LAA@COL 09/12/2020 08:10PM ET,LAA,-10.18
+SP,Daniel Norris (15343333),Daniel Norris,15343333,P,5400,DET@CWS 09/12/2020 07:10PM ET,DET,8.93
+SS,Jorge Polanco (15342614),Jorge Polanco,15342614,SS,5400,CLE@MIN 09/12/2020 08:07PM ET,MIN,6.56
+RP,Jorge Alcala (15343331),Jorge Alcala,15343331,P,5400,CLE@MIN 09/12/2020 08:07PM ET,MIN,6.45
+SP,Luis Perdomo (15343332),Luis Perdomo,15343332,P,5400,Postponed,SD,3.71
+OF,Christian Yelich (15342613),Christian Yelich,15342613,OF,5400,CHC@MIL 09/12/2020 07:10PM ET,MIL,8.65
+SS,Corey Seager (15342621),Corey Seager,15342621,SS,5300,HOU@LAD 09/12/2020 08:07PM ET,LAD,10.58
+1B,Jose Abreu (15342611),Jose Abreu,15342611,1B,5300,DET@CWS 09/12/2020 07:10PM ET,CWS,10.09
+SP,Matt Harvey (15343335),Matt Harvey,15343335,P,5300,PIT@KC 09/12/2020 07:05PM ET,KC,-0.78
+SP,Kendall Graveman (15343336),Kendall Graveman,15343336,P,5300,SEA@ARI 09/12/2020 08:10PM ET,SEA,5.25
+RP,Taylor Clarke (15343337),Taylor Clarke,15343337,P,5300,SEA@ARI 09/12/2020 08:10PM ET,ARI,9.3
+3B/OF,Tommy Edman (15342616),Tommy Edman,15342616,3B/OF,5300,CIN@STL 09/12/2020 08:15PM ET,STL,7.17
+2B/SS,David Fletcher (15342627),David Fletcher,15342627,2B/SS,5200,LAA@COL 09/12/2020 08:10PM ET,LAA,8.29
+RP,Dennis Santana (15343338),Dennis Santana,15343338,P,5200,HOU@LAD 09/12/2020 08:07PM ET,LAD,3.65
+3B,Yoan Moncada (15342618),Yoan Moncada,15342618,3B,5200,DET@CWS 09/12/2020 07:10PM ET,CWS,7.56
+OF,Eloy Jimenez (15342620),Eloy Jimenez,15342620,OF,5200,DET@CWS 09/12/2020 07:10PM ET,CWS,8.88
+SP,Tyler Alexander (15343339),Tyler Alexander,15343339,P,5200,DET@CWS 09/12/2020 07:10PM ET,DET,7.60
+1B,Miguel Sano (15342615),Miguel Sano,15342615,1B,5200,CLE@MIN 09/12/2020 08:07PM ET,MIN,7.93
+3B,Alex Bregman (15342619),Alex Bregman,15342619,3B,5100,HOU@LAD 09/12/2020 08:07PM ET,HOU,7.59
+OF,Luis Robert (15342626),Luis Robert,15342626,OF,5100,DET@CWS 09/12/2020 07:10PM ET,CWS,9.07
+2B/SS,Leury Garcia (15342631),Leury Garcia,15342631,2B/SS,5100,DET@CWS 09/12/2020 07:10PM ET,CWS,6.69
+1B,Eric Hosmer (15342638),Eric Hosmer,15342638,1B,5100,Postponed,SD,9.97
+RP,Jon Duplantier (15343341),Jon Duplantier,15343341,P,5100,SEA@ARI 09/12/2020 08:10PM ET,ARI,0
+RP,Giovanny Gallegos (15343340),Giovanny Gallegos,15343340,P,5100,CIN@STL 09/12/2020 08:15PM ET,STL,3.24
+1B/C,Yasmani Grandal (15342624),Yasmani Grandal,15342624,C/1B,5000,DET@CWS 09/12/2020 07:10PM ET,CWS,8.06
+2B,Keston Hiura (15342641),Keston Hiura,15342641,2B,5000,CHC@MIL 09/12/2020 07:10PM ET,MIL,8.33
+SP,Shelby Miller (15343344),Shelby Miller,15343344,P,5000,CHC@MIL 09/12/2020 07:10PM ET,MIL,0
+OF,Kyle Lewis (15342630),Kyle Lewis,15342630,OF,5000,SEA@ARI 09/12/2020 08:10PM ET,SEA,8.86
+3B,Brad Miller (15342622),Brad Miller,15342622,3B,5000,CIN@STL 09/12/2020 08:15PM ET,STL,8.34
+SS,Paul DeJong (15342633),Paul DeJong,15342633,SS,5000,CIN@STL 09/12/2020 08:15PM ET,STL,7.65
+RP,Amir Garrett (15343342),Amir Garrett,15343342,P,5000,CIN@STL 09/12/2020 08:15PM ET,CIN,4.45
+RP,Matt Bowman (15343343),Matt Bowman,15343343,P,5000,CIN@STL 09/12/2020 08:15PM ET,CIN,0
+SP,Dillon Peters (15343346),Dillon Peters,15343346,P,4900,LAA@COL 09/12/2020 08:10PM ET,LAA,-0.05
+1B,Edwin Encarnacion (15342639),Edwin Encarnacion,15342639,1B,4900,DET@CWS 09/12/2020 07:10PM ET,CWS,6.94
+OF,Trent Grisham (15342635),Trent Grisham,15342635,OF,4900,Postponed,SD,8.78
+3B,Kyle Seager (15342623),Kyle Seager,15342623,3B,4900,SEA@ARI 09/12/2020 08:10PM ET,SEA,8.41
+2B,Kolten Wong (15342646),Kolten Wong,15342646,2B,4900,CIN@STL 09/12/2020 08:15PM ET,STL,6.14
+SP,Jake Woodford (15343345),Jake Woodford,15343345,P,4900,CIN@STL 09/12/2020 08:15PM ET,STL,4.34
+OF,Yordan Alvarez (15342642),Yordan Alvarez,15342642,OF,4800,HOU@LAD 09/12/2020 08:07PM ET,HOU,13.5
+C,Austin Nola (15342636),Austin Nola,15342636,C,4800,Postponed,SD,8.22
+SP,Shaun Anderson (15343347),Shaun Anderson,15343347,P,4800,Postponed,SF,1.68
+SS,J.P. Crawford (15342634),J.P. Crawford,15342634,SS,4800,SEA@ARI 09/12/2020 08:10PM ET,SEA,7.42
+3B,Matt Carpenter (15342629),Matt Carpenter,15342629,3B,4800,CIN@STL 09/12/2020 08:15PM ET,STL,5.76
+OF,Nick Castellanos (15342640),Nick Castellanos,15342640,OF,4800,CIN@STL 09/12/2020 08:15PM ET,CIN,8.53
+1B/2B,Mike Moustakas (15342652),Mike Moustakas,15342652,1B/2B,4800,CIN@STL 09/12/2020 08:15PM ET,CIN,5.7
+OF,Kyle Tucker (15342643),Kyle Tucker,15342643,OF,4700,HOU@LAD 09/12/2020 08:07PM ET,HOU,9.36
+3B,Justin Turner (15342647),Justin Turner,15342647,3B,4700,HOU@LAD 09/12/2020 08:07PM ET,LAD,7.84
+SS,Carlos Correa (15342649),Carlos Correa,15342649,SS,4700,HOU@LAD 09/12/2020 08:07PM ET,HOU,6.54
+RP,Caleb Ferguson (15343348),Caleb Ferguson,15343348,P,4700,HOU@LAD 09/12/2020 08:07PM ET,LAD,3.87
+C,James McCann (15342637),James McCann,15342637,C,4700,DET@CWS 09/12/2020 07:10PM ET,CWS,8.38
+1B/2B,Wilmer Flores (15342656),Wilmer Flores,15342656,1B/2B,4700,Postponed,SF,8.37
+OF,Ian Happ (15342645),Ian Happ,15342645,OF,4700,CHC@MIL 09/12/2020 07:10PM ET,CHC,8.78
+RP,Ty Buttrey (15343352),Ty Buttrey,15343352,P,4600,LAA@COL 09/12/2020 08:10PM ET,LAA,1.57
+OF,George Springer (15342651),George Springer,15342651,OF,4600,HOU@LAD 09/12/2020 08:07PM ET,HOU,8.18
+RP,Joe Kelly (15343349),Joe Kelly,15343349,P,4600,HOU@LAD 09/12/2020 08:07PM ET,LAD,2.61
+C,Willson Contreras (15342644),Willson Contreras,15342644,C,4600,CHC@MIL 09/12/2020 07:10PM ET,CHC,7.20
+SS,Javier Baez (15342658),Javier Baez,15342658,SS,4600,CHC@MIL 09/12/2020 07:10PM ET,CHC,5.8
+1B,Anthony Rizzo (15342659),Anthony Rizzo,15342659,1B,4600,CHC@MIL 09/12/2020 07:10PM ET,CHC,7.09
+2B/OF,Whit Merrifield (15342662),Whit Merrifield,15342662,2B/OF,4600,PIT@KC 09/12/2020 07:05PM ET,KC,8.48
+SP,Ian Kennedy (15343350),Ian Kennedy,15343350,P,4600,PIT@KC 09/12/2020 07:05PM ET,KC,1.19
+RP,Silvino Bracho (15343351),Silvino Bracho,15343351,P,4600,SEA@ARI 09/12/2020 08:10PM ET,ARI,0
+3B,Eugenio Suarez (15342650),Eugenio Suarez,15342650,3B,4600,CIN@STL 09/12/2020 08:15PM ET,CIN,7.89
+SS,Andrelton Simmons (15342661),Andrelton Simmons,15342661,SS,4500,LAA@COL 09/12/2020 08:10PM ET,LAA,6.86
+1B/OF,Shohei Ohtani (15342675),Shohei Ohtani,15342675,1B/OF,4500,LAA@COL 09/12/2020 08:10PM ET,LAA,5.40
+RP,Justin Anderson (15343355),Justin Anderson,15343355,P,4500,LAA@COL 09/12/2020 08:10PM ET,LAA,0
+3B,Josh Donaldson (15342654),Josh Donaldson,15342654,3B,4500,CLE@MIN 09/12/2020 08:07PM ET,MIN,7
+OF,Eddie Rosario (15342660),Eddie Rosario,15342660,OF,4500,CLE@MIN 09/12/2020 08:07PM ET,MIN,7.80
+2B,Donovan Solano (15342667),Donovan Solano,15342667,2B,4500,Postponed,SF,8.12
+RP,Josh Hader (15343354),Josh Hader,15343354,P,4500,CHC@MIL 09/12/2020 07:10PM ET,MIL,4.15
+RP,Yoan Lopez (15343353),Yoan Lopez,15343353,P,4500,SEA@ARI 09/12/2020 08:10PM ET,ARI,1.61
+C,Yadier Molina (15342648),Yadier Molina,15342648,C,4500,CIN@STL 09/12/2020 08:15PM ET,STL,5.67
+RP,Taylor Cole (15343357),Taylor Cole,15343357,P,4400,LAA@COL 09/12/2020 08:10PM ET,LAA,0
+OF/SS,Chris Taylor (15342665),Chris Taylor,15342665,SS/OF,4400,HOU@LAD 09/12/2020 08:07PM ET,LAD,6.86
+1B,C.J. Cron (15342685),C.J. Cron,15342685,1B,4400,DET@CWS 09/12/2020 07:10PM ET,DET,8.62
+C,Mitch Garver (15342671),Mitch Garver,15342671,C,4400,CLE@MIN 09/12/2020 08:07PM ET,MIN,3.82
+OF,Wil Myers (15342664),Wil Myers,15342664,OF,4400,Postponed,SD,9.5
+2B,Jake Cronenworth (15342668),Jake Cronenworth,15342668,2B,4400,Postponed,SD,7.72
+3B,Kris Bryant (15342655),Kris Bryant,15342655,3B,4400,CHC@MIL 09/12/2020 07:10PM ET,CHC,5.84
+RP,Gerson Bautista (15343356),Gerson Bautista,15343356,P,4400,SEA@ARI 09/12/2020 08:10PM ET,SEA,0
+RP,Hansel Robles (15343359),Hansel Robles,15343359,P,4300,LAA@COL 09/12/2020 08:10PM ET,LAA,0.80
+C,Will Smith (15342673),Will Smith,15342673,C,4300,HOU@LAD 09/12/2020 08:07PM ET,LAD,7.96
+2B,Jonathan Schoop (15342672),Jonathan Schoop,15342672,2B,4300,DET@CWS 09/12/2020 07:10PM ET,DET,7.70
+OF,Franmil Reyes (15342670),Franmil Reyes,15342670,OF,4300,CLE@MIN 09/12/2020 08:07PM ET,CLE,8.07
+1B,Mitch Moreland (15342686),Mitch Moreland,15342686,1B,4300,Postponed,SD,8.81
+3B,Evan Longoria (15342687),Evan Longoria,15342687,3B,4300,Postponed,SF,7.37
+OF,Kyle Schwarber (15342669),Kyle Schwarber,15342669,OF,4300,CHC@MIL 09/12/2020 07:10PM ET,CHC,6.87
+RP,Seth Elledge (15343358),Seth Elledge,15343358,P,4300,CIN@STL 09/12/2020 08:15PM ET,STL,4.4
+RP,Keynan Middleton (15343361),Keynan Middleton,15343361,P,4200,LAA@COL 09/12/2020 08:10PM ET,LAA,1.86
+3B/SS,Willi Castro (15342680),Willi Castro,15342680,3B/SS,4200,DET@CWS 09/12/2020 07:10PM ET,DET,7.52
+OF,Max Kepler (15342674),Max Kepler,15342674,OF,4200,CLE@MIN 09/12/2020 08:07PM ET,MIN,7.57
+2B,Cesar Hernandez (15342682),Cesar Hernandez,15342682,2B,4200,CLE@MIN 09/12/2020 08:07PM ET,CLE,6.64
+C,Jason Castro (15342677),Jason Castro,15342677,C,4200,Postponed,SD,5.67
+OF,Alex Dickerson (15342678),Alex Dickerson,15342678,OF,4200,Postponed,SF,7
+RP,James Sherfy (15343360),James Sherfy,15343360,P,4200,SEA@ARI 09/12/2020 08:10PM ET,ARI,0
+1B,Joey Votto (15342691),Joey Votto,15342691,1B,4200,CIN@STL 09/12/2020 08:15PM ET,CIN,6.90
+RP,Noe Ramirez (15343362),Noe Ramirez,15343362,P,4100,LAA@COL 09/12/2020 08:10PM ET,LAA,2.13
+OF,Victor Reyes (15342683),Victor Reyes,15342683,OF,4100,DET@CWS 09/12/2020 07:10PM ET,DET,7.26
+2B,Luis Arraez (15342688),Luis Arraez,15342688,2B,4100,CLE@MIN 09/12/2020 08:07PM ET,MIN,5.47
+OF,Austin Slater (15342679),Austin Slater,15342679,OF,4100,Postponed,SF,8.32
+C,Salvador Perez (15342704),Salvador Perez,15342704,C,4100,PIT@KC 09/12/2020 07:05PM ET,KC,7.87
+1B,Christian Walker (15342692),Christian Walker,15342692,1B,4100,SEA@ARI 09/12/2020 08:10PM ET,ARI,8.02
+3B,Eduardo Escobar (15342699),Eduardo Escobar,15342699,3B,4100,SEA@ARI 09/12/2020 08:10PM ET,ARI,6
+2B/OF,Garrett Hampson (15342689),Garrett Hampson,15342689,2B/OF,4000,LAA@COL 09/12/2020 08:10PM ET,COL,6.84
+RP,Luke Bard (15343387),Luke Bard,15343387,P,4000,LAA@COL 09/12/2020 08:10PM ET,LAA,0.94
+RP,Jose Rodriguez (15343388),Jose Rodriguez,15343388,P,4000,LAA@COL 09/12/2020 08:10PM ET,LAA,1.95
+RP,Neil Ramirez (15343390),Neil Ramirez,15343390,P,4000,LAA@COL 09/12/2020 08:10PM ET,LAA,0
+RP,Jacob Barnes (15343393),Jacob Barnes,15343393,P,4000,LAA@COL 09/12/2020 08:10PM ET,LAA,2.12
+RP,Parker Markel (15343406),Parker Markel,15343406,P,4000,LAA@COL 09/12/2020 08:10PM ET,LAA,0
+RP,Ben Bowden (15343428),Ben Bowden,15343428,P,4000,LAA@COL 09/12/2020 08:10PM ET,COL,0
+RP,Scott Oberg (15343430),Scott Oberg,15343430,P,4000,LAA@COL 09/12/2020 08:10PM ET,COL,0
+RP,Jesus Tinoco (15343437),Jesus Tinoco,15343437,P,4000,LAA@COL 09/12/2020 08:10PM ET,COL,5.15
+SP,Chris Rodriguez (15343446),Chris Rodriguez,15343446,P,4000,LAA@COL 09/12/2020 08:10PM ET,LAA,0
+RP,Jose Quijada (15343449),Jose Quijada,15343449,P,4000,LAA@COL 09/12/2020 08:10PM ET,LAA,1.48
+RP,Kyle Keller (15343450),Kyle Keller,15343450,P,4000,LAA@COL 09/12/2020 08:10PM ET,LAA,0.12
+RP,Phillip Diehl (15343451),Phillip Diehl,15343451,P,4000,LAA@COL 09/12/2020 08:10PM ET,COL,0.45
+RP,Joe Harvey (15343488),Joe Harvey,15343488,P,4000,LAA@COL 09/12/2020 08:10PM ET,COL,2.28
+RP,Alexander Guillen (15343497),Alexander Guillen,15343497,P,4000,LAA@COL 09/12/2020 08:10PM ET,COL,0
+RP,Tim Collins (15343507),Tim Collins,15343507,P,4000,LAA@COL 09/12/2020 08:10PM ET,COL,0
+RP,Yency Almonte (15343509),Yency Almonte,15343509,P,4000,LAA@COL 09/12/2020 08:10PM ET,COL,3.98
+RP,Carlos Estevez (15343514),Carlos Estevez,15343514,P,4000,LAA@COL 09/12/2020 08:10PM ET,COL,2.02
+RP,Ashton Goudeau (15343521),Ashton Goudeau,15343521,P,4000,LAA@COL 09/12/2020 08:10PM ET,COL,-3.1
+RP,Garrett Stallings (15343531),Garrett Stallings,15343531,P,4000,LAA@COL 09/12/2020 08:10PM ET,LAA,0
+RP,Daniel Bard (15343533),Daniel Bard,15343533,P,4000,LAA@COL 09/12/2020 08:10PM ET,COL,3.88
+RP,Hector Yan (15343535),Hector Yan,15343535,P,4000,LAA@COL 09/12/2020 08:10PM ET,LAA,0
+RP,James Pazos (15343541),James Pazos,15343541,P,4000,LAA@COL 09/12/2020 08:10PM ET,COL,-2.5
+RP,Jairo Diaz (15343549),Jairo Diaz,15343549,P,4000,LAA@COL 09/12/2020 08:10PM ET,COL,0.89
+RP,Mychal Givens (15343551),Mychal Givens,15343551,P,4000,LAA@COL 09/12/2020 08:10PM ET,COL,3.71
+SP,Ryan Rolison (15343562),Ryan Rolison,15343562,P,4000,LAA@COL 09/12/2020 08:10PM ET,COL,0
+RP,Mike Mayers (15343575),Mike Mayers,15343575,P,4000,LAA@COL 09/12/2020 08:10PM ET,LAA,3.6
+RP,Wade Davis (15343581),Wade Davis,15343581,P,4000,LAA@COL 09/12/2020 08:10PM ET,COL,-1.87
+RP,Jacob Rhame (15343603),Jacob Rhame,15343603,P,4000,LAA@COL 09/12/2020 08:10PM ET,LAA,0
+SP,Adam Seminaris (15343609),Adam Seminaris,15343609,P,4000,LAA@COL 09/12/2020 08:10PM ET,LAA,0
+RP,Hoby Milner (15343610),Hoby Milner,15343610,P,4000,LAA@COL 09/12/2020 08:10PM ET,LAA,1.20
+SP,Reid Detmers (15343618),Reid Detmers,15343618,P,4000,LAA@COL 09/12/2020 08:10PM ET,LAA,0
+RP,Tyler Kinley (15343641),Tyler Kinley,15343641,P,4000,LAA@COL 09/12/2020 08:10PM ET,COL,1.89
+RP,Jose Mujica (15343642),Jose Mujica,15343642,P,4000,LAA@COL 09/12/2020 08:10PM ET,COL,-10
+RP,Adrian De Horta (15343664),Adrian De Horta,15343664,P,4000,LAA@COL 09/12/2020 08:10PM ET,LAA,0
+SP,Antonio Santos (15343668),Antonio Santos,15343668,P,4000,LAA@COL 09/12/2020 08:10PM ET,COL,0.4
+1B,Yuli Gurriel (15342698),Yuli Gurriel,15342698,1B,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,7.02
+C,Martin Maldonado (15342713),Martin Maldonado,15342713,C,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,6.25
+SP,Justin Verlander (15343363),Justin Verlander,15343363,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,25.1
+RP,Brad Peacock (15343364),Brad Peacock,15343364,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,1.42
+SP,Rogelio Armenteros (15343366),Rogelio Armenteros,15343366,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,0
+RP,Austin Pruitt (15343372),Austin Pruitt,15343372,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,0
+RP,Chris Devenski (15343377),Chris Devenski,15343377,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,0.06
+RP,Josh Sborz (15343401),Josh Sborz,15343401,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,4.25
+SP,Michael Grove (15343405),Michael Grove,15343405,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+RP,Joe Biagini (15343412),Joe Biagini,15343412,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,-2.66
+RP,Blake Treinen (15343421),Blake Treinen,15343421,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,3.19
+RP,Brooks Raley (15343441),Brooks Raley,15343441,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,3.1
+SP,Clayton Beeter (15343452),Clayton Beeter,15343452,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+RP,Ryan Pressly (15343453),Ryan Pressly,15343453,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,3.1
+RP,Dylan Floro (15343455),Dylan Floro,15343455,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,2.85
+RP,Brandon Bailey (15343461),Brandon Bailey,15343461,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,2.9
+RP,Nivaldo Rodriguez (15343464),Nivaldo Rodriguez,15343464,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,0.18
+SP,Andre Jackson (15343468),Andre Jackson,15343468,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+RP,Jojanse Torres (15343469),Jojanse Torres,15343469,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,0
+RP,Victor Gonzalez (15343471),Victor Gonzalez,15343471,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,6.54
+SP,Josiah Gray (15343483),Josiah Gray,15343483,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+SP,Brett Conine (15343493),Brett Conine,15343493,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,0
+SP,Shawn Dubin (15343510),Shawn Dubin,15343510,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,0
+SP,Edwin Uceta (15343515),Edwin Uceta,15343515,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+RP,Roberto Osuna (15343517),Roberto Osuna,15343517,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,2.99
+RP,Cy Sneed (15343519),Cy Sneed,15343519,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,1.98
+SP,Blake Taylor (15343523),Blake Taylor,15343523,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,2.87
+RP,Edubray Ramos (15343526),Edubray Ramos,15343526,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+RP,Humberto Castellanos (15343530),Humberto Castellanos,15343530,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,1.94
+SP,Landon Knack (15343542),Landon Knack,15343542,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+RP,Enoli Paredes (15343555),Enoli Paredes,15343555,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,3.1
+RP,Bobby Miller (15343557),Bobby Miller,15343557,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+RP,Ralph Garza Jr. (15343563),Ralph Garza Jr.,15343563,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,0
+RP,Marshall Kasowski (15343576),Marshall Kasowski,15343576,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+SP,Ryan Pepiot (15343577),Ryan Pepiot,15343577,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+RP,Brusdar Graterol (15343586),Brusdar Graterol,15343586,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,1.77
+RP,Pedro Baez (15343593),Pedro Baez,15343593,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,2.21
+RP,Scott Alexander (15343600),Scott Alexander,15343600,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,2.69
+RP,Cionel Perez (15343615),Cionel Perez,15343615,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,2.26
+RP,Brett de Geus (15343626),Brett de Geus,15343626,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+SP,Gerardo Carrillo (15343629),Gerardo Carrillo,15343629,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+SP,Forrest Whitley (15343632),Forrest Whitley,15343632,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,0
+RP,Mitch White (15343643),Mitch White,15343643,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,3.05
+RP,Andre Scrubb (15343646),Andre Scrubb,15343646,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,3.62
+RP,Jake McGee (15343652),Jake McGee,15343652,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,4.22
+RP,Adam Kolarek (15343656),Adam Kolarek,15343656,P,4000,HOU@LAD 09/12/2020 08:07PM ET,LAD,3.72
+RP,Kent Emanuel (15343663),Kent Emanuel,15343663,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,0
+RP,Bryan Abreu (15343670),Bryan Abreu,15343670,P,4000,HOU@LAD 09/12/2020 08:07PM ET,HOU,1.38
+SP,Carlos Rodon (15343371),Carlos Rodon,15343371,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,2.38
+SP,Hector Santiago (15343376),Hector Santiago,15343376,P,4000,DET@CWS 09/12/2020 07:10PM ET,DET,0
+SP,Dario Agrazal (15343381),Dario Agrazal,15343381,P,4000,DET@CWS 09/12/2020 07:10PM ET,DET,0
+SP,Jordan Zimmermann (15343384),Jordan Zimmermann,15343384,P,4000,DET@CWS 09/12/2020 07:10PM ET,DET,7.75
+RP,Ryan Burr (15343392),Ryan Burr,15343392,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,0
+RP,Jose Ruiz (15343395),Jose Ruiz,15343395,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,2.95
+RP,Rony Garcia (15343396),Rony Garcia,15343396,P,4000,DET@CWS 09/12/2020 07:10PM ET,DET,0.95
+RP,Alex McRae (15343397),Alex McRae,15343397,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,5.65
+RP,Matt Foster (15343398),Matt Foster,15343398,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,5.93
+RP,Bryan Garcia (15343402),Bryan Garcia,15343402,P,4000,DET@CWS 09/12/2020 07:10PM ET,DET,2.05
+SP,Franklin Perez (15343407),Franklin Perez,15343407,P,4000,DET@CWS 09/12/2020 07:10PM ET,DET,0
+RP,Ian Hamilton (15343409),Ian Hamilton,15343409,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,1.9
+RP,Tayron Guerrero (15343419),Tayron Guerrero,15343419,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,0
+RP,Evan Marshall (15343423),Evan Marshall,15343423,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,3.87
+RP,Tyler Johnson (15343425),Tyler Johnson,15343425,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,0
+RP,Codi Heuer (15343429),Codi Heuer,15343429,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,4.15
+RP,Adalberto Mejia (15343432),Adalberto Mejia,15343432,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,0
+RP,Jimmy Lambert (15343458),Jimmy Lambert,15343458,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,3.65
+RP,Shao-Ching Chiang (15343459),Shao-Ching Chiang,15343459,P,4000,DET@CWS 09/12/2020 07:10PM ET,DET,0
+RP,John Schreiber (15343475),John Schreiber,15343475,P,4000,DET@CWS 09/12/2020 07:10PM ET,DET,1.79
+SP,Garrett Crochet (15343484),Garrett Crochet,15343484,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,0
+RP,Steve Cishek (15343490),Steve Cishek,15343490,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,1.82
+RP,Aaron Bummer (15343496),Aaron Bummer,15343496,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,5.39
+RP,Jacob Lindgren (15343503),Jacob Lindgren,15343503,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,0
+SP,Matt Manning (15343518),Matt Manning,15343518,P,4000,DET@CWS 09/12/2020 07:10PM ET,DET,0
+RP,Alex Colome (15343529),Alex Colome,15343529,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,3.38
+RP,Nick Ramirez (15343534),Nick Ramirez,15343534,P,4000,DET@CWS 09/12/2020 07:10PM ET,DET,3.3
+SP,Anthony Castro (15343539),Anthony Castro,15343539,P,4000,DET@CWS 09/12/2020 07:10PM ET,DET,-0.95
+RP,Jimmy Cordero (15343552),Jimmy Cordero,15343552,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,1.38
+RP,Alex Faedo (15343554),Alex Faedo,15343554,P,4000,DET@CWS 09/12/2020 07:10PM ET,DET,0
+RP,Bernardo Flores Jr. (15343561),Bernardo Flores Jr.,15343561,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,-0.95
+RP,Nolan Blackwood (15343565),Nolan Blackwood,15343565,P,4000,DET@CWS 09/12/2020 07:10PM ET,DET,0
+SP,Jonathan Stiever (15343568),Jonathan Stiever,15343568,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,0
+RP,David McKay (15343601),David McKay,15343601,P,4000,DET@CWS 09/12/2020 07:10PM ET,DET,-4.45
+RP,Jace Fry (15343622),Jace Fry,15343622,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,2.84
+RP,Bennett Sousa (15343627),Bennett Sousa,15343627,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,0
+RP,Beau Burrows (15343648),Beau Burrows,15343648,P,4000,DET@CWS 09/12/2020 07:10PM ET,DET,1.4
+RP,Jose Cisnero (15343649),Jose Cisnero,15343649,P,4000,DET@CWS 09/12/2020 07:10PM ET,DET,3.27
+RP,Zack Burdi (15343654),Zack Burdi,15343654,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,1.51
+RP,Joe Jimenez (15343665),Joe Jimenez,15343665,P,4000,DET@CWS 09/12/2020 07:10PM ET,DET,0.73
+RP,Drew Anderson (15343673),Drew Anderson,15343673,P,4000,DET@CWS 09/12/2020 07:10PM ET,CWS,-8.6
+RP,Logan Allen (15343367),Logan Allen,15343367,P,4000,CLE@MIN 09/12/2020 08:07PM ET,CLE,2.82
+RP,Jefry Rodriguez (15343373),Jefry Rodriguez,15343373,P,4000,CLE@MIN 09/12/2020 08:07PM ET,CLE,0
+RP,Hunter Wood (15343391),Hunter Wood,15343391,P,4000,CLE@MIN 09/12/2020 08:07PM ET,CLE,0
+RP,Cody Stashak (15343411),Cody Stashak,15343411,P,4000,CLE@MIN 09/12/2020 08:07PM ET,MIN,4.17
+SP,Jhoan Duran (15343413),Jhoan Duran,15343413,P,4000,CLE@MIN 09/12/2020 08:07PM ET,MIN,0
+RP,David Hernandez (15343422),David Hernandez,15343422,P,4000,CLE@MIN 09/12/2020 08:07PM ET,CLE,0
+RP,Ryan Garton (15343426),Ryan Garton,15343426,P,4000,CLE@MIN 09/12/2020 08:07PM ET,MIN,0
+RP,Dominic Leone (15343431),Dominic Leone,15343431,P,4000,CLE@MIN 09/12/2020 08:07PM ET,CLE,2.03
+SP,Scott Moss (15343440),Scott Moss,15343440,P,4000,CLE@MIN 09/12/2020 08:07PM ET,CLE,0
+SP,Edwar Colina (15343444),Edwar Colina,15343444,P,4000,CLE@MIN 09/12/2020 08:07PM ET,MIN,0
+RP,Taylor Rogers (15343447),Taylor Rogers,15343447,P,4000,CLE@MIN 09/12/2020 08:07PM ET,MIN,3.08
+SP,Sam Hentges (15343460),Sam Hentges,15343460,P,4000,CLE@MIN 09/12/2020 08:07PM ET,CLE,0
+SP,Zack Littell (15343477),Zack Littell,15343477,P,4000,CLE@MIN 09/12/2020 08:07PM ET,MIN,-0.56
+RP,Sam Clay (15343485),Sam Clay,15343485,P,4000,CLE@MIN 09/12/2020 08:07PM ET,MIN,0
+RP,Sean Poppen (15343486),Sean Poppen,15343486,P,4000,CLE@MIN 09/12/2020 08:07PM ET,MIN,3.58
+RP,Brad Hand (15343492),Brad Hand,15343492,P,4000,CLE@MIN 09/12/2020 08:07PM ET,CLE,3.62
+RP,Phil Maton (15343505),Phil Maton,15343505,P,4000,CLE@MIN 09/12/2020 08:07PM ET,CLE,3.62
+RP,Oliver Perez (15343506),Oliver Perez,15343506,P,4000,CLE@MIN 09/12/2020 08:07PM ET,CLE,2.79
+RP,James Karinchak (15343513),James Karinchak,15343513,P,4000,CLE@MIN 09/12/2020 08:07PM ET,CLE,5.33
+SP,Daniel Espino (15343516),Daniel Espino,15343516,P,4000,CLE@MIN 09/12/2020 08:07PM ET,CLE,0
+RP,Sergio Romo (15343543),Sergio Romo,15343543,P,4000,CLE@MIN 09/12/2020 08:07PM ET,MIN,3.13
+RP,Danny Coulombe (15343550),Danny Coulombe,15343550,P,4000,CLE@MIN 09/12/2020 08:07PM ET,MIN,4.5
+RP,Trevor May (15343558),Trevor May,15343558,P,4000,CLE@MIN 09/12/2020 08:07PM ET,MIN,3.75
+SP,Ethan Hankins (15343584),Ethan Hankins,15343584,P,4000,CLE@MIN 09/12/2020 08:07PM ET,CLE,0
+RP,Adam Cimber (15343596),Adam Cimber,15343596,P,4000,CLE@MIN 09/12/2020 08:07PM ET,CLE,1.2
+RP,Tyler Duffey (15343598),Tyler Duffey,15343598,P,4000,CLE@MIN 09/12/2020 08:07PM ET,MIN,4.28
+RP,Jean Carlos Mejia (15343616),Jean Carlos Mejia,15343616,P,4000,CLE@MIN 09/12/2020 08:07PM ET,CLE,0
+SP,Dakota Chalmers (15343624),Dakota Chalmers,15343624,P,4000,CLE@MIN 09/12/2020 08:07PM ET,MIN,0
+RP,Kyle Nelson (15343628),Kyle Nelson,15343628,P,4000,CLE@MIN 09/12/2020 08:07PM ET,CLE,-8.9
+RP,Nick Sandlin (15343639),Nick Sandlin,15343639,P,4000,CLE@MIN 09/12/2020 08:07PM ET,CLE,0
+RP,Caleb Thielbar (15343645),Caleb Thielbar,15343645,P,4000,CLE@MIN 09/12/2020 08:07PM ET,MIN,4.89
+SP,Eli Morgan (15343650),Eli Morgan,15343650,P,4000,CLE@MIN 09/12/2020 08:07PM ET,CLE,0
+RP,Nick Wittgren (15343659),Nick Wittgren,15343659,P,4000,CLE@MIN 09/12/2020 08:07PM ET,CLE,3.43
+SS,Brandon Crawford (15342684),Brandon Crawford,15342684,SS,4000,Postponed,SF,6.1
+RP,Michel Baez (15343386),Michel Baez,15343386,P,4000,Postponed,SD,3.7
+RP,Jarlin Garcia (15343414),Jarlin Garcia,15343414,P,4000,Postponed,SF,3.65
+RP,Jose Castillo (15343416),Jose Castillo,15343416,P,4000,Postponed,SD,0
+RP,Tyler Cyr (15343417),Tyler Cyr,15343417,P,4000,Postponed,SF,0
+RP,Pierce Johnson (15343454),Pierce Johnson,15343454,P,4000,Postponed,SD,3.57
+SP,Cole Wilcox (15343474),Cole Wilcox,15343474,P,4000,Postponed,SD,0
+SP,Luis Madero (15343478),Luis Madero,15343478,P,4000,Postponed,SF,0
+RP,Camilo Doval (15343479),Camilo Doval,15343479,P,4000,Postponed,SF,0
+SP,Trevor Oaks (15343481),Trevor Oaks,15343481,P,4000,Postponed,SF,0
+RP,Sam Wolff (15343482),Sam Wolff,15343482,P,4000,Postponed,SF,0
+RP,Javy Guerra (15343499),Javy Guerra,15343499,P,4000,Postponed,SD,0.67
+RP,Trevor Rosenthal (15343500),Trevor Rosenthal,15343500,P,4000,Postponed,SD,3.99
+RP,Trevor Gott (15343511),Trevor Gott,15343511,P,4000,Postponed,SF,0.47
+RP,Gerardo Reyes (15343527),Gerardo Reyes,15343527,P,4000,Postponed,SD,0
+SP,Ryan Weathers (15343536),Ryan Weathers,15343536,P,4000,Postponed,SD,0
+RP,Kirby Yates (15343538),Kirby Yates,15343538,P,4000,Postponed,SD,1.19
+RP,Tim Hill (15343544),Tim Hill,15343544,P,4000,Postponed,SD,2.74
+RP,Emilio Pagan (15343553),Emilio Pagan,15343553,P,4000,Postponed,SD,2.25
+RP,Luis Patino (15343570),Luis Patino,15343570,P,4000,Postponed,SD,3.42
+RP,Wandy Peralta (15343585),Wandy Peralta,15343585,P,4000,Postponed,SF,2.30
+RP,Dan Altavilla (15343588),Dan Altavilla,15343588,P,4000,Postponed,SD,2.45
+SP,Melvin Adon (15343589),Melvin Adon,15343589,P,4000,Postponed,SF,0
+RP,Reyes Moronta (15343594),Reyes Moronta,15343594,P,4000,Postponed,SF,0
+SP,Anderson Espinoza (15343599),Anderson Espinoza,15343599,P,4000,Postponed,SD,0
+SP,MacKenzie Gore (15343613),MacKenzie Gore,15343613,P,4000,Postponed,SD,0
+SP,Caleb Baragar (15343620),Caleb Baragar,15343620,P,4000,Postponed,SF,3.05
+RP,Jandel Gustave (15343621),Jandel Gustave,15343621,P,4000,Postponed,SF,0
+RP,Sam Selman (15343630),Sam Selman,15343630,P,4000,Postponed,SF,3.71
+RP,Craig Stammen (15343634),Craig Stammen,15343634,P,4000,Postponed,SD,1.89
+RP,Carlos Navas (15343637),Carlos Navas,15343637,P,4000,Postponed,SF,0
+RP,Tyler Rogers (15343647),Tyler Rogers,15343647,P,4000,Postponed,SF,2.31
+RP,Tony Watson (15343658),Tony Watson,15343658,P,4000,Postponed,SF,3.09
+RP,David Bednar (15343660),David Bednar,15343660,P,4000,Postponed,SD,1.61
+1B/3B,Jedd Gyorko (15342700),Jedd Gyorko,15342700,1B/3B,4000,CHC@MIL 09/12/2020 07:10PM ET,MIL,6.76
+RP,Josh Osich (15343389),Josh Osich,15343389,P,4000,CHC@MIL 09/12/2020 07:10PM ET,CHC,3.35
+RP,Eric Yardley (15343408),Eric Yardley,15343408,P,4000,CHC@MIL 09/12/2020 07:10PM ET,MIL,3.13
+SP,Ethan Small (15343448),Ethan Small,15343448,P,4000,CHC@MIL 09/12/2020 07:10PM ET,MIL,0
+RP,Devin Williams (15343457),Devin Williams,15343457,P,4000,CHC@MIL 09/12/2020 07:10PM ET,MIL,7.33
+RP,J.P. Feyereisen (15343463),J.P. Feyereisen,15343463,P,4000,CHC@MIL 09/12/2020 07:10PM ET,MIL,2.86
+RP,Justin Grimm (15343466),Justin Grimm,15343466,P,4000,CHC@MIL 09/12/2020 07:10PM ET,MIL,-0.82
+RP,Corey Knebel (15343467),Corey Knebel,15343467,P,4000,CHC@MIL 09/12/2020 07:10PM ET,MIL,0.82
+SP,Angel Perdomo (15343489),Angel Perdomo,15343489,P,4000,CHC@MIL 09/12/2020 07:10PM ET,MIL,-0.87
+RP,Phil Bickford (15343569),Phil Bickford,15343569,P,4000,CHC@MIL 09/12/2020 07:10PM ET,MIL,-5.35
+RP,Bobby Wahl (15343579),Bobby Wahl,15343579,P,4000,CHC@MIL 09/12/2020 07:10PM ET,MIL,-0.38
+SP,Drew Rasmussen (15343590),Drew Rasmussen,15343590,P,4000,CHC@MIL 09/12/2020 07:10PM ET,MIL,3.85
+SP,Antoine Kelly (15343614),Antoine Kelly,15343614,P,4000,CHC@MIL 09/12/2020 07:10PM ET,MIL,0
+SP,Dylan File (15343636),Dylan File,15343636,P,4000,CHC@MIL 09/12/2020 07:10PM ET,MIL,0
+RP,Alex Claudio (15343640),Alex Claudio,15343640,P,4000,CHC@MIL 09/12/2020 07:10PM ET,MIL,1.71
+RP,Clayton Andrews (15343657),Clayton Andrews,15343657,P,4000,CHC@MIL 09/12/2020 07:10PM ET,MIL,0
+SP,Chris Archer (15343365),Chris Archer,15343365,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,0
+SP,Jameson Taillon (15343368),Jameson Taillon,15343368,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,0
+SP,Mitch Keller (15343369),Mitch Keller,15343369,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,7.32
+SP,Nick Tropeano (15343370),Nick Tropeano,15343370,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,10.55
+SP,James Marvel (15343378),James Marvel,15343378,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,0
+RP,Michael Feliz (15343383),Michael Feliz,15343383,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,-2.82
+RP,Keone Kela (15343399),Keone Kela,15343399,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,2.03
+RP,Kevin McCarthy (15343400),Kevin McCarthy,15343400,P,4000,PIT@KC 09/12/2020 07:05PM ET,KC,0.74
+RP,Braeden Ogle (15343403),Braeden Ogle,15343403,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,0
+RP,Kyle Crick (15343415),Kyle Crick,15343415,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,3.18
+SP,Cody Ponce (15343427),Cody Ponce,15343427,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,8.06
+SP,Aaron Shortridge (15343435),Aaron Shortridge,15343435,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,0
+RP,Tyler Zuber (15343438),Tyler Zuber,15343438,P,4000,PIT@KC 09/12/2020 07:05PM ET,KC,2.39
+RP,Jake Newberry (15343443),Jake Newberry,15343443,P,4000,PIT@KC 09/12/2020 07:05PM ET,KC,2.19
+RP,Chance Adams (15343445),Chance Adams,15343445,P,4000,PIT@KC 09/12/2020 07:05PM ET,KC,-1.3
+RP,Richard Rodriguez (15343456),Richard Rodriguez,15343456,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,4.02
+SP,Clay Holmes (15343491),Clay Holmes,15343491,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,3.8
+RP,Blake Cederlind (15343495),Blake Cederlind,15343495,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,0
+RP,Miguel Del Pozo (15343502),Miguel Del Pozo,15343502,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,-2.15
+RP,Randy Rosario (15343520),Randy Rosario,15343520,P,4000,PIT@KC 09/12/2020 07:05PM ET,KC,0.72
+SP,Scott Blewett (15343524),Scott Blewett,15343524,P,4000,PIT@KC 09/12/2020 07:05PM ET,KC,0
+RP,Gabe Speier (15343528),Gabe Speier,15343528,P,4000,PIT@KC 09/12/2020 07:05PM ET,KC,0.87
+RP,Scott Barlow (15343546),Scott Barlow,15343546,P,4000,PIT@KC 09/12/2020 07:05PM ET,KC,3.52
+SP,Max Kranick (15343547),Max Kranick,15343547,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,0
+RP,Greg Holland (15343556),Greg Holland,15343556,P,4000,PIT@KC 09/12/2020 07:05PM ET,KC,3.83
+RP,Yacksel Rios (15343564),Yacksel Rios,15343564,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,1.13
+RP,Nick Mears (15343566),Nick Mears,15343566,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,3.16
+SP,Daniel Tillo (15343573),Daniel Tillo,15343573,P,4000,PIT@KC 09/12/2020 07:05PM ET,KC,0
+SP,Stephen Woods Jr. (15343587),Stephen Woods Jr.,15343587,P,4000,PIT@KC 09/12/2020 07:05PM ET,KC,0
+SP,Daniel Lynch (15343591),Daniel Lynch,15343591,P,4000,PIT@KC 09/12/2020 07:05PM ET,KC,0
+SP,Jackson Kowar (15343595),Jackson Kowar,15343595,P,4000,PIT@KC 09/12/2020 07:05PM ET,KC,0
+RP,Sam Howard (15343602),Sam Howard,15343602,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,4.12
+RP,Nick Burdi (15343605),Nick Burdi,15343605,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,2.95
+RP,Dovydas Neverauskas (15343606),Dovydas Neverauskas,15343606,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,1.91
+RP,Geoff Hartlieb (15343608),Geoff Hartlieb,15343608,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,3.66
+SP,Jesse Hahn (15343611),Jesse Hahn,15343611,P,4000,PIT@KC 09/12/2020 07:05PM ET,KC,3.01
+RP,Josh Staumont (15343623),Josh Staumont,15343623,P,4000,PIT@KC 09/12/2020 07:05PM ET,KC,4.06
+RP,Tyler Bashlor (15343631),Tyler Bashlor,15343631,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,0.72
+SP,Austin Cox (15343644),Austin Cox,15343644,P,4000,PIT@KC 09/12/2020 07:05PM ET,KC,0
+SP,Foster Griffin (15343653),Foster Griffin,15343653,P,4000,PIT@KC 09/12/2020 07:05PM ET,KC,9.75
+SP,Cody Bolton (15343662),Cody Bolton,15343662,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,0
+SP,Nik Turley (15343672),Nik Turley,15343672,P,4000,PIT@KC 09/12/2020 07:05PM ET,PIT,2.07
+SP,Walker Lockett (15343374),Walker Lockett,15343374,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,3.81
+RP,Jimmy Yacabonis (15343375),Jimmy Yacabonis,15343375,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,2.25
+RP,Hector Rondon (15343379),Hector Rondon,15343379,P,4000,SEA@ARI 09/12/2020 08:10PM ET,ARI,1.83
+RP,Matt Grace (15343382),Matt Grace,15343382,P,4000,SEA@ARI 09/12/2020 08:10PM ET,ARI,-3.32
+RP,Nestor Cortes (15343385),Nestor Cortes,15343385,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,-0.95
+RP,Casey Sadler (15343394),Casey Sadler,15343394,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,1.73
+SP,Jeremy Beasley (15343404),Jeremy Beasley,15343404,P,4000,SEA@ARI 09/12/2020 08:10PM ET,ARI,1.55
+RP,Joe Mantiply (15343410),Joe Mantiply,15343410,P,4000,SEA@ARI 09/12/2020 08:10PM ET,ARI,-0.74
+SP,Isaiah Campbell (15343420),Isaiah Campbell,15343420,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,0
+SP,Anthony Misiewicz (15343433),Anthony Misiewicz,15343433,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,3.47
+RP,Seth Frankoff (15343434),Seth Frankoff,15343434,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,1.65
+RP,Taylor Guilbeau (15343439),Taylor Guilbeau,15343439,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,1.61
+RP,Luis Frias (15343473),Luis Frias,15343473,P,4000,SEA@ARI 09/12/2020 08:10PM ET,ARI,0
+SP,Bryce Jarvis (15343476),Bryce Jarvis,15343476,P,4000,SEA@ARI 09/12/2020 08:10PM ET,ARI,0
+RP,Kevin Ginkel (15343480),Kevin Ginkel,15343480,P,4000,SEA@ARI 09/12/2020 08:10PM ET,ARI,1.45
+SP,Tommy Henry (15343487),Tommy Henry,15343487,P,4000,SEA@ARI 09/12/2020 08:10PM ET,ARI,0
+RP,Emilio Vargas (15343494),Emilio Vargas,15343494,P,4000,SEA@ARI 09/12/2020 08:10PM ET,ARI,0
+RP,Brandon Brennan (15343498),Brandon Brennan,15343498,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,-1.4
+RP,Carl Edwards Jr. (15343501),Carl Edwards Jr.,15343501,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,3.74
+RP,Sam Delaplane (15343504),Sam Delaplane,15343504,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,0
+RP,Art Warren (15343508),Art Warren,15343508,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,0
+RP,Matt Magill (15343522),Matt Magill,15343522,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,2.02
+SP,Logan Gilbert (15343525),Logan Gilbert,15343525,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,0
+RP,Keury Mella (15343532),Keury Mella,15343532,P,4000,SEA@ARI 09/12/2020 08:10PM ET,ARI,2.56
+RP,Yohan Ramirez (15343537),Yohan Ramirez,15343537,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,5.10
+RP,Travis Bergen (15343545),Travis Bergen,15343545,P,4000,SEA@ARI 09/12/2020 08:10PM ET,ARI,4.46
+SP,Emerson Hancock (15343548),Emerson Hancock,15343548,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,0
+SP,Levi Kelly (15343571),Levi Kelly,15343571,P,4000,SEA@ARI 09/12/2020 08:10PM ET,ARI,0
+RP,Joey Gerber (15343572),Joey Gerber,15343572,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,1.80
+SP,Josh Green (15343574),Josh Green,15343574,P,4000,SEA@ARI 09/12/2020 08:10PM ET,ARI,0
+SP,Blake Walston (15343580),Blake Walston,15343580,P,4000,SEA@ARI 09/12/2020 08:10PM ET,ARI,0
+RP,Artie Lewicki (15343583),Artie Lewicki,15343583,P,4000,SEA@ARI 09/12/2020 08:10PM ET,ARI,4.35
+RP,Aaron Fletcher (15343597),Aaron Fletcher,15343597,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,0.36
+SP,Juan Then (15343607),Juan Then,15343607,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,0
+SP,Joel Payamps (15343612),Joel Payamps,15343612,P,4000,SEA@ARI 09/12/2020 08:10PM ET,ARI,4.7
+SP,George Kirby (15343617),George Kirby,15343617,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,0
+SP,Brandon Williamson (15343625),Brandon Williamson,15343625,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,0
+RP,Zac Grotz (15343633),Zac Grotz,15343633,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,-3.02
+RP,Yoshihisa Hirano (15343638),Yoshihisa Hirano,15343638,P,4000,SEA@ARI 09/12/2020 08:10PM ET,SEA,2.15
+SP,Junior Guerra (15343651),Junior Guerra,15343651,P,4000,SEA@ARI 09/12/2020 08:10PM ET,ARI,2.66
+RP,Riley Smith (15343655),Riley Smith,15343655,P,4000,SEA@ARI 09/12/2020 08:10PM ET,ARI,6.28
+RP,Stefan Crichton (15343674),Stefan Crichton,15343674,P,4000,SEA@ARI 09/12/2020 08:10PM ET,ARI,3.13
+1B/OF,Austin Dean (15342696),Austin Dean,15342696,1B/OF,4000,CIN@STL 09/12/2020 08:15PM ET,STL,0
+RP,Archie Bradley (15343380),Archie Bradley,15343380,P,4000,CIN@STL 09/12/2020 08:15PM ET,CIN,3.38
+RP,Raisel Iglesias (15343418),Raisel Iglesias,15343418,P,4000,CIN@STL 09/12/2020 08:15PM ET,CIN,3.67
+RP,Kodi Whitley (15343424),Kodi Whitley,15343424,P,4000,CIN@STL 09/12/2020 08:15PM ET,STL,6
+SP,Nabil Crismatt (15343436),Nabil Crismatt,15343436,P,4000,CIN@STL 09/12/2020 08:15PM ET,STL,4.14
+RP,Jesse Biddle (15343442),Jesse Biddle,15343442,P,4000,CIN@STL 09/12/2020 08:15PM ET,CIN,2.3
+RP,Alex Powers (15343462),Alex Powers,15343462,P,4000,CIN@STL 09/12/2020 08:15PM ET,CIN,0
+RP,John Gant (15343465),John Gant,15343465,P,4000,CIN@STL 09/12/2020 08:15PM ET,STL,3.79
+RP,Junior Fernandez (15343470),Junior Fernandez,15343470,P,4000,CIN@STL 09/12/2020 08:15PM ET,STL,-4.15
+RP,Tyler Webb (15343472),Tyler Webb,15343472,P,4000,CIN@STL 09/12/2020 08:15PM ET,STL,2.56
+SP,Rob Kaminsky (15343512),Rob Kaminsky,15343512,P,4000,CIN@STL 09/12/2020 08:15PM ET,STL,3.38
+RP,Zack Thompson (15343540),Zack Thompson,15343540,P,4000,CIN@STL 09/12/2020 08:15PM ET,STL,0
+RP,Ryan Hendrix (15343559),Ryan Hendrix,15343559,P,4000,CIN@STL 09/12/2020 08:15PM ET,CIN,0
+SP,Ricardo Sanchez (15343560),Ricardo Sanchez,15343560,P,4000,CIN@STL 09/12/2020 08:15PM ET,STL,1.8
+RP,Roel Ramirez (15343567),Roel Ramirez,15343567,P,4000,CIN@STL 09/12/2020 08:15PM ET,STL,-12.7
+SP,Nick Lodolo (15343578),Nick Lodolo,15343578,P,4000,CIN@STL 09/12/2020 08:15PM ET,CIN,0
+RP,Tyler Thornburg (15343582),Tyler Thornburg,15343582,P,4000,CIN@STL 09/12/2020 08:15PM ET,CIN,3.31
+SP,Johan Oviedo (15343592),Johan Oviedo,15343592,P,4000,CIN@STL 09/12/2020 08:15PM ET,STL,7.32
+RP,Alvaro Seijas (15343604),Alvaro Seijas,15343604,P,4000,CIN@STL 09/12/2020 08:15PM ET,STL,0
+RP,Nate Jones (15343619),Nate Jones,15343619,P,4000,CIN@STL 09/12/2020 08:15PM ET,CIN,1.96
+RP,Jose De Leon (15343635),Jose De Leon,15343635,P,4000,CIN@STL 09/12/2020 08:15PM ET,CIN,-2.27
+RP,R.J. Alaniz (15343661),R.J. Alaniz,15343661,P,4000,CIN@STL 09/12/2020 08:15PM ET,CIN,0
+RP,John Brebbia (15343666),John Brebbia,15343666,P,4000,CIN@STL 09/12/2020 08:15PM ET,STL,0
+SP,Angel Rondon (15343667),Angel Rondon,15343667,P,4000,CIN@STL 09/12/2020 08:15PM ET,STL,0
+RP,David Carpenter (15343669),David Carpenter,15343669,P,4000,CIN@STL 09/12/2020 08:15PM ET,CIN,0
+RP,Brett Cecil (15343671),Brett Cecil,15343671,P,4000,CIN@STL 09/12/2020 08:15PM ET,STL,0
+OF,AJ Pollock (15342694),AJ Pollock,15342694,OF,3900,HOU@LAD 09/12/2020 08:07PM ET,LAD,7.76
+1B,Jeimer Candelario (15342702),Jeimer Candelario,15342702,1B,3900,DET@CWS 09/12/2020 07:10PM ET,DET,9
+OF,Ian Miller (15342695),Ian Miller,15342695,OF,3900,CHC@MIL 09/12/2020 07:10PM ET,CHC,0
+SS,Nick Ahmed (15342693),Nick Ahmed,15342693,SS,3900,SEA@ARI 09/12/2020 08:10PM ET,ARI,6.44
+2B/3B,Ty France (15342722),Ty France,15342722,2B/3B,3900,SEA@ARI 09/12/2020 08:10PM ET,SEA,6.85
+C,Andrew Knizner (15342719),Andrew Knizner,15342719,C,3900,CIN@STL 09/12/2020 08:15PM ET,STL,3
+OF,Kevin Pillar (15342703),Kevin Pillar,15342703,OF,3800,LAA@COL 09/12/2020 08:10PM ET,COL,7.85
+2B,Jose Altuve (15342709),Jose Altuve,15342709,2B,3800,HOU@LAD 09/12/2020 08:07PM ET,HOU,6.6
+1B/OF,Brandon Dixon (15342705),Brandon Dixon,15342705,1B/OF,3800,DET@CWS 09/12/2020 07:10PM ET,DET,0
+1B,Carlos Santana (15342707),Carlos Santana,15342707,1B,3800,CLE@MIN 09/12/2020 08:07PM ET,CLE,6.64
+C,Manny Pina (15342724),Manny Pina,15342724,C,3800,CHC@MIL 09/12/2020 07:10PM ET,MIL,4.87
+3B,Maikel Franco (15342725),Maikel Franco,15342725,3B,3800,PIT@KC 09/12/2020 07:05PM ET,KC,7.56
+OF,Raimel Tapia (15342708),Raimel Tapia,15342708,OF,3700,LAA@COL 09/12/2020 08:10PM ET,COL,6.91
+2B,Ryan McMahon (15342710),Ryan McMahon,15342710,2B,3700,LAA@COL 09/12/2020 08:10PM ET,COL,6.68
+1B,Josh Fuentes (15342721),Josh Fuentes,15342721,1B,3700,LAA@COL 09/12/2020 08:10PM ET,COL,5.86
+2B/OF,Kike Hernandez (15342711),Kike Hernandez,15342711,2B/OF,3700,HOU@LAD 09/12/2020 08:07PM ET,LAD,5.38
+C,Joey Bart (15342738),Joey Bart,15342738,C,3700,Postponed,SF,5.58
+1B/OF,Hunter Dozier (15342716),Hunter Dozier,15342716,1B/OF,3700,PIT@KC 09/12/2020 07:05PM ET,KC,8.17
+3B/SS,Erik Gonzalez (15342731),Erik Gonzalez,15342731,3B/SS,3700,PIT@KC 09/12/2020 07:05PM ET,PIT,6.53
+2B,Gavin Lux (15342720),Gavin Lux,15342720,2B,3600,HOU@LAD 09/12/2020 08:07PM ET,LAD,7.8
+2B/3B,Danny Mendick (15342740),Danny Mendick,15342740,2B/3B,3600,DET@CWS 09/12/2020 07:10PM ET,CWS,4.94
+1B,Brandon Belt (15342730),Brandon Belt,15342730,1B,3600,Postponed,SF,7.89
+2B/OF,Dylan Moore (15342714),Dylan Moore,15342714,2B/OF,3600,SEA@ARI 09/12/2020 08:10PM ET,SEA,10.79
+OF,Kole Calhoun (15342718),Kole Calhoun,15342718,OF,3600,SEA@ARI 09/12/2020 08:10PM ET,ARI,7.57
+C,Stephen Vogt (15342746),Stephen Vogt,15342746,C,3600,SEA@ARI 09/12/2020 08:10PM ET,ARI,3.25
+1B/OF,Rangel Ravelo (15342727),Rangel Ravelo,15342727,1B/OF,3600,CIN@STL 09/12/2020 08:15PM ET,STL,9.25
+OF,Matt Kemp (15342726),Matt Kemp,15342726,OF,3500,LAA@COL 09/12/2020 08:10PM ET,COL,5.89
+OF,Michael Brantley (15342729),Michael Brantley,15342729,OF,3500,HOU@LAD 09/12/2020 08:07PM ET,HOU,8.72
+SS,Niko Goodrum (15342760),Niko Goodrum,15342760,SS,3500,DET@CWS 09/12/2020 07:10PM ET,DET,7.10
+OF,Byron Buxton (15342739),Byron Buxton,15342739,OF,3500,CLE@MIN 09/12/2020 08:07PM ET,MIN,6.57
+2B/3B,Marwin Gonzalez (15342744),Marwin Gonzalez,15342744,2B/3B,3500,CLE@MIN 09/12/2020 08:07PM ET,MIN,4.49
+OF,Tommy Pham (15342737),Tommy Pham,15342737,OF,3500,Postponed,SD,6.91
+OF,Jason Heyward (15342734),Jason Heyward,15342734,OF,3500,CHC@MIL 09/12/2020 07:10PM ET,CHC,6.97
+C,Omar Narvaez (15342757),Omar Narvaez,15342757,C,3500,CHC@MIL 09/12/2020 07:10PM ET,MIL,4.13
+1B,Colin Moran (15342733),Colin Moran,15342733,1B,3500,PIT@KC 09/12/2020 07:05PM ET,PIT,7.56
+1B,Josh Bell (15342754),Josh Bell,15342754,1B,3500,PIT@KC 09/12/2020 07:05PM ET,PIT,5.82
+C,Matt Wieters (15342747),Matt Wieters,15342747,C,3500,CIN@STL 09/12/2020 08:15PM ET,STL,1.6
+1B,Albert Pujols (15342765),Albert Pujols,15342765,1B,3400,LAA@COL 09/12/2020 08:10PM ET,LAA,6.34
+2B/3B,Yolmer Sanchez (15342750),Yolmer Sanchez,15342750,2B/3B,3400,DET@CWS 09/12/2020 07:10PM ET,CWS,5.8
+C,Austin Romine (15342766),Austin Romine,15342766,C,3400,DET@CWS 09/12/2020 07:10PM ET,DET,5.28
+C,Zack Collins (15342769),Zack Collins,15342769,C,3400,DET@CWS 09/12/2020 07:10PM ET,CWS,1.22
+OF,Abraham Almonte (15342742),Abraham Almonte,15342742,OF,3400,Postponed,SD,2
+OF,Lorenzo Cain (15342743),Lorenzo Cain,15342743,OF,3400,CHC@MIL 09/12/2020 07:10PM ET,MIL,7.6
+OF,Ryan Braun (15342749),Ryan Braun,15342749,OF,3400,CHC@MIL 09/12/2020 07:10PM ET,MIL,6.12
+1B,Daniel Vogelbach (15342756),Daniel Vogelbach,15342756,1B,3400,CHC@MIL 09/12/2020 07:10PM ET,MIL,3.92
+2B/OF,Ketel Marte (15342735),Ketel Marte,15342735,2B/OF,3400,SEA@ARI 09/12/2020 08:10PM ET,ARI,6.65
+OF,Tyler O'Neill (15342755),Tyler O'Neill,15342755,OF,3400,CIN@STL 09/12/2020 08:15PM ET,STL,5.59
+2B/OF,Chris Owings (15342752),Chris Owings,15342752,2B/OF,3300,LAA@COL 09/12/2020 08:10PM ET,COL,5.18
+OF,Sam Hilliard (15342758),Sam Hilliard,15342758,OF,3300,LAA@COL 09/12/2020 08:10PM ET,COL,6.28
+SS,Alan Trejo (15342774),Alan Trejo,15342774,SS,3300,LAA@COL 09/12/2020 08:10PM ET,COL,0
+1B,Daniel Murphy (15342780),Daniel Murphy,15342780,1B,3300,LAA@COL 09/12/2020 08:10PM ET,COL,4.94
+C,Tyler Heineman (15342770),Tyler Heineman,15342770,C,3300,Postponed,SF,3.77
+2B,Jason Kipnis (15342748),Jason Kipnis,15342748,2B,3300,CHC@MIL 09/12/2020 07:10PM ET,CHC,5.94
+3B,David Bote (15342763),David Bote,15342763,3B,3300,CHC@MIL 09/12/2020 07:10PM ET,CHC,6
+OF,Sam Haggerty (15342764),Sam Haggerty,15342764,OF,3300,SEA@ARI 09/12/2020 08:10PM ET,SEA,8.31
+OF,David Peralta (15342771),David Peralta,15342771,OF,3300,SEA@ARI 09/12/2020 08:10PM ET,ARI,6.67
+1B,Evan White (15342772),Evan White,15342772,1B,3300,SEA@ARI 09/12/2020 08:10PM ET,SEA,5.55
+OF,Jesse Winker (15342759),Jesse Winker,15342759,OF,3300,CIN@STL 09/12/2020 08:15PM ET,CIN,7.46
+C,Curt Casali (15342775),Curt Casali,15342775,C,3300,CIN@STL 09/12/2020 08:15PM ET,CIN,5.61
+C,Dom Nunez (15342779),Dom Nunez,15342779,C,3200,LAA@COL 09/12/2020 08:10PM ET,COL,0
+OF,Nomar Mazara (15342781),Nomar Mazara,15342781,OF,3200,DET@CWS 09/12/2020 07:10PM ET,CWS,4.55
+1B,Miguel Cabrera (15342788),Miguel Cabrera,15342788,1B,3200,DET@CWS 09/12/2020 07:10PM ET,DET,6.54
+C,Roberto Perez (15342778),Roberto Perez,15342778,C,3200,CLE@MIN 09/12/2020 08:07PM ET,CLE,3.8
+2B/OF,Adam Frazier (15342761),Adam Frazier,15342761,2B/OF,3200,PIT@KC 09/12/2020 07:05PM ET,PIT,5.56
+OF,Jorge Soler (15342773),Jorge Soler,15342773,OF,3200,PIT@KC 09/12/2020 07:05PM ET,KC,7.18
+2B/SS,Kevin Newman (15342806),Kevin Newman,15342806,2B/SS,3200,PIT@KC 09/12/2020 07:05PM ET,PIT,4.91
+2B/OF,Dee Strange-Gordon (15342767),Dee Strange-Gordon,15342767,2B/OF,3200,SEA@ARI 09/12/2020 08:10PM ET,SEA,2.84
+OF,Aristides Aquino (15342782),Aristides Aquino,15342782,OF,3200,CIN@STL 09/12/2020 08:15PM ET,CIN,3.42
+1B,Matt Davidson (15342789),Matt Davidson,15342789,1B,3200,CIN@STL 09/12/2020 08:15PM ET,CIN,3.64
+C,Elias Diaz (15342783),Elias Diaz,15342783,C,3100,LAA@COL 09/12/2020 08:10PM ET,COL,2.71
+2B,Luis Rengifo (15342786),Luis Rengifo,15342786,2B,3100,LAA@COL 09/12/2020 08:10PM ET,LAA,3.48
+1B,Jared Walsh (15342818),Jared Walsh,15342818,1B,3100,LAA@COL 09/12/2020 08:10PM ET,LAA,5.83
+OF,Joc Pederson (15342787),Joc Pederson,15342787,OF,3100,HOU@LAD 09/12/2020 08:07PM ET,LAD,5.74
+2B,Nick Madrigal (15342785),Nick Madrigal,15342785,2B,3100,DET@CWS 09/12/2020 07:10PM ET,CWS,6.13
+OF,Jake Cave (15342799),Jake Cave,15342799,OF,3100,CLE@MIN 09/12/2020 08:07PM ET,MIN,4.7
+3B/SS,Ehire Adrianza (15342813),Ehire Adrianza,15342813,3B/SS,3100,CLE@MIN 09/12/2020 08:07PM ET,MIN,2.44
+2B/3B,Nico Hoerner (15342776),Nico Hoerner,15342776,2B/3B,3100,CHC@MIL 09/12/2020 07:10PM ET,CHC,4.61
+OF,Bryan Reynolds (15342792),Bryan Reynolds,15342792,OF,3100,PIT@KC 09/12/2020 07:05PM ET,PIT,5.5
+3B/OF,Phillip Evans (15342793),Phillip Evans,15342793,3B/OF,3100,PIT@KC 09/12/2020 07:05PM ET,PIT,8.64
+2B,Josh Rojas (15342784),Josh Rojas,15342784,2B,3100,SEA@ARI 09/12/2020 08:10PM ET,ARI,4.91
+OF,Phillip Ervin (15342791),Phillip Ervin,15342791,OF,3100,SEA@ARI 09/12/2020 08:10PM ET,SEA,2.16
+1B/C,John Hicks (15342801),John Hicks,15342801,C/1B,3100,SEA@ARI 09/12/2020 08:10PM ET,ARI,0
+C,Max Stassi (15342803),Max Stassi,15342803,C,3000,LAA@COL 09/12/2020 08:10PM ET,LAA,5.86
+OF,Justin Upton (15342805),Justin Upton,15342805,OF,3000,LAA@COL 09/12/2020 08:10PM ET,LAA,6.17
+2B/SS,Brendan Rodgers (15342815),Brendan Rodgers,15342815,2B/SS,3000,LAA@COL 09/12/2020 08:10PM ET,COL,2
+C,Eric Haase (15342804),Eric Haase,15342804,C,3000,DET@CWS 09/12/2020 07:10PM ET,DET,0
+3B/C,Willians Astudillo (15342808),Willians Astudillo,15342808,C/3B,3000,CLE@MIN 09/12/2020 08:07PM ET,MIN,4.2
+OF,Jurickson Profar (15342800),Jurickson Profar,15342800,OF,3000,Postponed,SD,6.54
+2B,Ildemaro Vargas (15342790),Ildemaro Vargas,15342790,2B,3000,CHC@MIL 09/12/2020 07:10PM ET,CHC,2.6
+2B,Ronny Rodriguez (15342798),Ronny Rodriguez,15342798,2B,3000,CHC@MIL 09/12/2020 07:10PM ET,MIL,0
+OF,Ben Gamel (15342810),Ben Gamel,15342810,OF,3000,CHC@MIL 09/12/2020 07:10PM ET,MIL,5.21
+3B,Ke'Bryan Hayes (15342797),Ke'Bryan Hayes,15342797,3B,3000,PIT@KC 09/12/2020 07:05PM ET,PIT,9.5
+1B,Ryan O'Hearn (15342821),Ryan O'Hearn,15342821,1B,3000,PIT@KC 09/12/2020 07:05PM ET,KC,4.69
+2B/OF,Josh VanMeter (15342795),Josh VanMeter,15342795,2B/OF,3000,SEA@ARI 09/12/2020 08:10PM ET,ARI,2.87
+3B/OF,Matt Thaiss (15342811),Matt Thaiss,15342811,3B/OF,2900,LAA@COL 09/12/2020 08:10PM ET,LAA,4
+OF,David Dahl (15342817),David Dahl,15342817,OF,2900,LAA@COL 09/12/2020 08:10PM ET,COL,5.05
+OF,Jordyn Adams (15342819),Jordyn Adams,15342819,OF,2900,LAA@COL 09/12/2020 08:10PM ET,LAA,0
+OF,Jahmai Jones (15342822),Jahmai Jones,15342822,OF,2900,LAA@COL 09/12/2020 08:10PM ET,LAA,0
+OF,Brandon Marsh (15342823),Brandon Marsh,15342823,OF,2900,LAA@COL 09/12/2020 08:10PM ET,LAA,0
+1B/3B,Tyler Nevin (15342828),Tyler Nevin,15342828,1B/3B,2900,LAA@COL 09/12/2020 08:10PM ET,COL,0
+1B/3B,Edwin Rios (15342848),Edwin Rios,15342848,1B/3B,2900,HOU@LAD 09/12/2020 08:07PM ET,LAD,4.8
+C,Chadwick Tromp (15342820),Chadwick Tromp,15342820,C,2900,Postponed,SF,4.35
+C,Luis Torrens (15342824),Luis Torrens,15342824,C,2900,SEA@ARI 09/12/2020 08:10PM ET,SEA,2.85
+C,Joseph Odom (15342827),Joseph Odom,15342827,C,2900,SEA@ARI 09/12/2020 08:10PM ET,SEA,1.46
+1B,John Nogowski (15342850),John Nogowski,15342850,1B,2900,CIN@STL 09/12/2020 08:15PM ET,STL,3
+2B/SS,Freddy Galvis (15342865),Freddy Galvis,15342865,2B/SS,2900,CIN@STL 09/12/2020 08:15PM ET,CIN,5.6
+OF,Taylor Ward (15342833),Taylor Ward,15342833,OF,2800,LAA@COL 09/12/2020 08:10PM ET,LAA,4.33
+OF,Yonathan Daza (15342834),Yonathan Daza,15342834,OF,2800,LAA@COL 09/12/2020 08:10PM ET,COL,0
+2B/3B,Bret Boswell (15342839),Bret Boswell,15342839,2B/3B,2800,LAA@COL 09/12/2020 08:10PM ET,COL,0
+C,Anthony Bemboom (15342857),Anthony Bemboom,15342857,C,2800,LAA@COL 09/12/2020 08:10PM ET,LAA,4.69
+SS,Eric Stamets (15342869),Eric Stamets,15342869,SS,2800,LAA@COL 09/12/2020 08:10PM ET,COL,0
+2B,Jose Rojas (15342883),Jose Rojas,15342883,2B,2800,LAA@COL 09/12/2020 08:10PM ET,LAA,0
+C,Garrett Stubbs (15342851),Garrett Stubbs,15342851,C,2800,HOU@LAD 09/12/2020 08:07PM ET,HOU,0.5
+C,Grayson Greiner (15342844),Grayson Greiner,15342844,C,2800,DET@CWS 09/12/2020 07:10PM ET,DET,4.88
+OF,Tyler Naquin (15342826),Tyler Naquin,15342826,OF,2800,CLE@MIN 09/12/2020 08:07PM ET,CLE,6.56
+1B/OF,Jake Bauers (15342881),Jake Bauers,15342881,1B/OF,2800,CLE@MIN 09/12/2020 08:07PM ET,CLE,0
+3B,Pablo Sandoval (15342838),Pablo Sandoval,15342838,3B,2800,Postponed,SF,3
+2B/3B,Luis Urias (15342841),Luis Urias,15342841,2B/3B,2800,CHC@MIL 09/12/2020 07:10PM ET,MIL,5.96
+SS,Orlando Arcia (15342890),Orlando Arcia,15342890,SS,2800,CHC@MIL 09/12/2020 07:10PM ET,MIL,5.12
+OF,Gregory Polanco (15342825),Gregory Polanco,15342825,OF,2800,PIT@KC 09/12/2020 07:05PM ET,PIT,4.91
+C,Jacob Stallings (15342843),Jacob Stallings,15342843,C,2800,PIT@KC 09/12/2020 07:05PM ET,PIT,5.93
+OF,Tim Locastro (15342835),Tim Locastro,15342835,OF,2800,SEA@ARI 09/12/2020 08:10PM ET,ARI,4.26
+2B,Shed Long Jr. (15342884),Shed Long Jr.,15342884,2B,2800,SEA@ARI 09/12/2020 08:10PM ET,SEA,5.03
+1B/OF,Jose Marmolejos (15342885),Jose Marmolejos,15342885,1B/OF,2800,SEA@ARI 09/12/2020 08:10PM ET,SEA,6.2
+OF,Brian Goodwin (15342830),Brian Goodwin,15342830,OF,2800,CIN@STL 09/12/2020 08:15PM ET,CIN,6.25
+OF,Harrison Bader (15342831),Harrison Bader,15342831,OF,2800,CIN@STL 09/12/2020 08:15PM ET,STL,4.41
+OF,Dylan Carlson (15342832),Dylan Carlson,15342832,OF,2800,CIN@STL 09/12/2020 08:15PM ET,STL,3.74
+2B/SS,Edmundo Sosa (15342903),Edmundo Sosa,15342903,2B/SS,2800,CIN@STL 09/12/2020 08:15PM ET,STL,0
+OF,Michael Hermosillo (15342837),Michael Hermosillo,15342837,OF,2700,LAA@COL 09/12/2020 08:10PM ET,LAA,2.43
+OF,Jo Adell (15342845),Jo Adell,15342845,OF,2700,LAA@COL 09/12/2020 08:10PM ET,LAA,4.23
+C,Drew Butera (15342859),Drew Butera,15342859,C,2700,LAA@COL 09/12/2020 08:10PM ET,COL,1.83
+C,Tony Wolters (15342868),Tony Wolters,15342868,C,2700,LAA@COL 09/12/2020 08:10PM ET,COL,2.82
+C,Jack Kruger (15342870),Jack Kruger,15342870,C,2700,LAA@COL 09/12/2020 08:10PM ET,LAA,0
+3B/SS,Elliot Soto (15342926),Elliot Soto,15342926,3B/SS,2700,LAA@COL 09/12/2020 08:10PM ET,LAA,0
+2B/3B,Aledmys Diaz (15342852),Aledmys Diaz,15342852,2B/3B,2700,HOU@LAD 09/12/2020 08:07PM ET,HOU,4.83
+C,Austin Barnes (15342871),Austin Barnes,15342871,C,2700,HOU@LAD 09/12/2020 08:07PM ET,LAD,5.58
+C,Keibert Ruiz (15342873),Keibert Ruiz,15342873,C,2700,HOU@LAD 09/12/2020 08:07PM ET,LAD,8.5
+3B,Sergio Alcantara (15342860),Sergio Alcantara,15342860,3B,2700,DET@CWS 09/12/2020 07:10PM ET,DET,5.2
+2B/OF,Harold Castro (15342915),Harold Castro,15342915,2B/OF,2700,DET@CWS 09/12/2020 07:10PM ET,DET,3.2
+C,Alex Avila (15342875),Alex Avila,15342875,C,2700,CLE@MIN 09/12/2020 08:07PM ET,MIN,3.5
+C,Ryan Jeffers (15342894),Ryan Jeffers,15342894,C,2700,CLE@MIN 09/12/2020 08:07PM ET,MIN,4.06
+2B,Greg Garcia (15342897),Greg Garcia,15342897,2B,2700,Postponed,SD,2.79
+1B/OF,Thomas Dillard (15342891),Thomas Dillard,15342891,1B/OF,2700,CHC@MIL 09/12/2020 07:10PM ET,MIL,0
+SS,Adalberto Mondesi (15342914),Adalberto Mondesi,15342914,SS,2700,PIT@KC 09/12/2020 07:05PM ET,KC,6.47
+OF,Jake Fraley (15342846),Jake Fraley,15342846,OF,2700,SEA@ARI 09/12/2020 08:10PM ET,SEA,6.83
+OF,Mitch Haniger (15342847),Mitch Haniger,15342847,OF,2700,SEA@ARI 09/12/2020 08:10PM ET,SEA,0
+3B,Wyatt Mathisen (15342867),Wyatt Mathisen,15342867,3B,2700,SEA@ARI 09/12/2020 08:10PM ET,ARI,1.75
+C,Tom Murphy (15342888),Tom Murphy,15342888,C,2700,SEA@ARI 09/12/2020 08:10PM ET,SEA,0
+1B,Jake Lamb (15342889),Jake Lamb,15342889,1B,2700,SEA@ARI 09/12/2020 08:10PM ET,ARI,2.06
+SS,Geraldo Perdomo (15342908),Geraldo Perdomo,15342908,SS,2700,SEA@ARI 09/12/2020 08:10PM ET,ARI,0
+OF,Dexter Fowler (15342836),Dexter Fowler,15342836,OF,2700,CIN@STL 09/12/2020 08:15PM ET,STL,6.78
+3B,Evan Mendoza (15342862),Evan Mendoza,15342862,3B,2700,CIN@STL 09/12/2020 08:15PM ET,STL,0
+C,Jose Briceno (15342900),Jose Briceno,15342900,C,2600,LAA@COL 09/12/2020 08:10PM ET,LAA,2.5
+OF,Myles Straw (15342854),Myles Straw,15342854,OF,2600,HOU@LAD 09/12/2020 08:07PM ET,HOU,4.85
+OF,Josh Reddick (15342863),Josh Reddick,15342863,OF,2600,HOU@LAD 09/12/2020 08:07PM ET,HOU,5.98
+OF,JaCoby Jones (15342861),JaCoby Jones,15342861,OF,2600,DET@CWS 09/12/2020 07:10PM ET,DET,7.4
+C,Jake Rogers (15342895),Jake Rogers,15342895,C,2600,DET@CWS 09/12/2020 07:10PM ET,DET,0
+1B,Frank Schwindel (15342917),Frank Schwindel,15342917,1B,2600,DET@CWS 09/12/2020 07:10PM ET,DET,0
+2B,Travis Blankenhorn (15342933),Travis Blankenhorn,15342933,2B,2600,CLE@MIN 09/12/2020 08:07PM ET,MIN,0
+OF,Mauricio Dubon (15342855),Mauricio Dubon,15342855,OF,2600,Postponed,SF,5.26
+OF,Jorge Mateo (15342858),Jorge Mateo,15342858,OF,2600,Postponed,SD,1.4
+OF,Cameron Maybin (15342856),Cameron Maybin,15342856,OF,2600,CHC@MIL 09/12/2020 07:10PM ET,CHC,4.78
+1B,Logan Morrison (15342923),Logan Morrison,15342923,1B,2600,CHC@MIL 09/12/2020 07:10PM ET,MIL,3.78
+OF,Zach DeLoach (15342872),Zach DeLoach,15342872,OF,2600,SEA@ARI 09/12/2020 08:10PM ET,SEA,0
+OF,Jarred Kelenic (15342874),Jarred Kelenic,15342874,OF,2600,SEA@ARI 09/12/2020 08:10PM ET,SEA,0
+2B/3B,Andy Young (15342876),Andy Young,15342876,2B/3B,2600,SEA@ARI 09/12/2020 08:10PM ET,ARI,4.67
+OF,Julio Rodriguez (15342878),Julio Rodriguez,15342878,OF,2600,SEA@ARI 09/12/2020 08:10PM ET,SEA,0
+C,Carson Kelly (15342902),Carson Kelly,15342902,C,2600,SEA@ARI 09/12/2020 08:10PM ET,ARI,3.93
+C/OF,Daulton Varsho (15342906),Daulton Varsho,15342906,C/OF,2600,SEA@ARI 09/12/2020 08:10PM ET,ARI,3.88
+C,Brian O'Keefe (15342911),Brian O'Keefe,15342911,C,2600,SEA@ARI 09/12/2020 08:10PM ET,SEA,0
+C,Cal Raleigh (15342913),Cal Raleigh,15342913,C,2600,SEA@ARI 09/12/2020 08:10PM ET,SEA,0
+3B,Tyler Keenan (15342919),Tyler Keenan,15342919,3B,2600,SEA@ARI 09/12/2020 08:10PM ET,SEA,0
+3B,Austin Shenton (15342935),Austin Shenton,15342935,3B,2600,SEA@ARI 09/12/2020 08:10PM ET,SEA,0
+SS,Noelvi Marte (15342939),Noelvi Marte,15342939,SS,2600,SEA@ARI 09/12/2020 08:10PM ET,SEA,0
+OF,Nick Senzel (15342864),Nick Senzel,15342864,OF,2600,CIN@STL 09/12/2020 08:15PM ET,CIN,7.79
+3B,Nolan Gorman (15342880),Nolan Gorman,15342880,3B,2600,CIN@STL 09/12/2020 08:15PM ET,STL,0
+2B,Max Schrock (15342924),Max Schrock,15342924,2B,2600,CIN@STL 09/12/2020 08:15PM ET,STL,1.82
+2B/SS,Kyle Farmer (15342931),Kyle Farmer,15342931,2B/SS,2600,CIN@STL 09/12/2020 08:15PM ET,CIN,2.96
+3B,Malcolm Nunez (15342941),Malcolm Nunez,15342941,3B,2600,CIN@STL 09/12/2020 08:15PM ET,STL,0
+SS,Masyn Winn (15342961),Masyn Winn,15342961,SS,2600,CIN@STL 09/12/2020 08:15PM ET,STL,0
+C,Chris Rabago (15342944),Chris Rabago,15342944,C,2500,LAA@COL 09/12/2020 08:10PM ET,COL,0
+C,Eliezer Alfonzo (15342945),Eliezer Alfonzo,15342945,C,2500,LAA@COL 09/12/2020 08:10PM ET,COL,0
+OF,Daz Cameron (15342887),Daz Cameron,15342887,OF,2500,DET@CWS 09/12/2020 07:10PM ET,DET,2.25
+OF,Troy Stokes Jr. (15342901),Troy Stokes Jr.,15342901,OF,2500,DET@CWS 09/12/2020 07:10PM ET,DET,0
+OF,Riley Greene (15342905),Riley Greene,15342905,OF,2500,DET@CWS 09/12/2020 07:10PM ET,DET,0
+OF,Nicky Delmonico (15342909),Nicky Delmonico,15342909,OF,2500,DET@CWS 09/12/2020 07:10PM ET,CWS,3.17
+1B/3B,Cheslor Cuthbert (15342946),Cheslor Cuthbert,15342946,1B/3B,2500,DET@CWS 09/12/2020 07:10PM ET,CWS,0
+OF,Brent Rooker (15342910),Brent Rooker,15342910,OF,2500,CLE@MIN 09/12/2020 08:07PM ET,MIN,7
+OF,LaMonte Wade Jr. (15342912),LaMonte Wade Jr.,15342912,OF,2500,CLE@MIN 09/12/2020 08:07PM ET,MIN,3.27
+OF,Darin Ruf (15342920),Darin Ruf,15342920,OF,2500,Postponed,SF,5.17
+OF,Avisail Garcia (15342879),Avisail Garcia,15342879,OF,2500,CHC@MIL 09/12/2020 07:10PM ET,MIL,6.46
+OF,Steven Souza Jr. (15342893),Steven Souza Jr.,15342893,OF,2500,CHC@MIL 09/12/2020 07:10PM ET,CHC,4.73
+OF,Mark Zagunis (15342896),Mark Zagunis,15342896,OF,2500,CHC@MIL 09/12/2020 07:10PM ET,CHC,0
+OF,Brennen Davis (15342898),Brennen Davis,15342898,OF,2500,CHC@MIL 09/12/2020 07:10PM ET,CHC,0
+OF,Albert Almora Jr. (15342899),Albert Almora Jr.,15342899,OF,2500,CHC@MIL 09/12/2020 07:10PM ET,CHC,1.25
+C,Victor Caratini (15342918),Victor Caratini,15342918,C,2500,CHC@MIL 09/12/2020 07:10PM ET,CHC,3.68
+C,P.J. Higgins (15342925),P.J. Higgins,15342925,C,2500,CHC@MIL 09/12/2020 07:10PM ET,CHC,0
+C,Miguel Amaya (15342929),Miguel Amaya,15342929,C,2500,CHC@MIL 09/12/2020 07:10PM ET,CHC,0
+C,Josh Phegley (15342936),Josh Phegley,15342936,C,2500,CHC@MIL 09/12/2020 07:10PM ET,CHC,2.36
+3B,Christopher Morel (15342950),Christopher Morel,15342950,3B,2500,CHC@MIL 09/12/2020 07:10PM ET,CHC,0
+2B,Daniel Descalso (15342969),Daniel Descalso,15342969,2B,2500,CHC@MIL 09/12/2020 07:10PM ET,CHC,0
+2B/SS,Hernan Perez (15342982),Hernan Perez,15342982,2B/SS,2500,CHC@MIL 09/12/2020 07:10PM ET,CHC,1
+1B/OF,Mason Martin (15342937),Mason Martin,15342937,1B/OF,2500,PIT@KC 09/12/2020 07:05PM ET,PIT,0
+2B/SS,Rodolfo Castro (15342970),Rodolfo Castro,15342970,2B/SS,2500,PIT@KC 09/12/2020 07:05PM ET,PIT,0
+OF,Tim Lopes (15342921),Tim Lopes,15342921,OF,2500,SEA@ARI 09/12/2020 08:10PM ET,SEA,5.31
+OF,Mallex Smith (15342922),Mallex Smith,15342922,OF,2500,SEA@ARI 09/12/2020 08:10PM ET,SEA,3.29
+OF,Braden Bishop (15342928),Braden Bishop,15342928,OF,2500,SEA@ARI 09/12/2020 08:10PM ET,SEA,4
+OF,Dominic Fletcher (15342930),Dominic Fletcher,15342930,OF,2500,SEA@ARI 09/12/2020 08:10PM ET,ARI,0
+OF,Corbin Carroll (15342934),Corbin Carroll,15342934,OF,2500,SEA@ARI 09/12/2020 08:10PM ET,ARI,0
+OF,Seth Beer (15342940),Seth Beer,15342940,OF,2500,SEA@ARI 09/12/2020 08:10PM ET,ARI,0
+OF,Alek Thomas (15342942),Alek Thomas,15342942,OF,2500,SEA@ARI 09/12/2020 08:10PM ET,ARI,0
+1B/3B,Patrick Wisdom (15342948),Patrick Wisdom,15342948,1B/3B,2500,SEA@ARI 09/12/2020 08:10PM ET,SEA,0
+C,Joe Hudson (15342951),Joe Hudson,15342951,C,2500,SEA@ARI 09/12/2020 08:10PM ET,SEA,1.44
+2B,Kaden Polcovich (15342955),Kaden Polcovich,15342955,2B,2500,SEA@ARI 09/12/2020 08:10PM ET,SEA,0
+1B,Kevin Cron (15342960),Kevin Cron,15342960,1B,2500,SEA@ARI 09/12/2020 08:10PM ET,ARI,0.75
+SS,Donovan Walton (15342972),Donovan Walton,15342972,SS,2500,SEA@ARI 09/12/2020 08:10PM ET,SEA,2
+3B,Elehuris Montero (15342956),Elehuris Montero,15342956,3B,2500,CIN@STL 09/12/2020 08:15PM ET,STL,0
+2B/3B,Nick Tanielu (15342966),Nick Tanielu,15342966,2B/3B,2400,HOU@LAD 09/12/2020 08:07PM ET,HOU,0
+2B/SS,Alex De Goti (15342994),Alex De Goti,15342994,2B/SS,2400,HOU@LAD 09/12/2020 08:07PM ET,HOU,0
+OF,Travis Demeritte (15342943),Travis Demeritte,15342943,OF,2400,DET@CWS 09/12/2020 07:10PM ET,DET,2.67
+OF,Derek Hill (15342957),Derek Hill,15342957,OF,2400,DET@CWS 09/12/2020 07:10PM ET,DET,0.29
+OF,Jorge Bonifacio (15342958),Jorge Bonifacio,15342958,OF,2400,DET@CWS 09/12/2020 07:10PM ET,DET,5.37
+OF,Christin Stewart (15342959),Christin Stewart,15342959,OF,2400,DET@CWS 09/12/2020 07:10PM ET,DET,3.42
+C,Brady Policelli (15342977),Brady Policelli,15342977,C,2400,DET@CWS 09/12/2020 07:10PM ET,DET,0
+C,Dillon Dingler (15342991),Dillon Dingler,15342991,C,2400,DET@CWS 09/12/2020 07:10PM ET,DET,0
+OF,Trevor Larnach (15342968),Trevor Larnach,15342968,OF,2400,CLE@MIN 09/12/2020 08:07PM ET,MIN,0
+SS,Wilfredo Tovar (15342990),Wilfredo Tovar,15342990,SS,2400,CLE@MIN 09/12/2020 08:07PM ET,MIN,0
+SS,Owen Miller (15343001),Owen Miller,15343001,SS,2400,Postponed,SD,0
+OF,Billy Hamilton (15342954),Billy Hamilton,15342954,OF,2400,CHC@MIL 09/12/2020 07:10PM ET,CHC,1.58
+C,Mario Feliciano (15342962),Mario Feliciano,15342962,C,2400,CHC@MIL 09/12/2020 07:10PM ET,MIL,0
+1B/3B,Ryon Healy (15342974),Ryon Healy,15342974,1B/3B,2400,CHC@MIL 09/12/2020 07:10PM ET,MIL,1
+1B,David Freitas (15342984),David Freitas,15342984,1B,2400,CHC@MIL 09/12/2020 07:10PM ET,MIL,0
+SS,Zack Short (15342987),Zack Short,15342987,SS,2400,CHC@MIL 09/12/2020 07:10PM ET,CHC,0
+OF,Franchy Cordero (15342953),Franchy Cordero,15342953,OF,2400,PIT@KC 09/12/2020 07:05PM ET,KC,2.82
+C,Nick Dini (15342963),Nick Dini,15342963,C,2400,PIT@KC 09/12/2020 07:05PM ET,KC,0
+OF,Socrates Brito (15342965),Socrates Brito,15342965,OF,2400,PIT@KC 09/12/2020 07:05PM ET,PIT,0
+1B,Will Craig (15343003),Will Craig,15343003,1B,2400,PIT@KC 09/12/2020 07:05PM ET,PIT,0
+2B/OF,Kevin Kramer (15343047),Kevin Kramer,15343047,2B/OF,2400,PIT@KC 09/12/2020 07:05PM ET,PIT,0
+OF,Jon Jay (15342976),Jon Jay,15342976,OF,2400,SEA@ARI 09/12/2020 08:10PM ET,ARI,3.07
+1B,Pavin Smith (15342978),Pavin Smith,15342978,1B,2400,SEA@ARI 09/12/2020 08:10PM ET,ARI,0
+C,Jose Godoy (15342952),Jose Godoy,15342952,C,2400,CIN@STL 09/12/2020 08:15PM ET,STL,0
+OF,Justin Williams (15342964),Justin Williams,15342964,OF,2400,CIN@STL 09/12/2020 08:15PM ET,STL,0
+C,Dustin Garneau (15342997),Dustin Garneau,15342997,C,2300,HOU@LAD 09/12/2020 08:07PM ET,HOU,4
+3B/SS,Jack Mayfield (15343006),Jack Mayfield,15343006,3B/SS,2300,HOU@LAD 09/12/2020 08:07PM ET,HOU,2.33
+1B,Taylor Jones (15343041),Taylor Jones,15343041,1B,2300,HOU@LAD 09/12/2020 08:07PM ET,HOU,5
+3B,Isaac Paredes (15342988),Isaac Paredes,15342988,3B,2300,DET@CWS 09/12/2020 07:10PM ET,DET,3.05
+OF,Adam Engel (15343000),Adam Engel,15343000,OF,2300,DET@CWS 09/12/2020 07:10PM ET,CWS,4.73
+3B,Dawel Lugo (15343011),Dawel Lugo,15343011,3B,2300,DET@CWS 09/12/2020 07:10PM ET,DET,1.78
+OF,Jordan Luplow (15342999),Jordan Luplow,15342999,OF,2300,CLE@MIN 09/12/2020 08:07PM ET,CLE,3.84
+OF,Gilberto Celestino (15343005),Gilberto Celestino,15343005,OF,2300,CLE@MIN 09/12/2020 08:07PM ET,MIN,0
+1B/OF,Alex Kirilloff (15343029),Alex Kirilloff,15343029,1B/OF,2300,CLE@MIN 09/12/2020 08:07PM ET,MIN,0
+SS,Royce Lewis (15343032),Royce Lewis,15343032,SS,2300,CLE@MIN 09/12/2020 08:07PM ET,MIN,0
+OF,Jorge Ona (15342981),Jorge Ona,15342981,OF,2300,Postponed,SD,5.33
+C,Francisco Mejia (15342993),Francisco Mejia,15342993,C,2300,Postponed,SD,2.38
+3B/SS,Tucupita Marcano (15343012),Tucupita Marcano,15343012,3B/SS,2300,Postponed,SD,0
+1B,Justin Smoak (15343018),Justin Smoak,15343018,1B,2300,Postponed,SF,5.88
+SS,Gabriel Arias (15343020),Gabriel Arias,15343020,SS,2300,Postponed,SD,0
+2B,Kean Wong (15343078),Kean Wong,15343078,2B,2300,Postponed,SF,0
+3B,Eric Sogard (15342973),Eric Sogard,15342973,3B,2300,CHC@MIL 09/12/2020 07:10PM ET,MIL,4
+OF,Tyrone Taylor (15342980),Tyrone Taylor,15342980,OF,2300,CHC@MIL 09/12/2020 07:10PM ET,MIL,6.29
+OF,Tristen Lutz (15342985),Tristen Lutz,15342985,OF,2300,CHC@MIL 09/12/2020 07:10PM ET,MIL,0
+OF,Corey Ray (15342986),Corey Ray,15342986,OF,2300,CHC@MIL 09/12/2020 07:10PM ET,MIL,0
+C,Jacob Nottingham (15342992),Jacob Nottingham,15342992,C,2300,CHC@MIL 09/12/2020 07:10PM ET,MIL,5.78
+OF,Edward Olivares (15342979),Edward Olivares,15342979,OF,2300,PIT@KC 09/12/2020 07:05PM ET,KC,5.90
+OF,Nick Heath (15342989),Nick Heath,15342989,OF,2300,PIT@KC 09/12/2020 07:05PM ET,KC,5.2
+C,John Ryan Murphy (15342996),John Ryan Murphy,15342996,C,2300,PIT@KC 09/12/2020 07:05PM ET,PIT,2.26
+OF,Cole Tucker (15342998),Cole Tucker,15342998,OF,2300,PIT@KC 09/12/2020 07:05PM ET,PIT,4.39
+OF,Jared Oliva (15343002),Jared Oliva,15343002,OF,2300,PIT@KC 09/12/2020 07:05PM ET,PIT,0
+OF,Travis Swaggerty (15343004),Travis Swaggerty,15343004,OF,2300,PIT@KC 09/12/2020 07:05PM ET,PIT,0
+3B/OF,JT Riddle (15343009),JT Riddle,15343009,3B/OF,2300,PIT@KC 09/12/2020 07:05PM ET,PIT,3.67
+C,Luke Maile (15343015),Luke Maile,15343015,C,2300,PIT@KC 09/12/2020 07:05PM ET,PIT,0
+C,Christian Kelley (15343016),Christian Kelley,15343016,C,2300,PIT@KC 09/12/2020 07:05PM ET,PIT,0
+1B,Nick Pratto (15343017),Nick Pratto,15343017,1B,2300,PIT@KC 09/12/2020 07:05PM ET,KC,0
+SS,Oneil Cruz (15343034),Oneil Cruz,15343034,SS,2300,PIT@KC 09/12/2020 07:05PM ET,PIT,0
+2B/SS,Ji-Hwan Bae (15343043),Ji-Hwan Bae,15343043,2B/SS,2300,PIT@KC 09/12/2020 07:05PM ET,PIT,0
+C,Julio Rodriguez (15343008),Julio Rodriguez,15343008,C,2300,CIN@STL 09/12/2020 08:15PM ET,STL,0
+C,Ivan Herrera (15343014),Ivan Herrera,15343014,C,2300,CIN@STL 09/12/2020 08:15PM ET,STL,0
+3B,Jordan Walker (15343025),Jordan Walker,15343025,3B,2300,CIN@STL 09/12/2020 08:15PM ET,STL,0
+3B,Abraham Toro (15343033),Abraham Toro,15343033,3B,2200,HOU@LAD 09/12/2020 08:07PM ET,HOU,4.34
+C,Colton Shaver (15343045),Colton Shaver,15343045,C,2200,HOU@LAD 09/12/2020 08:07PM ET,HOU,0
+C,Michael Papierski (15343049),Michael Papierski,15343049,C,2200,HOU@LAD 09/12/2020 08:07PM ET,HOU,0
+OF,Chas McCormick (15343050),Chas McCormick,15343050,OF,2200,HOU@LAD 09/12/2020 08:07PM ET,HOU,0
+OF,Ronnie Dawson (15343052),Ronnie Dawson,15343052,OF,2200,HOU@LAD 09/12/2020 08:07PM ET,HOU,0
+OF,Jake Meyers (15343053),Jake Meyers,15343053,OF,2200,HOU@LAD 09/12/2020 08:07PM ET,HOU,0
+C,Jamie Ritchie (15343054),Jamie Ritchie,15343054,C,2200,HOU@LAD 09/12/2020 08:07PM ET,HOU,0
+OF,Jarrod Dyson (15343022),Jarrod Dyson,15343022,OF,2200,DET@CWS 09/12/2020 07:10PM ET,CWS,2.89
+OF,Luis Gonzalez (15343023),Luis Gonzalez,15343023,OF,2200,DET@CWS 09/12/2020 07:10PM ET,CWS,1.33
+OF,Blake Rutherford (15343024),Blake Rutherford,15343024,OF,2200,DET@CWS 09/12/2020 07:10PM ET,CWS,0
+OF,Micker Adolfo (15343026),Micker Adolfo,15343026,OF,2200,DET@CWS 09/12/2020 07:10PM ET,CWS,0
+C,Yermin Mercedes (15343031),Yermin Mercedes,15343031,C,2200,DET@CWS 09/12/2020 07:10PM ET,CWS,0
+C,Seby Zavala (15343038),Seby Zavala,15343038,C,2200,DET@CWS 09/12/2020 07:10PM ET,CWS,0
+1B,Andrew Vaughn (15343051),Andrew Vaughn,15343051,1B,2200,DET@CWS 09/12/2020 07:10PM ET,CWS,0
+2B/3B,Drew Maggi (15343069),Drew Maggi,15343069,2B/3B,2200,CLE@MIN 09/12/2020 08:07PM ET,MIN,0
+OF,Luis Basabe (15343027),Luis Basabe,15343027,OF,2200,Postponed,SF,0.67
+OF,Hunter Pence (15343035),Hunter Pence,15343035,OF,2200,Postponed,SF,3.65
+OF,Joey Rickard (15343036),Joey Rickard,15343036,OF,2200,Postponed,SF,1
+3B,Luis Toribio (15343037),Luis Toribio,15343037,3B,2200,Postponed,SF,0
+OF,Jose Siri (15343040),Jose Siri,15343040,OF,2200,Postponed,SF,0
+OF,Alexander Canario (15343042),Alexander Canario,15343042,OF,2200,Postponed,SF,0
+OF,Heliot Ramos (15343046),Heliot Ramos,15343046,OF,2200,Postponed,SF,0
+1B/C,Aramis Garcia (15343055),Aramis Garcia,15343055,C/1B,2200,Postponed,SF,0
+1B/OF,Chris Shaw (15343057),Chris Shaw,15343057,1B/OF,2200,Postponed,SF,0
+OF,Steven Duggar (15343062),Steven Duggar,15343062,OF,2200,Postponed,SF,1.56
+OF,Jaylin Davis (15343063),Jaylin Davis,15343063,OF,2200,Postponed,SF,4.75
+SS,Will Wilson (15343064),Will Wilson,15343064,SS,2200,Postponed,SF,0
+SS,Marco Luciano (15343065),Marco Luciano,15343065,SS,2200,Postponed,SF,0
+OF,Joe McCarthy (15343066),Joe McCarthy,15343066,OF,2200,Postponed,SF,0
+3B,Zach Green (15343067),Zach Green,15343067,3B,2200,Postponed,SF,0
+SS,Abiatal Avelino (15343080),Abiatal Avelino,15343080,SS,2200,Postponed,SF,0
+OF,Mark Mathias (15343021),Mark Mathias,15343021,OF,2200,CHC@MIL 09/12/2020 07:10PM ET,MIL,3.31
+SS,Brice Turang (15343061),Brice Turang,15343061,SS,2200,CHC@MIL 09/12/2020 07:10PM ET,MIL,0
+C,Allan de San Miguel (15343019),Allan de San Miguel,15343019,C,2200,PIT@KC 09/12/2020 07:05PM ET,KC,0
+3B,Kelvin Gutierrez (15343068),Kelvin Gutierrez,15343068,3B,2200,PIT@KC 09/12/2020 07:05PM ET,KC,0
+2B/SS,Humberto Arteaga (15343083),Humberto Arteaga,15343083,2B/SS,2200,PIT@KC 09/12/2020 07:05PM ET,KC,0
+OF,Lane Thomas (15343028),Lane Thomas,15343028,OF,2200,CIN@STL 09/12/2020 08:15PM ET,STL,3
+C,Tucker Barnhart (15343039),Tucker Barnhart,15343039,C,2200,CIN@STL 09/12/2020 08:15PM ET,CIN,4.26
+C,Tyler Stephenson (15343059),Tyler Stephenson,15343059,C,2200,CIN@STL 09/12/2020 08:15PM ET,CIN,14
+OF,Tre Fletcher (15343060),Tre Fletcher,15343060,OF,2200,CIN@STL 09/12/2020 08:15PM ET,STL,0
+2B,Christian Colon (15343089),Christian Colon,15343089,2B,2200,CIN@STL 09/12/2020 08:15PM ET,CIN,2.54
+2B/SS,Omar Estevez (15343113),Omar Estevez,15343113,2B/SS,2100,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+3B,Spencer Torkelson (15343098),Spencer Torkelson,15343098,3B,2100,DET@CWS 09/12/2020 07:10PM ET,DET,0
+1B,Tomas Telis (15343081),Tomas Telis,15343081,1B,2100,CLE@MIN 09/12/2020 08:07PM ET,MIN,0
+C,Caleb Hamilton (15343096),Caleb Hamilton,15343096,C,2100,CLE@MIN 09/12/2020 08:07PM ET,MIN,0
+2B,Nick Gordon (15343110),Nick Gordon,15343110,2B,2100,CLE@MIN 09/12/2020 08:07PM ET,MIN,0
+1B,Zander Wiel (15343112),Zander Wiel,15343112,1B,2100,CLE@MIN 09/12/2020 08:07PM ET,MIN,0
+OF,Hudson Head (15343086),Hudson Head,15343086,OF,2100,Postponed,SD,0
+1B/OF,Jace Peterson (15343071),Jace Peterson,15343071,1B/OF,2100,CHC@MIL 09/12/2020 07:10PM ET,MIL,4.08
+OF,Keon Broxton (15343087),Keon Broxton,15343087,OF,2100,CHC@MIL 09/12/2020 07:10PM ET,MIL,0
+C,MJ Melendez (15343073),MJ Melendez,15343073,C,2100,PIT@KC 09/12/2020 07:05PM ET,KC,0
+C,Freddy Fermin (15343074),Freddy Fermin,15343074,C,2100,PIT@KC 09/12/2020 07:05PM ET,KC,0
+OF,Kyle Isbel (15343075),Kyle Isbel,15343075,OF,2100,PIT@KC 09/12/2020 07:05PM ET,KC,0
+C,Sebastian Rivero (15343076),Sebastian Rivero,15343076,C,2100,PIT@KC 09/12/2020 07:05PM ET,KC,0
+OF,Khalil Lee (15343079),Khalil Lee,15343079,OF,2100,PIT@KC 09/12/2020 07:05PM ET,KC,0
+OF,Seuly Matias (15343082),Seuly Matias,15343082,OF,2100,PIT@KC 09/12/2020 07:05PM ET,KC,0
+OF,Jason Martin (15343088),Jason Martin,15343088,OF,2100,PIT@KC 09/12/2020 07:05PM ET,PIT,2
+3B/OF,Jose Osuna (15343090),Jose Osuna,15343090,3B/OF,2100,PIT@KC 09/12/2020 07:05PM ET,PIT,2.94
+SS,Bobby Witt Jr. (15343103),Bobby Witt Jr.,15343103,SS,2100,PIT@KC 09/12/2020 07:05PM ET,KC,0
+2B,Nicky Lopez (15343111),Nicky Lopez,15343111,2B,2100,PIT@KC 09/12/2020 07:05PM ET,KC,4.29
+C,Francisco Pena (15343077),Francisco Pena,15343077,C,2100,CIN@STL 09/12/2020 08:15PM ET,CIN,0
+SS,Jose Garcia (15343085),Jose Garcia,15343085,SS,2100,CIN@STL 09/12/2020 08:15PM ET,CIN,2.42
+OF,Shogo Akiyama (15343092),Shogo Akiyama,15343092,OF,2100,CIN@STL 09/12/2020 08:15PM ET,CIN,4.56
+OF,Michael Lorenzen (15343093),Michael Lorenzen,15343093,OF,2100,CIN@STL 09/12/2020 08:15PM ET,CIN,2.23
+OF,Stuart Fairchild (15343094),Stuart Fairchild,15343094,OF,2100,CIN@STL 09/12/2020 08:15PM ET,CIN,0
+3B,Jonathan India (15343095),Jonathan India,15343095,3B,2100,CIN@STL 09/12/2020 08:15PM ET,CIN,0
+SS,Alfredo Rodriguez (15343097),Alfredo Rodriguez,15343097,SS,2100,CIN@STL 09/12/2020 08:15PM ET,CIN,0
+OF,Mark Payton (15343099),Mark Payton,15343099,OF,2100,CIN@STL 09/12/2020 08:15PM ET,CIN,2.5
+1B,Matt Beaty (15343116),Matt Beaty,15343116,1B,2000,HOU@LAD 09/12/2020 08:07PM ET,LAD,3.95
+C,Carson Taylor (15343118),Carson Taylor,15343118,C,2000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+SS,Zach McKinstry (15343119),Zach McKinstry,15343119,SS,2000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+2B,Michael Busch (15343124),Michael Busch,15343124,2B,2000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+OF,Luke Raley (15343150),Luke Raley,15343150,OF,2000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+OF,Zach Reks (15343151),Zach Reks,15343151,OF,2000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+OF,DJ Peters (15343152),DJ Peters,15343152,OF,2000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+OF,Anthony Garcia (15343153),Anthony Garcia,15343153,OF,2000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+OF,Cody Thomas (15343154),Cody Thomas,15343154,OF,2000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+C,Diego Cartaya (15343155),Diego Cartaya,15343155,C,2000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+C,Rocky Gale (15343156),Rocky Gale,15343156,C,2000,HOU@LAD 09/12/2020 08:07PM ET,LAD,0
+OF,Oscar Mercado (15343117),Oscar Mercado,15343117,OF,2000,CLE@MIN 09/12/2020 08:07PM ET,CLE,2.56
+OF,Josh Naylor (15343122),Josh Naylor,15343122,OF,2000,CLE@MIN 09/12/2020 08:07PM ET,CLE,3.36
+OF,Delino DeShields (15343123),Delino DeShields,15343123,OF,2000,CLE@MIN 09/12/2020 08:07PM ET,CLE,4.33
+1B,Bobby Bradley (15343125),Bobby Bradley,15343125,1B,2000,CLE@MIN 09/12/2020 08:07PM ET,CLE,0
+C,Sandy Leon (15343126),Sandy Leon,15343126,C,2000,CLE@MIN 09/12/2020 08:07PM ET,CLE,3.9
+3B/OF,Jake Elmore (15343127),Jake Elmore,15343127,3B/OF,2000,CLE@MIN 09/12/2020 08:07PM ET,CLE,0
+SS,Ernie Clement (15343129),Ernie Clement,15343129,SS,2000,CLE@MIN 09/12/2020 08:07PM ET,CLE,0
+SS,Aaron Bracho (15343130),Aaron Bracho,15343130,SS,2000,CLE@MIN 09/12/2020 08:07PM ET,CLE,0
+C,Austin Hedges (15343131),Austin Hedges,15343131,C,2000,CLE@MIN 09/12/2020 08:07PM ET,CLE,3.12
+SS,Tyler Freeman (15343132),Tyler Freeman,15343132,SS,2000,CLE@MIN 09/12/2020 08:07PM ET,CLE,0
+3B,Nolan Jones (15343133),Nolan Jones,15343133,3B,2000,CLE@MIN 09/12/2020 08:07PM ET,CLE,0
+C,Juan Graterol (15343136),Juan Graterol,15343136,C,2000,CLE@MIN 09/12/2020 08:07PM ET,MIN,0
+OF,George Valera (15343137),George Valera,15343137,OF,2000,CLE@MIN 09/12/2020 08:07PM ET,CLE,0
+OF,Domingo Santana (15343138),Domingo Santana,15343138,OF,2000,CLE@MIN 09/12/2020 08:07PM ET,CLE,4.88
+C,Steven Baron (15343139),Steven Baron,15343139,C,2000,CLE@MIN 09/12/2020 08:07PM ET,CLE,0
+OF,Bradley Zimmer (15343140),Bradley Zimmer,15343140,OF,2000,CLE@MIN 09/12/2020 08:07PM ET,CLE,3.55
+3B,Yu Chang (15343141),Yu Chang,15343141,3B,2000,CLE@MIN 09/12/2020 08:07PM ET,CLE,1.75
+C,Beau Taylor (15343142),Beau Taylor,15343142,C,2000,CLE@MIN 09/12/2020 08:07PM ET,CLE,1.86
+2B/3B,Mike Freeman (15343143),Mike Freeman,15343143,2B/3B,2000,CLE@MIN 09/12/2020 08:07PM ET,CLE,2.78
+C,Bo Naylor (15343146),Bo Naylor,15343146,C,2000,CLE@MIN 09/12/2020 08:07PM ET,CLE,0
+OF,Daniel Johnson (15343147),Daniel Johnson,15343147,OF,2000,CLE@MIN 09/12/2020 08:07PM ET,CLE,1
+C,Luis Campusano (15343106),Luis Campusano,15343106,C,2000,Postponed,SD,18
+OF,Robert Hassell III (15343107),Robert Hassell III,15343107,OF,2000,Postponed,SD,0
+C,Webster Rivas (15343121),Webster Rivas,15343121,C,2000,Postponed,SD,0
+SS,CJ Abrams (15343145),CJ Abrams,15343145,SS,2000,Postponed,SD,0
+3B,Matt Reynolds (15343100),Matt Reynolds,15343100,3B,2000,PIT@KC 09/12/2020 07:05PM ET,KC,0.67
+C,Cam Gallagher (15343101),Cam Gallagher,15343101,C,2000,PIT@KC 09/12/2020 07:05PM ET,KC,4.17
+OF,Alex Gordon (15343102),Alex Gordon,15343102,OF,2000,PIT@KC 09/12/2020 07:05PM ET,KC,4.92
+OF,Bubba Starling (15343104),Bubba Starling,15343104,OF,2000,PIT@KC 09/12/2020 07:05PM ET,KC,2.32
+C,Meibrys Viloria (15343105),Meibrys Viloria,15343105,C,2000,PIT@KC 09/12/2020 07:05PM ET,KC,1.47
+3B/OF,Erick Mejia (15343108),Erick Mejia,15343108,3B/OF,2000,PIT@KC 09/12/2020 07:05PM ET,KC,0
+C,Oscar Hernandez (15343115),Oscar Hernandez,15343115,C,2000,PIT@KC 09/12/2020 07:05PM ET,KC,2
+1B,Ryan McBroom (15343120),Ryan McBroom,15343120,1B,2000,PIT@KC 09/12/2020 07:05PM ET,KC,4.06
+SS,Jeison Guzman (15343135),Jeison Guzman,15343135,SS,2000,PIT@KC 09/12/2020 07:05PM ET,KC,0
+OF,Travis Jankowski (15343134),Travis Jankowski,15343134,OF,2000,CIN@STL 09/12/2020 08:15PM ET,CIN,1.44
+2B/3B,Alex Blandino (15343148),Alex Blandino,15343148,2B/3B,2000,CIN@STL 09/12/2020 08:15PM ET,CIN,0
