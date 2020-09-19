@@ -1,24 +1,24 @@
 team code, game_date, game_number, mlb id, player name, batting order, confirmed, position
-SF,9/19/2020,1,573262,Mike Yastrzemski,1,N,
-SF,9/19/2020,1,543105,Alex Dickerson,2,N,
-SF,9/19/2020,1,527038,Wilmer Flores,3,N,
-SF,9/19/2020,1,446334,Evan Longoria,4,N,
-SF,9/19/2020,1,474832,Brandon Belt,5,N,
-SF,9/19/2020,1,663698,Joey Bart,6,N,
-SF,9/19/2020,1,573131,Darin Ruf,7,N,
-SF,9/19/2020,1,543063,Brandon Crawford,8,N,
-SF,9/19/2020,1,643289,Mauricio Dubon,9,N,
-SF,9/19/2020,1,592332,Kevin Gausman,SP,N,
-OAK,9/19/2020,1,600303,Tommy La Stella,1,N,
-OAK,9/19/2020,1,543760,Marcus Semien,2,N,
-OAK,9/19/2020,1,657656,Ramon Laureano,3,N,
-OAK,9/19/2020,1,621566,Matt Olson,4,N,
-OAK,9/19/2020,1,543257,Robbie Grossman,5,N,
-OAK,9/19/2020,1,592192,Mark Canha,6,N,
-OAK,9/19/2020,1,605353,Vimael Machin,7,N,
-OAK,9/19/2020,1,641680,Jonah Heim,8,N,
-OAK,9/19/2020,1,643393,Tony Kemp,9,N,
-OAK,9/19/2020,1,666200,Jesus Luzardo,SP,N,
+SF,9/19/2020,1,596103,Austin Slater,1,Y,DH
+SF,9/19/2020,1,456781,Donovan Solano,2,Y,2B
+SF,9/19/2020,1,573131,Darin Ruf,3,Y,LF
+SF,9/19/2020,1,527038,Wilmer Flores,4,Y,1B
+SF,9/19/2020,1,446334,Evan Longoria,5,Y,3B
+SF,9/19/2020,1,643289,Mauricio Dubon,6,Y,CF
+SF,9/19/2020,1,621002,Daniel Robertson,7,Y,SS
+SF,9/19/2020,1,663698,Joey Bart,8,Y,C
+SF,9/19/2020,1,642772,Luis Alexander Basabe,9,Y,RF
+SF,9/19/2020,1,592332,Kevin Gausman,SP,Y,
+OAK,9/19/2020,1,600303,Tommy La Stella,1,Y,2B
+OAK,9/19/2020,1,543760,Marcus Semien,2,Y,SS
+OAK,9/19/2020,1,592192,Mark Canha,3,Y,DH
+OAK,9/19/2020,1,621566,Matt Olson,4,Y,1B
+OAK,9/19/2020,1,572039,Stephen Piscotty,5,Y,RF
+OAK,9/19/2020,1,571875,Jake Lamb,6,Y,3B
+OAK,9/19/2020,1,543257,Robbie Grossman,7,Y,LF
+OAK,9/19/2020,1,657656,Ramon Laureano,8,Y,CF
+OAK,9/19/2020,1,641680,Jonah Heim,9,Y,C
+OAK,9/19/2020,1,666200,Jesus Luzardo,SP,Y,
 TOR,9/19/2020,1,624415,Cavan Biggio,1,N,
 TOR,9/19/2020,1,666182,Bo Bichette,2,N,
 TOR,9/19/2020,1,543768,Travis Shaw,3,N,
