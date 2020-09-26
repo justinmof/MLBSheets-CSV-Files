@@ -1,14 +1,14 @@
 team code, game_date, game_number, mlb id, player name, batting order, confirmed, position
-MIA,9/26/2020,1,572816,Corey Dickerson,1,N,
-MIA,9/26/2020,1,516782,Starling Marte,2,N,
-MIA,9/26/2020,1,542583,Jesus Aguilar,3,N,
-MIA,9/26/2020,1,459964,Matt Joyce,4,N,
-MIA,9/26/2020,1,605119,Brian Anderson,5,N,
-MIA,9/26/2020,1,643265,Garrett Cooper,6,N,
-MIA,9/26/2020,1,500743,Miguel Rojas,7,N,
-MIA,9/26/2020,1,665862,Jazz Chisholm,8,N,
-MIA,9/26/2020,1,595751,Jorge Alfaro,9,N,
-MIA,9/26/2020,1,669432,Trevor Rogers,SP,N,
+MIA,9/26/2020,1,642423,Magneuris Sierra,1,Y,LF
+MIA,9/26/2020,1,542932,Jonathon Berti,2,Y,3B
+MIA,9/26/2020,1,643265,Garrett Cooper,3,Y,1B
+MIA,9/26/2020,1,459964,Matt Joyce,4,Y,DH
+MIA,9/26/2020,1,621446,Lewis Brinson,5,Y,RF
+MIA,9/26/2020,1,595751,Jorge Alfaro,6,Y,C
+MIA,9/26/2020,1,665862,Jazz Chisholm,7,Y,2B
+MIA,9/26/2020,1,656509,Monte Harrison,8,Y,CF
+MIA,9/26/2020,1,500743,Miguel Rojas,9,Y,SS
+MIA,9/26/2020,1,669432,Trevor Rogers,SP,Y,
 NYY,9/26/2020,1,518934,DJ LeMahieu,1,N,
 NYY,9/26/2020,1,592450,Aaron Judge,2,N,
 NYY,9/26/2020,1,519317,Giancarlo Stanton,3,N,
