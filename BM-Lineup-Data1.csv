@@ -1,14 +1,14 @@
 team code, game_date, game_number, mlb id, player name, batting order, confirmed, position
-DET,9/27/2020,1,622682,Victor Reyes,1,N,
-DET,9/27/2020,1,605612,Harold Castro,2,N,
-DET,9/27/2020,1,408234,Miguel Cabrera,3,N,
-DET,9/27/2020,1,621514,Christin Stewart,4,N,
-DET,9/27/2020,1,592348,Niko Goodrum,5,N,
-DET,9/27/2020,1,519222,Austin Romine,6,N,
-DET,9/27/2020,1,670623,Isaac Paredes,7,N,
-DET,9/27/2020,1,656537,Derek Hill,8,N,
-DET,9/27/2020,1,663662,Daz Cameron,9,N,
-DET,9/27/2020,1,519455,Jordan Zimmermann,SP,N,
+DET,9/27/2020,1,622682,Victor Reyes,1,Y,CF
+DET,9/27/2020,1,663662,Daz Cameron,2,Y,RF
+DET,9/27/2020,1,592348,Niko Goodrum,3,Y,SS
+DET,9/27/2020,1,641525,Brandon Dixon,4,Y,1B
+DET,9/27/2020,1,621514,Christin Stewart,5,Y,DH
+DET,9/27/2020,1,593528,Jorge Bonifacio,6,Y,LF
+DET,9/27/2020,1,606992,Eric Haase,7,Y,C
+DET,9/27/2020,1,670623,Isaac Paredes,8,Y,3B
+DET,9/27/2020,1,642727,Sergio Alcantara,9,Y,2B
+DET,9/27/2020,1,519455,Jordan Zimmermann,SP,Y,
 KC,9/27/2020,1,460086,Alex Gordon,1,Y,LF
 KC,9/27/2020,1,593160,Whit Merrifield,2,Y,RF
 KC,9/27/2020,1,609275,Adalberto Mondesi,3,Y,SS
