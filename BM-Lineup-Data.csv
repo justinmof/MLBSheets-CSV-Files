@@ -1,28 +1,81 @@
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head><title>
-	Error
-</title><link href="Styles/BaseballMonster.css" type="text/css" rel="stylesheet" /><link href="Styles/main.css" type="text/css" rel="stylesheet" /></head>
-<body>
-    <form method="post" action="./SystemError.aspx" id="form1">
-<div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="3" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA1NDkzNTkwMg8WAh4TVmFsaWRhdGVS" />
-<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="ZXF1ZXN0TW9kZQIBZGQN6rciqoMC+Z0OFWtX+yZ5" />
-<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="IETez4qm4mLBL8Jm6Rl3gg==" />
-</div>
-
-<div class="aspNetHidden">
-
-	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="07ABA8FD" />
-</div>
-    <div>
-        <p><a href="default.aspx">Home</a></p>
-        <p class='error'>A system error has occurred.  The administrator has been alerted.  We apoligize for the inconvenience.</p>
-    </div>
-    </form>
-</body>
-</html>
+team code, game_date, game_number, mlb id, player name, batting order, confirmed, position
+HOU,9/29/2020,1,543807,George Springer,1,Y,CF
+HOU,9/29/2020,1,514888,Jose Altuve,2,Y,2B
+HOU,9/29/2020,1,488726,Michael Brantley,3,Y,DH
+HOU,9/29/2020,1,608324,Alex Bregman,4,Y,3B
+HOU,9/29/2020,1,663656,Kyle Tucker,5,Y,LF
+HOU,9/29/2020,1,493329,Yulieski Gurriel,6,Y,1B
+HOU,9/29/2020,1,621043,Carlos Correa,7,Y,SS
+HOU,9/29/2020,1,502210,Josh Reddick,8,Y,RF
+HOU,9/29/2020,1,455117,Martin Maldonado,9,Y,C
+HOU,9/29/2020,1,425844,Zack Greinke,SP,Y,
+MIN,9/29/2020,1,650333,Luis Arraez,1,Y,2B
+MIN,9/29/2020,1,621439,Byron Buxton,2,Y,CF
+MIN,9/29/2020,1,596146,Max Kepler,3,Y,RF
+MIN,9/29/2020,1,443558,Nelson Cruz,4,Y,DH
+MIN,9/29/2020,1,592696,Eddie Rosario,5,Y,LF
+MIN,9/29/2020,1,593934,Miguel Sano,6,Y,1B
+MIN,9/29/2020,1,593871,Jorge Polanco,7,Y,SS
+MIN,9/29/2020,1,680777,Ryan Jeffers,8,Y,C
+MIN,9/29/2020,1,503556,Marwin Gonzalez,9,Y,3B
+MIN,9/29/2020,1,628317,Kenta Maeda,SP,Y,
+CHW,9/29/2020,1,641313,Tim Anderson,1,N,
+CHW,9/29/2020,1,518735,Yasmani Grandal,2,N,
+CHW,9/29/2020,1,547989,Jose Abreu,3,N,
+CHW,9/29/2020,1,650391,Eloy Jimenez,4,N,
+CHW,9/29/2020,1,660162,Yoan Moncada,5,N,
+CHW,9/29/2020,1,673357,Luis Robert,6,N,
+CHW,9/29/2020,1,543510,James McCann,7,N,
+CHW,9/29/2020,1,641553,Adam Engel,8,N,
+CHW,9/29/2020,1,663611,Nick Madrigal,9,N,
+CHW,9/29/2020,1,608337,Lucas Giolito,SP,N,
+OAK,9/29/2020,1,600303,Tommy La Stella,1,N,
+OAK,9/29/2020,1,543257,Robbie Grossman,2,N,
+OAK,9/29/2020,1,543760,Marcus Semien,3,N,
+OAK,9/29/2020,1,621566,Matt Olson,4,N,
+OAK,9/29/2020,1,592192,Mark Canha,5,N,
+OAK,9/29/2020,1,657656,Ramon Laureano,6,N,
+OAK,9/29/2020,1,571875,Jake Lamb,7,N,
+OAK,9/29/2020,1,572039,Stephen Piscotty,8,N,
+OAK,9/29/2020,1,669221,Sean Murphy,9,N,
+OAK,9/29/2020,1,666200,Jesus Luzardo,SP,N,
+TOR,9/29/2020,1,624415,Cavan Biggio,1,N,
+TOR,9/29/2020,1,666182,Bo Bichette,2,N,
+TOR,9/29/2020,1,665489,Vladimir Guerrero,3,N,
+TOR,9/29/2020,1,545341,Randal Grichuk,4,N,
+TOR,9/29/2020,1,666971,Lourdes Gurriel,5,N,
+TOR,9/29/2020,1,542340,Jonathan Villar,6,N,
+TOR,9/29/2020,1,641505,Jonathan Davis,7,N,
+TOR,9/29/2020,1,605412,Joe Panik,8,N,
+TOR,9/29/2020,1,643376,Danny Jansen,9,N,
+TOR,9/29/2020,1,533167,Matt Shoemaker,SP,N,
+TB,9/29/2020,1,660294,Yoshitomo Tsutsugo,1,N,
+TB,9/29/2020,1,668227,Randy Arozarena,2,N,
+TB,9/29/2020,1,664040,Brandon Lowe,3,N,
+TB,9/29/2020,1,670712,Mike Brosseau,4,N,
+TB,9/29/2020,1,663993,Nathaniel Lowe,5,N,
+TB,9/29/2020,1,622534,Manuel Margot,6,N,
+TB,9/29/2020,1,592669,Hunter Renfroe,7,N,
+TB,9/29/2020,1,642715,Willy Adames,8,N,
+TB,9/29/2020,1,605421,Michael Perez,9,N,
+TB,9/29/2020,1,605483,Blake Snell,SP,N,
+NYY,9/29/2020,1,518934,DJ LeMahieu,1,N,
+NYY,9/29/2020,1,592450,Aaron Judge,2,N,
+NYY,9/29/2020,1,543305,Aaron Hicks,3,N,
+NYY,9/29/2020,1,519317,Giancarlo Stanton,4,N,
+NYY,9/29/2020,1,572228,Luke Voit,5,N,
+NYY,9/29/2020,1,570482,Giovanny Urshela,6,N,
+NYY,9/29/2020,1,650402,Gleyber Torres,7,N,
+NYY,9/29/2020,1,596142,Gary Sanchez,8,N,
+NYY,9/29/2020,1,640449,Clint Frazier,9,N,
+NYY,9/29/2020,1,543037,Gerrit Cole,SP,N,
+CLE,9/29/2020,1,596019,Francisco Lindor,1,N,
+CLE,9/29/2020,1,514917,Cesar Hernandez,2,N,
+CLE,9/29/2020,1,608070,Jose Ramirez,3,N,
+CLE,9/29/2020,1,467793,Carlos Santana,4,N,
+CLE,9/29/2020,1,614177,Franmil Reyes,5,N,
+CLE,9/29/2020,1,571980,Tyler Naquin,6,N,
+CLE,9/29/2020,1,656669,Jordan Luplow,7,N,
+CLE,9/29/2020,1,547379,Roberto Perez,8,N,
+CLE,9/29/2020,1,592261,Delino DeShields,9,N,
+CLE,9/29/2020,1,669456,Shane Bieber,SP,N,
