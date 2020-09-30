@@ -1,14 +1,14 @@
 team code, game_date, game_number, mlb id, player name, batting order, confirmed, position
-CIN,9/30/2020,1,458015,Joey Votto,1,N,
-CIN,9/30/2020,1,592206,Nick Castellanos,2,N,
-CIN,9/30/2020,1,553993,Eugenio Suarez,3,N,
-CIN,9/30/2020,1,608385,Jesse Winker,4,N,
-CIN,9/30/2020,1,606157,Aristides Aquino,5,N,
-CIN,9/30/2020,1,592200,Curt Casali,6,N,
-CIN,9/30/2020,1,520471,Freddy Galvis,7,N,
-CIN,9/30/2020,1,676480,Jose Garcia,8,N,
-CIN,9/30/2020,1,571657,Kyle Farmer,9,N,
-CIN,9/30/2020,1,545333,Trevor Bauer,SP,N,
+CIN,9/30/2020,1,669222,Nick Senzel,1,Y,CF
+CIN,9/30/2020,1,592206,Nick Castellanos,2,Y,RF
+CIN,9/30/2020,1,458015,Joey Votto,3,Y,1B
+CIN,9/30/2020,1,553993,Eugenio Suarez,4,Y,3B
+CIN,9/30/2020,1,519058,Mike Moustakas,5,Y,2B
+CIN,9/30/2020,1,606157,Aristides Aquino,6,Y,LF
+CIN,9/30/2020,1,608385,Jesse Winker,7,Y,DH
+CIN,9/30/2020,1,571657,Kyle Farmer,8,Y,SS
+CIN,9/30/2020,1,592200,Curt Casali,9,Y,C
+CIN,9/30/2020,1,545333,Trevor Bauer,SP,Y,
 ATL,9/30/2020,1,660670,Ronald Acuna,1,N,
 ATL,9/30/2020,1,518692,Freddie Freeman,2,N,
 ATL,9/30/2020,1,542303,Marcell Ozuna,3,N,
