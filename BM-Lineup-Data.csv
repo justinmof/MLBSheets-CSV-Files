@@ -1,14 +1,14 @@
 team code, game_date, game_number, mlb id, player name, batting order, confirmed, position
-MIA,10/2/2020,1,500743,Miguel Rojas,1,N,
-MIA,10/2/2020,1,516782,Starling Marte,2,N,
-MIA,10/2/2020,1,542583,Jesus Aguilar,3,N,
-MIA,10/2/2020,1,605119,Brian Anderson,4,N,
-MIA,10/2/2020,1,643265,Garrett Cooper,5,N,
-MIA,10/2/2020,1,621446,Lewis Brinson,6,N,
-MIA,10/2/2020,1,656509,Monte Harrison,7,N,
-MIA,10/2/2020,1,595751,Jorge Alfaro,8,N,
-MIA,10/2/2020,1,665862,Jazz Chisholm,9,N,
-MIA,10/2/2020,1,641154,Pablo Lopez,SP,N,
+MIA,10/2/2020,1,572816,Corey Dickerson,1,Y,LF
+MIA,10/2/2020,1,542932,Jonathon Berti,2,Y,2B
+MIA,10/2/2020,1,542583,Jesus Aguilar,3,Y,DH
+MIA,10/2/2020,1,605119,Brian Anderson,4,Y,3B
+MIA,10/2/2020,1,643265,Garrett Cooper,5,Y,1B
+MIA,10/2/2020,1,459964,Matt Joyce,6,Y,RF
+MIA,10/2/2020,1,500743,Miguel Rojas,7,Y,SS
+MIA,10/2/2020,1,642423,Magneuris Sierra,8,Y,CF
+MIA,10/2/2020,1,595453,Chad Wallach,9,Y,C
+MIA,10/2/2020,1,641154,Pablo Lopez,SP,Y,
 CHC,10/2/2020,1,664023,Ian Happ,1,Y,CF
 CHC,10/2/2020,1,519203,Anthony Rizzo,2,Y,1B
 CHC,10/2/2020,1,575929,Willson Contreras,3,Y,DH
