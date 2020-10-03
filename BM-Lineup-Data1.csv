@@ -1,41 +1,28 @@
-team code, game_date, game_number, mlb id, player name, batting order, confirmed, position
-MIA,10/2/2020,1,572816,Corey Dickerson,1,Y,LF
-MIA,10/2/2020,1,542932,Jonathon Berti,2,Y,2B
-MIA,10/2/2020,1,542583,Jesus Aguilar,3,Y,DH
-MIA,10/2/2020,1,605119,Brian Anderson,4,Y,3B
-MIA,10/2/2020,1,643265,Garrett Cooper,5,Y,1B
-MIA,10/2/2020,1,459964,Matt Joyce,6,Y,RF
-MIA,10/2/2020,1,500743,Miguel Rojas,7,Y,SS
-MIA,10/2/2020,1,642423,Magneuris Sierra,8,Y,CF
-MIA,10/2/2020,1,595453,Chad Wallach,9,Y,C
-MIA,10/2/2020,1,664350,Sixto Sanchez,SP,Y,
-CHC,10/2/2020,1,664023,Ian Happ,1,Y,CF
-CHC,10/2/2020,1,519203,Anthony Rizzo,2,Y,1B
-CHC,10/2/2020,1,575929,Willson Contreras,3,Y,DH
-CHC,10/2/2020,1,656941,Kyle Schwarber,4,Y,LF
-CHC,10/2/2020,1,592178,Kris Bryant,5,Y,3B
-CHC,10/2/2020,1,518792,Jason Heyward,6,Y,RF
-CHC,10/2/2020,1,595879,Javier Baez,7,Y,SS
-CHC,10/2/2020,1,623520,David Bote,8,Y,2B
-CHC,10/2/2020,1,605170,Victor Caratini,9,Y,C
-CHC,10/2/2020,1,506433,Yu Darvish,SP,Y,
-STL,10/2/2020,1,543939,Kolten Wong,1,Y,2B
-STL,10/2/2020,1,669242,Tommy Edman,2,Y,3B
-STL,10/2/2020,1,502671,Paul Goldschmidt,3,Y,1B
-STL,10/2/2020,1,666185,Dylan Carlson,4,Y,LF
-STL,10/2/2020,1,425877,Yadier Molina,5,Y,C
-STL,10/2/2020,1,657557,Paul DeJong,6,Y,SS
-STL,10/2/2020,1,572761,Matt Carpenter,7,Y,DH
-STL,10/2/2020,1,451594,Dexter Fowler,8,Y,RF
-STL,10/2/2020,1,664056,Harrison Bader,9,Y,CF
-STL,10/2/2020,1,656427,Jack Flaherty,SP,Y,
-SD,10/2/2020,1,663757,Trent Grisham,1,Y,CF
-SD,10/2/2020,1,665487,Fernando Tatis,2,Y,SS
-SD,10/2/2020,1,592518,Manny Machado,3,Y,3B
-SD,10/2/2020,1,543333,Eric Hosmer,4,Y,1B
-SD,10/2/2020,1,502054,Thomas Pham,5,Y,LF
-SD,10/2/2020,1,519048,Mitch Moreland,6,Y,DH
-SD,10/2/2020,1,571976,Wil Myers,7,Y,RF
-SD,10/2/2020,1,543592,Austin Nola,8,Y,C
-SD,10/2/2020,1,630105,Jake Cronenworth,9,Y,2B
-SD,10/2/2020,1,489334,Craig Stammen,SP,Y,
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Error
+</title><link href="Styles/BaseballMonster.css" type="text/css" rel="stylesheet" /><link href="Styles/main.css" type="text/css" rel="stylesheet" /></head>
+<body>
+    <form method="post" action="./SystemError.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="3" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA1NDkzNTkwMg8WAh4TVmFsaWRhdGVS" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="ZXF1ZXN0TW9kZQIBZGQN6rciqoMC+Z0OFWtX+yZ5" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="IETez4qm4mLBL8Jm6Rl3gg==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="07ABA8FD" />
+</div>
+    <div>
+        <p><a href="default.aspx">Home</a></p>
+        <p class='error'>A system error has occurred.  The administrator has been alerted.  We apoligize for the inconvenience.</p>
+    </div>
+    </form>
+</body>
+</html>
