@@ -1,14 +1,14 @@
 team code, game_date, game_number, mlb id, player name, batting order, confirmed, position
-HOU,10/5/2020,1,543807,George Springer,1,N,
-HOU,10/5/2020,1,514888,Jose Altuve,2,N,
-HOU,10/5/2020,1,488726,Michael Brantley,3,N,
-HOU,10/5/2020,1,608324,Alex Bregman,4,N,
-HOU,10/5/2020,1,663656,Kyle Tucker,5,N,
-HOU,10/5/2020,1,493329,Yulieski Gurriel,6,N,
-HOU,10/5/2020,1,621043,Carlos Correa,7,N,
-HOU,10/5/2020,1,502210,Josh Reddick,8,N,
-HOU,10/5/2020,1,455117,Martin Maldonado,9,N,
-HOU,10/5/2020,1,621121,Lance McCullers,SP,N,
+HOU,10/5/2020,1,543807,George Springer,1,Y,CF
+HOU,10/5/2020,1,514888,Jose Altuve,2,Y,2B
+HOU,10/5/2020,1,488726,Michael Brantley,3,Y,LF
+HOU,10/5/2020,1,608324,Alex Bregman,4,Y,3B
+HOU,10/5/2020,1,663656,Kyle Tucker,5,Y,RF
+HOU,10/5/2020,1,621043,Carlos Correa,6,Y,SS
+HOU,10/5/2020,1,493329,Yulieski Gurriel,7,Y,1B
+HOU,10/5/2020,1,502210,Josh Reddick,8,Y,DH
+HOU,10/5/2020,1,455117,Martin Maldonado,9,Y,C
+HOU,10/5/2020,1,621121,Lance McCullers,SP,Y,
 OAK,10/5/2020,1,600303,Tommy La Stella,1,Y,2B
 OAK,10/5/2020,1,543760,Marcus Semien,2,Y,SS
 OAK,10/5/2020,1,571875,Jake Lamb,3,Y,3B
