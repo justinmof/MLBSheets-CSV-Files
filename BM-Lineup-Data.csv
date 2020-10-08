@@ -1,14 +1,14 @@
 team code, game_date, game_number, mlb id, player name, batting order, confirmed, position
-ATL,10/8/2020,1,660670,Ronald Acuna,1,N,
-ATL,10/8/2020,1,518692,Freddie Freeman,2,N,
-ATL,10/8/2020,1,542303,Marcell Ozuna,3,N,
-ATL,10/8/2020,1,518595,Travis d'Arnaud,4,N,
-ATL,10/8/2020,1,645277,Ozzie Albies,5,N,
-ATL,10/8/2020,1,621020,Dansby Swanson,6,N,
-ATL,10/8/2020,1,594807,Adam Duvall,7,N,
-ATL,10/8/2020,1,455976,Nick Markakis,8,N,
-ATL,10/8/2020,1,663586,Austin Riley,9,N,
-ATL,10/8/2020,1,657140,Kyle Wright,SP,N,
+ATL,10/8/2020,1,660670,Ronald Acuna,1,Y,CF
+ATL,10/8/2020,1,518692,Freddie Freeman,2,Y,1B
+ATL,10/8/2020,1,542303,Marcell Ozuna,3,Y,DH
+ATL,10/8/2020,1,518595,Travis d'Arnaud,4,Y,C
+ATL,10/8/2020,1,645277,Ozzie Albies,5,Y,2B
+ATL,10/8/2020,1,621020,Dansby Swanson,6,Y,SS
+ATL,10/8/2020,1,594807,Adam Duvall,7,Y,LF
+ATL,10/8/2020,1,455976,Nick Markakis,8,Y,RF
+ATL,10/8/2020,1,663586,Austin Riley,9,Y,3B
+ATL,10/8/2020,1,657140,Kyle Wright,SP,Y,
 MIA,10/8/2020,1,542932,Jonathon Berti,1,Y,RF
 MIA,10/8/2020,1,572816,Corey Dickerson,2,Y,LF
 MIA,10/8/2020,1,542583,Jesus Aguilar,3,Y,1B
