@@ -1,41 +1,28 @@
-team code, game_date, game_number, mlb id, player name, batting order, confirmed, position
-HOU,10/16/2020,1,543807,George Springer,1,Y,CF
-HOU,10/16/2020,1,514888,Jose Altuve,2,Y,2B
-HOU,10/16/2020,1,488726,Michael Brantley,3,Y,DH
-HOU,10/16/2020,1,621043,Carlos Correa,4,Y,SS
-HOU,10/16/2020,1,608324,Alex Bregman,5,Y,3B
-HOU,10/16/2020,1,663656,Kyle Tucker,6,Y,RF
-HOU,10/16/2020,1,493329,Yulieski Gurriel,7,Y,1B
-HOU,10/16/2020,1,649557,Aledmys Diaz,8,Y,LF
-HOU,10/16/2020,1,455117,Martin Maldonado,9,Y,C
-HOU,10/16/2020,1,664285,Framber Valdez,SP,Y,
-TB,10/16/2020,1,670712,Mike Brosseau,1,Y,2B
-TB,10/16/2020,1,668227,Randy Arozarena,2,Y,DH
-TB,10/16/2020,1,592669,Hunter Renfroe,3,Y,RF
-TB,10/16/2020,1,650490,Yandy Diaz,4,Y,1B
-TB,10/16/2020,1,664040,Brandon Lowe,5,Y,LF
-TB,10/16/2020,1,622534,Manuel Margot,6,Y,CF
-TB,10/16/2020,1,642715,Willy Adames,7,Y,SS
-TB,10/16/2020,1,621563,Joseph Wendle,8,Y,3B
-TB,10/16/2020,1,572287,Mike Zunino,9,Y,C
-TB,10/16/2020,1,605483,Blake Snell,SP,Y,
-LAD,10/16/2020,1,605141,Mookie Betts,1,N,
-LAD,10/16/2020,1,608369,Corey Seager,2,N,
-LAD,10/16/2020,1,457759,Justin Turner,3,N,
-LAD,10/16/2020,1,571970,Max Muncy,4,N,
-LAD,10/16/2020,1,669257,Will Smith,5,N,
-LAD,10/16/2020,1,641355,Cody Bellinger,6,N,
-LAD,10/16/2020,1,621035,Chris Taylor,7,N,
-LAD,10/16/2020,1,572041,AJ Pollock,8,N,
-LAD,10/16/2020,1,605131,Austin Barnes,9,N,
-LAD,10/16/2020,1,669160,Dustin May,SP,N,
-ATL,10/16/2020,1,660670,Ronald Acuna,1,Y,RF
-ATL,10/16/2020,1,518692,Freddie Freeman,2,Y,1B
-ATL,10/16/2020,1,542303,Marcell Ozuna,3,Y,DH
-ATL,10/16/2020,1,518595,Travis d'Arnaud,4,Y,C
-ATL,10/16/2020,1,645277,Ozzie Albies,5,Y,2B
-ATL,10/16/2020,1,621020,Dansby Swanson,6,Y,SS
-ATL,10/16/2020,1,663586,Austin Riley,7,Y,3B
-ATL,10/16/2020,1,455976,Nick Markakis,8,Y,LF
-ATL,10/16/2020,1,665506,Cristian Pache,9,Y,CF
-ATL,10/16/2020,1,458708,Josh Tomlin,SP,Y,
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Error
+</title><link href="Styles/BaseballMonster.css" type="text/css" rel="stylesheet" /><link href="Styles/main.css" type="text/css" rel="stylesheet" /></head>
+<body>
+    <form method="post" action="./SystemError.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="3" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA1NDkzNTkwMg8WAh4TVmFsaWRhdGVS" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="ZXF1ZXN0TW9kZQIBZGQN6rciqoMC+Z0OFWtX+yZ5" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="IETez4qm4mLBL8Jm6Rl3gg==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="07ABA8FD" />
+</div>
+    <div>
+        <p><a href="default.aspx">Home</a></p>
+        <p class='error'>A system error has occurred.  The administrator has been alerted.  We apoligize for the inconvenience.</p>
+    </div>
+    </form>
+</body>
+</html>
