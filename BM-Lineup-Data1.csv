@@ -1,14 +1,14 @@
 team code, game_date, game_number, mlb id, player name, batting order, confirmed, position
-ATL,10/18/2020,1,660670,Ronald Acuna,1,N,
-ATL,10/18/2020,1,518692,Freddie Freeman,2,N,
-ATL,10/18/2020,1,542303,Marcell Ozuna,3,N,
-ATL,10/18/2020,1,518595,Travis d'Arnaud,4,N,
-ATL,10/18/2020,1,645277,Ozzie Albies,5,N,
-ATL,10/18/2020,1,621020,Dansby Swanson,6,N,
-ATL,10/18/2020,1,663586,Austin Riley,7,N,
-ATL,10/18/2020,1,455976,Nick Markakis,8,N,
-ATL,10/18/2020,1,665506,Cristian Pache,9,N,
-ATL,10/18/2020,1,666120,Ian Anderson,SP,N,
+ATL,10/18/2020,1,660670,Ronald Acuna,1,Y,RF
+ATL,10/18/2020,1,518692,Freddie Freeman,2,Y,1B
+ATL,10/18/2020,1,542303,Marcell Ozuna,3,Y,DH
+ATL,10/18/2020,1,518595,Travis d'Arnaud,4,Y,C
+ATL,10/18/2020,1,645277,Ozzie Albies,5,Y,2B
+ATL,10/18/2020,1,621020,Dansby Swanson,6,Y,SS
+ATL,10/18/2020,1,663586,Austin Riley,7,Y,3B
+ATL,10/18/2020,1,455976,Nick Markakis,8,Y,LF
+ATL,10/18/2020,1,665506,Cristian Pache,9,Y,CF
+ATL,10/18/2020,1,666120,Ian Anderson,SP,Y,
 LAD,10/18/2020,1,605141,Mookie Betts,1,Y,RF
 LAD,10/18/2020,1,608369,Corey Seager,2,Y,SS
 LAD,10/18/2020,1,457759,Justin Turner,3,Y,3B
