@@ -1,21 +1,28 @@
-team code, game_date, game_number, mlb id, player name, batting order, confirmed, position
-TB,10/21/2020,1,670712,Mike Brosseau,1,N,
-TB,10/21/2020,1,668227,Randy Arozarena,2,N,
-TB,10/21/2020,1,592669,Hunter Renfroe,3,N,
-TB,10/21/2020,1,650490,Yandy Diaz,4,N,
-TB,10/21/2020,1,664040,Brandon Lowe,5,N,
-TB,10/21/2020,1,622534,Manuel Margot,6,N,
-TB,10/21/2020,1,642715,Willy Adames,7,N,
-TB,10/21/2020,1,621563,Joseph Wendle,8,N,
-TB,10/21/2020,1,572287,Mike Zunino,9,N,
-TB,10/21/2020,1,605483,Blake Snell,SP,N,
-LAD,10/21/2020,1,605141,Mookie Betts,1,N,
-LAD,10/21/2020,1,608369,Corey Seager,2,N,
-LAD,10/21/2020,1,457759,Justin Turner,3,N,
-LAD,10/21/2020,1,571970,Max Muncy,4,N,
-LAD,10/21/2020,1,669257,Will Smith,5,N,
-LAD,10/21/2020,1,641355,Cody Bellinger,6,N,
-LAD,10/21/2020,1,572041,AJ Pollock,7,N,
-LAD,10/21/2020,1,592626,Joc Pederson,8,N,
-LAD,10/21/2020,1,621035,Chris Taylor,9,N,
-LAD,10/21/2020,1,628711,Julio Urias,SP,N,
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Error
+</title><link href="Styles/BaseballMonster.css" type="text/css" rel="stylesheet" /><link href="Styles/main.css" type="text/css" rel="stylesheet" /></head>
+<body>
+    <form method="post" action="./SystemError.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="3" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA1NDkzNTkwMg8WAh4TVmFsaWRhdGVS" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="ZXF1ZXN0TW9kZQIBZGQN6rciqoMC+Z0OFWtX+yZ5" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="IETez4qm4mLBL8Jm6Rl3gg==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="07ABA8FD" />
+</div>
+    <div>
+        <p><a href="default.aspx">Home</a></p>
+        <p class='error'>A system error has occurred.  The administrator has been alerted.  We apoligize for the inconvenience.</p>
+    </div>
+    </form>
+</body>
+</html>
