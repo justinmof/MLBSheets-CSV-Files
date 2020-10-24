@@ -1,14 +1,14 @@
 team code, game_date, game_number, mlb id, player name, batting order, confirmed, position
-LAD,10/24/2020,1,605141,Mookie Betts,1,N,
-LAD,10/24/2020,1,608369,Corey Seager,2,N,
-LAD,10/24/2020,1,457759,Justin Turner,3,N,
-LAD,10/24/2020,1,571970,Max Muncy,4,N,
-LAD,10/24/2020,1,669257,Will Smith,5,N,
-LAD,10/24/2020,1,641355,Cody Bellinger,6,N,
-LAD,10/24/2020,1,572041,AJ Pollock,7,N,
-LAD,10/24/2020,1,592626,Joc Pederson,8,N,
-LAD,10/24/2020,1,621035,Chris Taylor,9,N,
-LAD,10/24/2020,1,628711,Julio Urias,SP,N,
+LAD,10/24/2020,1,605141,Mookie Betts,1,Y,RF
+LAD,10/24/2020,1,608369,Corey Seager,2,Y,SS
+LAD,10/24/2020,1,457759,Justin Turner,3,Y,3B
+LAD,10/24/2020,1,571970,Max Muncy,4,Y,1B
+LAD,10/24/2020,1,669257,Will Smith,5,Y,C
+LAD,10/24/2020,1,641355,Cody Bellinger,6,Y,CF
+LAD,10/24/2020,1,572041,AJ Pollock,7,Y,DH
+LAD,10/24/2020,1,621035,Chris Taylor,8,Y,LF
+LAD,10/24/2020,1,571771,Kike Hernandez,9,Y,2B
+LAD,10/24/2020,1,628711,Julio Urias,SP,Y,
 TB,10/24/2020,1,650490,Yandy Diaz,1,Y,1B
 TB,10/24/2020,1,668227,Randy Arozarena,2,Y,DH
 TB,10/24/2020,1,670712,Mike Brosseau,3,Y,3B
